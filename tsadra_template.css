@@ -1,0 +1,537 @@
+@font-face {
+    font-family: "Monlam Uni OuChan2";
+    font-style: normal;
+    font-weight: normal;
+    src: url(MonlamUniOuChan2.ttf)
+    }
+._idgenobjectattribute {
+    height: 718px;
+    width: 461px
+    }
+._idgenobjectstyleoverride {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    margin: 0;
+    padding: 0
+    }
+.calibre {
+    -epub-hyphens: auto;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-size: 0.75em;
+    margin: 0 5pt;
+    padding: 0
+    }
+.calibre1 {
+    display: block;
+    font-size: 0.75em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre2 {
+    display: block;
+    text-align: center
+    }
+.calibre3 {
+    height: auto;
+    max-width: 100%;
+    width: auto
+    }
+.calibre4 {
+    display: block;
+    font-size: 1.88889em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.calibre5 {
+    display: block;
+    list-style-type: decimal;
+    margin: 1em 0
+    }
+.calibre6 {
+    display: list-item
+    }
+.charoverride {
+    color: #343233;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: uppercase
+    }
+.credits-page_front-page---text-author {
+    -epub-hyphens: none;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #343233;
+    display: block;
+    font-family: "Tibetan Machine Uni", serif;
+    font-size: 1.88889em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.5;
+    orphans: 1;
+    page-break-after: always;
+    page-break-before: auto;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1;
+    margin: 0 0 20px;
+    padding: 0
+    }
+.credits-page_front-title {
+    -epub-hyphens: none;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #343233;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.88889em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.5;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1;
+    margin: 60px 0 40px;
+    padding: 0
+    }
+.front-page---text-titles {
+    color: #343233;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 0.52941em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none
+    }
+.front-title {
+    color: #343233;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none
+    }
+.partners-line {
+    color: #343233;
+    font-family: Georgia, serif;
+    font-size: 0.41176em;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none
+    }
+.tibetan-book-title {
+    -epub-hyphens: none;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #343233;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.88889em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: always;
+    page-break-before: auto;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1;
+    margin: 0 0 27px;
+    padding: 0
+    }
+.tibetan-chapter {
+    -epub-hyphens: none;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #343233;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.88889em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.5;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 0 0 27px;
+    padding: 0
+    }
+.tibetan-commentary-small {
+    color: #343233;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none
+    }
+.tibetan-commentary-non-indent {
+    -epub-hyphens: none;
+    -epub-text-align-last: left;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #343233;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 0;
+    padding: 0
+    }
+.tibetan-external-citations {
+    color: #897335;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: uppercase
+    }
+.tibetan-footnote-reference {
+    color: #343233;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none
+    }
+.tibetan-regular-indented {
+    -epub-hyphens: none;
+    -epub-text-align-last: left;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #343233;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 24px;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 0;
+    padding: 0
+    }
+.tibetan-citations-in-verse_tibetan-citations-first-line {
+    -epub-hyphens: none;
+    -epub-text-align-last: left;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #897335;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 14px 0 0 48px;
+    padding: 0
+    }
+.tibetan-citations-in-verse_tibetan-citations-first-line-alone {
+    -epub-hyphens: none;
+    -epub-text-align-last: left;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #897335;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 14px 0 14px 48px;
+    padding: 0
+    }
+.tibetan-citations-in-verse_tibetan-citations-last-line {
+    -epub-hyphens: none;
+    -epub-text-align-last: left;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #897335;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 0 0 14px 48px;
+    padding: 0
+    }
+.tibetan-citations-in-verse_tibetan-citations-middle-lines {
+    -epub-hyphens: none;
+    -epub-text-align-last: left;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #897335;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 0 0 0 48px;
+    padding: 0
+    }
+.tibetan-root-text {
+    color: #8b1409;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: uppercase
+    }
+.tibetan-root-text_tibetan-root-text-first-line {
+    -epub-hyphens: none;
+    -epub-text-align-last: left;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #8b1409;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 14px 48px 0;
+    padding: 0
+    }
+.tibetan-root-text_tibetan-root-text-first-line-alone {
+    -epub-hyphens: none;
+    -epub-text-align-last: left;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #8b1409;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 14px 48px;
+    padding: 0
+    }
+.tibetan-root-text_tibetan-root-text-last-line {
+    -epub-hyphens: none;
+    -epub-text-align-last: left;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #8b1409;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 0 48px 14px;
+    padding: 0
+    }
+.tibetan-root-text_tibetan-root-text-middle-lines {
+    -epub-hyphens: none;
+    -epub-text-align-last: left;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #8b1409;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 0 48px;
+    padding: 0
+    }
+.tibetan-sabche {
+    -epub-hyphens: none;
+    -epub-text-align-last: left;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #005e7f;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1;
+    margin: 23px 0 0;
+    padding: 0
+    }
+.tibetan-sabche1 {
+    color: #005e7f;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: uppercase
+    }
