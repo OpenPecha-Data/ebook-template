@@ -119,36 +119,6 @@
     margin: 60px 0 40px;
     padding: 0
     }
-.front-page---text-titles {
-    color: #343233;
-    font-family: "Monlam Uni OuChan2", sans-serif;
-    font-size: 0.52941em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    text-decoration: none;
-    text-transform: none
-    }
-.front-title {
-    color: #343233;
-    font-family: "Monlam Uni OuChan2", sans-serif;
-    font-size: 1em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    text-decoration: none;
-    text-transform: none
-    }
-.partners-line {
-    color: #343233;
-    font-family: Georgia, serif;
-    font-size: 0.41176em;
-    font-style: normal;
-    font-variant: small-caps;
-    font-weight: normal;
-    text-decoration: none;
-    text-transform: none
-    }
 .tibetan-book-title {
     -epub-hyphens: none;
     border-bottom-width: 0;
