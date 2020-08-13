@@ -119,6 +119,16 @@
     margin: 60px 0 40px;
     padding: 0
     }
+.front-title {
+    color: #343233;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none
+    }
 .tibetan-book-title {
     -epub-hyphens: none;
     border-bottom-width: 0;
