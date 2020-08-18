@@ -142,7 +142,7 @@ body {
     text-indent: 0;
     text-transform: none;
     widows: 1;
-    margin: 60px 0 40px;
+    margin: 40px 0 20px;
     padding: 0
     }
 .front-title {
@@ -189,7 +189,7 @@ body {
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2", sans-serif;
-    font-size: 1.88889em;
+    font-size: 1.5em;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
