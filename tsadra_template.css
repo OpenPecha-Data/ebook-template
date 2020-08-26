@@ -22,7 +22,7 @@ body {
     orphans: 1;
     page-break-after: auto;
     page-break-before: auto;
-    text-align: justify;
+    text-align: justify, center;
     text-decoration: none;
     text-indent: 24px;
     text-transform: uppercase;
