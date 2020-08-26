@@ -170,14 +170,14 @@ body {
     font-weight: normal;
     line-height: 1.8;
     orphans: 1;
-    page-break-after: always;
+    page-break-after: auto;
     page-break-before: auto;
     text-align: center;
     text-decoration: none;
     text-indent: 0;
-    text-transform: none;
+    text-transform: uppercase;
     widows: 1;
-    margin: 0 0 27px;
+    margin: 0 0 23px;
     padding: 0
     }
 .tibetan-chapter {
