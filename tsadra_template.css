@@ -120,6 +120,16 @@ body {
     margin: 0 0 20px;
     padding: 0
     }
+.front-page---text-titles {
+    color: #343233;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 0.52941em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: uppercase
+    }
 .credits-page_front-title {
     -epub-hyphens: none;
     border-bottom-width: 0;
