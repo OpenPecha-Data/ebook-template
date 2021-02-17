@@ -1,0 +1,3513 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="5248f50e-dce2-4703-a91c-f4962c438585" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.10.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>ཐོས་པའི་རིམ་པར་ཕྱེ་བ།</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="u6F9xqlxunLXzREx4LS5S9D" playOrder="1">
+      <navLabel>
+        <text>སྐབས་དང་པོ་ལ་གསུམ། དགོས་པ་དང་འབྲེལ་བར་མཚམས་སྦྱར། ཐོས་པ་འཚོལ་བའི་ཚུལ་གསུམ་བཤད། གཞུང་དངོས་ལ་འཇུག་པའོ། །དང་པོ་༼དགོས་པ་དང་འབྲེལ་བར་མཚམས་སྦྱར་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint class="chapter" id="uF9DJfNCjwt2uoajgZhtjCF" playOrder="2">
+      <navLabel>
+        <text>གཉིས་པ་ཐོས་པ་འཚོལ་བའི་ཚུལ་གསུམ་བྱང་ས་ལྟར་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint class="chapter" id="ufsP9nN7uZoatIh3EvTIS95" playOrder="3">
+      <navLabel>
+        <text>གསུམ་པ་གཞུང་དོན་དངོས་བཤད་པ་ལ་གསུམ། ཤེས་བྱའི་གཞི་མ་ཡི་གེའི་སྦྱོར་བ། ཐུན་མོང་རིག་པའི་གནས་ཡན་ལག་དང་བཅས་པ། ཚུར་མཐོང་འཇིག་རྟེན་པའི་ལམ་བཤད་པའོ། །དང་པོ་༼ཤེས་བྱའི་གཞི་མ་ཡི་གེའི་སྦྱོར་བ་༽ལ་གཉིས། རང་བཞིན་ངོས་བཟུང༌། མཚན་ཉིད་ཞིབ་མོར་བཤད་པའོ། །དང་པོ་༼རང་བཞིན་ངོས་བཟུང་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint class="chapter" id="uoxbi999H5MbntedO8VhdV8" playOrder="4">
+      <navLabel>
+        <text>གཉིས་པ་མཚན་ཉིད་ཞིབ་པར་བཤད་པ་ལ་བདུན། ངོ་བོ། ངེས་ཚིག རྣམ་པ། དབྱེ་བ། སྦྱོར་ཚུལ། བཀླག་ཐབས། འཇུག་པའི་གནས་བརྒྱད་བཤད་པའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint class="chapter" id="uWonTSSpEQGcj3XCe8m2yt6" playOrder="5">
+      <navLabel>
+        <text>གཉིས་པ་༼ངེས་ཚིག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint class="chapter" id="u7zmkwDs7dU6kwwVjXKdwXD" playOrder="6">
+      <navLabel>
+        <text>གསུམ་པ་༼རྣམ་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint class="chapter" id="uGcGuB2pWSj74CJuhrcq7SD" playOrder="7">
+      <navLabel>
+        <text>བཞི་པ་༼དབྱེ་བ་༽ལ་གཉིས། ལེགས་སྦྱར་གྱི་ལུགས། བོད་སྐད་ཀྱི་ལུགས་སོ། །དང་པོ་༼ལེགས་སྦྱར་གྱི་ལུགས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint class="chapter" id="udj74wKWBC6eUYPpHMdn2J3" playOrder="8">
+      <navLabel>
+        <text>གཉིས་པ་༼བོད་སྐད་ཀྱི་ལུགས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint class="chapter" id="uciH6qyhdaM6N9QpRozfOlF" playOrder="9">
+      <navLabel>
+        <text>ལྔ་པ་༼སྦྱོར་ཚུལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint class="chapter" id="u55QD4vWN3A732GUKrkGkf6" playOrder="10">
+      <navLabel>
+        <text>དྲུག་པ་༼བཀླག་ཐབས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint class="chapter" id="uLqKPhJp68V7UEH5fdAcAGF" playOrder="11">
+      <navLabel>
+        <text>བདུན་པ་༼འཇུག་པའི་གནས་བརྒྱད་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint class="chapter" id="umcgJDGgTSlqDgay3TvG3P2" playOrder="12">
+      <navLabel>
+        <text>གཉིས་པ་ཐུན་མོང་གི་རིག་པའི་གནས་རྣམས་བཤད་པ་ལ་གཉིས། དགོས་འབྲེལ་གྱིས་མཚམས་སྦྱར་བ། རིག་གནས་དངོས་བཤད་པའོ། །དང་པོ་༼དགོས་འབྲེལ་གྱིས་མཚམས་སྦྱར་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint class="chapter" id="uvvtJqfnMsOMC8eGO3Wwpo3" playOrder="13">
+      <navLabel>
+        <text>གཉིས་པ་རིག་གནས་དངོས་བཤད་པ་ལ་གཉིས། རིག་ལམ་ཆེ་བ་དང༌། ཆུང་བའོ། །དང་པོ་༼རིག་ལམ་ཆེ་བ་༽ལ་བཞི། སྒྲ། ཚད་མ། བཟོ། གསོ་བ་རིག་པའོ། །དང་པོ་༼སྒྲ་༽ལ་གསུམ། མདོར་བསྟན། རྒྱས་བཤད། དོན་བསྡུའོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint class="chapter" id="uHYvlDL7bLOkCXS3usUA3y5" playOrder="14">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་གསུམ། རང་བཞིན། རྐྱེན། རྣམ་འགྱུར་རྣམས་སོ་སོར་བཤད་པའོ། །དེའི་དང་པོ་༼རང་བཞིན་༽ལའང་གཉིས། བྱིངས་ཀྱི་རང་བཞིན། མིང་གི་རང་བཞིན་ནོ། །དང་པོ་༼བྱིངས་ཀྱི་རང་བཞིན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint class="chapter" id="uRLJFKGrYDJAPPsTHHUqUs2" playOrder="15">
+      <navLabel>
+        <text>གཉིས་པ་༼མིང་གི་རང་བཞིན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint class="chapter" id="umJmA9oT38mpJBoknlajw89" playOrder="16">
+      <navLabel>
+        <text>གཉིས་པ་༼རྐྱེན་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint class="chapter" id="uTM2wwEOqlQ3XUwGRUGwwL7" playOrder="17">
+      <navLabel>
+        <text>གསུམ་པ་༼རྣམ་འགྱུར་རྣམས་སོ་སོར་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint class="chapter" id="ulnJbvOG7w2Evciafgks57D" playOrder="18">
+      <navLabel>
+        <text>རྣམ་འགྱུར་གཉིས་པ་ཚིག་སྡུད་ལ་བརྟེན་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint class="chapter" id="uoNZ2QzYXXZEXrviwwvih42" playOrder="19">
+      <navLabel>
+        <text>གསུམ་པ་དོན་བསྡུ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint class="chapter" id="uuapVhKcvnavynJkNDTNrVE" playOrder="20">
+      <navLabel>
+        <text>གཉིས་པ་ཚད་མའམ་གཏན་ཚིགས་རིག་པ་བཤད་པ་ལ་གཉིས། དགོས་འབྲེལ་གྱིས་མཚམས་སྦྱར། རིག་ལམ་དངོས་བཤད་པའོ། །དང་པོ་༼དགོས་འབྲེལ་གྱིས་མཚམས་སྦྱར་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint class="chapter" id="uEeqoZHX9qbjhayL6i3Wl7G" playOrder="21">
+      <navLabel>
+        <text>གཉིས་པ་༼རིག་ལམ་དངོས་བཤད་པ་༽ལ་གསུམ། བསྡུས་པ་རྒྱས་པར་བཤད་པ། དེ་རྟོག་གེའི་ཚིག་དོན་བརྒྱད་དང་གནས་གསུམ་དུ་བསྡུ་བ། དེ་དག་གི་སྙིང་པོ་ཚུལ་ལྔར་བསྡུ་བའོ། །དང་པོ་༼བསྡུས་པ་རྒྱས་པར་བཤད་པ་༽ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint class="chapter" id="uuMeLyHOzXvgHOIZqeLMiC7" playOrder="22">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་བཞི། ཡུལ། ཡུལ་ཅན། རྟོགས་བྱེད་རྒྱས་པར་བཤད། ལུགས་སྲོལ་གཞན་ཞར་བྱུང་སྨོས་པའོ། །དང་པོ་༼ཡུལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint class="chapter" id="uqzMZlT8dRqNXBE54gjU6I8" playOrder="23">
+      <navLabel>
+        <text>ཡུལ་ལ་ངོ་བོའི་སྒོ་ནས་དབྱེ་ན་དངོས་པོ་དང་དངོས་མེད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint class="chapter" id="u2Q6qbM2YLwz66fpJuOfDl2" playOrder="24">
+      <navLabel>
+        <text>ཡུལ་ལ་ཡུལ་དུ་བྱེད་ཚུལ་མི་འདྲ་བའི་སྒོ་ནས་དབྱེ་ན།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint class="chapter" id="u854ZzAqX8lpNUTDKPE6LmD" playOrder="25">
+      <navLabel>
+        <text>གཞལ་བྱ་ལ་རྟོགས་ཚུལ་གྱི་སྒོ་ནས་དབྱེ་ན།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint class="chapter" id="ubVFFtvgsWRISkslyl8e4W5" playOrder="26">
+      <navLabel>
+        <text>གཉིས་པ་༼ཡུལ་ཅན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint class="chapter" id="ubyYLjfLdfGyP8zzYJBrkjG" playOrder="27">
+      <navLabel>
+        <text>རྗོད་བྱེད་ལ་ངོ་བོའི་སྒོ་ནས་དབྱེ་ན།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint class="chapter" id="ujbJbZcueqwsS3TVyI2bah7" playOrder="28">
+      <navLabel>
+        <text>རྗོད་བྱེད་ལ་བརྗོད་བྱའི་སྒོ་ནས་དབྱེ་ན།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint class="chapter" id="u6zVjAtUDqPAluy5NEd3Cy7" playOrder="29">
+      <navLabel>
+        <text>བརྗོད་བྱ་ལ་བརྗོད་ཚུལ་གྱི་སྒོ་ནས་དབྱེ་ན།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint class="chapter" id="urwQNwqJjQEhNHLfVGesDm6" playOrder="30">
+      <navLabel>
+        <text>རྗོད་བྱེད་ལ་རྣམ་གཅོད་ཀྱི་སྒོ་ནས་དབྱེ་ན།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint class="chapter" id="u3J6CPuDalTEjTALbNbw3q6" playOrder="31">
+      <navLabel>
+        <text>རྗོད་བྱེད་ལ་འཆད་དུས་ཀྱི་སྒོ་ནས་དབྱེ་ན།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-31"/>
+    </navPoint>
+    <navPoint class="chapter" id="uv78FM6LF8BwQ5S5QmqRDhG" playOrder="32">
+      <navLabel>
+        <text>གང་ཟག་གི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-32"/>
+    </navPoint>
+    <navPoint class="chapter" id="u3jObGTarwSJb34qYPhQr77" playOrder="33">
+      <navLabel>
+        <text>དང་པོ་༼དབང་པོའི་མངོན་སུམ་གྱི་༽མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-33"/>
+    </navPoint>
+    <navPoint class="chapter" id="ukVEYDKdmCTStM8zET8q7k4" playOrder="34">
+      <navLabel>
+        <text>གཉིས་པ་༼ཡིད་ཀྱི་མངོན་སུམ་གྱི་༽མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-34"/>
+    </navPoint>
+    <navPoint class="chapter" id="unNCbmGfVKOWIHm5AyVlCz5" playOrder="35">
+      <navLabel>
+        <text>གསུམ་པ་༼རང་རིག་མངོན་སུམ་གྱི་༽མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-35"/>
+    </navPoint>
+    <navPoint class="chapter" id="umSqN7vnzACeppzcuZeeu43" playOrder="36">
+      <navLabel>
+        <text>བཞི་པ་༼རྣལ་འབྱོར་མངོན་སུམ་གྱི་༽མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-36"/>
+    </navPoint>
+    <navPoint class="chapter" id="ur3BvNKYYReGF9VcASPNuSA" playOrder="37">
+      <navLabel>
+        <text>རྗེས་དཔག་ཚད་མའི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-37"/>
+    </navPoint>
+    <navPoint class="chapter" id="uFDcTOSGQJawERxWxwzUd38" playOrder="38">
+      <navLabel>
+        <text>དངོས་པོ་སྟོབས་ཞུགས་ཀྱི་རྗེས་དཔག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-38"/>
+    </navPoint>
+    <navPoint class="chapter" id="uesRCrlJCQeTW2g6guFYl88" playOrder="39">
+      <navLabel>
+        <text>གྲགས་པའི་རྗེས་དཔག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-39"/>
+    </navPoint>
+    <navPoint class="chapter" id="u3UoWh6bso6qyOCIf4AYgY2" playOrder="40">
+      <navLabel>
+        <text>ཡིད་ཆེས་རྗེས་དཔག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-40"/>
+    </navPoint>
+    <navPoint class="chapter" id="utrETkzQWGxYjYkYhXtvkdB" playOrder="41">
+      <navLabel>
+        <text>གསུམ་པ་༼རྟོགས་བྱེད་རྒྱས་པར་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-41"/>
+    </navPoint>
+    <navPoint class="chapter" id="uNzgNwaNHwuql5UikMYeBi5" playOrder="42">
+      <navLabel>
+        <text>དགག་པའི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-42"/>
+    </navPoint>
+    <navPoint class="chapter" id="uiLbFdGsdfoxzK8wkFq2wpB" playOrder="43">
+      <navLabel>
+        <text>སྒྲུབ་པའི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-43"/>
+    </navPoint>
+    <navPoint class="chapter" id="u5jKfuOQKUwVoWaRtbQ7HzC" playOrder="44">
+      <navLabel>
+        <text>སྤྱིའི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-44"/>
+    </navPoint>
+    <navPoint class="chapter" id="uR9DT5kwkVxvnMLDzak6f47" playOrder="45">
+      <navLabel>
+        <text>བྱེ་བྲག་གི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-45"/>
+    </navPoint>
+    <navPoint class="chapter" id="ut7HmIxvcDjizls8R4OMiV7" playOrder="46">
+      <navLabel>
+        <text>གཅིག་གི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-46"/>
+    </navPoint>
+    <navPoint class="chapter" id="uopcT5rBMt3IEmgXBoPM3aC" playOrder="47">
+      <navLabel>
+        <text>སེལ་འཇུག་གི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-47"/>
+    </navPoint>
+    <navPoint class="chapter" id="uvrhaZoCPAnyASxkfRgDr23" playOrder="48">
+      <navLabel>
+        <text>སྒྲུབ་འཇུག་གི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-48"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZEkKpH3qfeMQ6SoNegh3k7" playOrder="49">
+      <navLabel>
+        <text>གཞན་སེལ་གྱི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-49"/>
+    </navPoint>
+    <navPoint class="chapter" id="uyVSCdP9EDMR7KHTxoiXSXE" playOrder="50">
+      <navLabel>
+        <text>མཚན་ཉིད་ཀྱི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-50"/>
+    </navPoint>
+    <navPoint class="chapter" id="uGmlLQC3o6HdBN92pzNoBSH" playOrder="51">
+      <navLabel>
+        <text>མཚོན་བྱའི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-51"/>
+    </navPoint>
+    <navPoint class="chapter" id="uo8wIrV9RAnCCZIrnav23qA" playOrder="52">
+      <navLabel>
+        <text>རྫས་ཆོས་ཀྱི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-52"/>
+    </navPoint>
+    <navPoint class="chapter" id="uEuHPYzLkDvW5dhyzvQFAsC" playOrder="53">
+      <navLabel>
+        <text>ལྡོག་ཆོས་ཀྱི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-53"/>
+    </navPoint>
+    <navPoint class="chapter" id="ur2cMiFB7nu4pGmlVHlBXWC" playOrder="54">
+      <navLabel>
+        <text>རྗེས་ཁྱབ་ཀྱི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-54"/>
+    </navPoint>
+    <navPoint class="chapter" id="uUlUH8KVsGzBgYciIVlEkm2" playOrder="55">
+      <navLabel>
+        <text>ལྡོག་ཁྱབ་ཀྱི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-55"/>
+    </navPoint>
+    <navPoint class="chapter" id="uLnsVkaVDjq93R8Mcq3nPr4" playOrder="56">
+      <navLabel>
+        <text>དཔེ་ཡང་དག་གི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-56"/>
+    </navPoint>
+    <navPoint class="chapter" id="uMhsZFwRmVqbVO3RXZ6gZL2" playOrder="57">
+      <navLabel>
+        <text>མཐུན་དཔེ་ཡང་དག་གི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-57"/>
+    </navPoint>
+    <navPoint class="chapter" id="udu2qfznn359IlIUYdVYvR7" playOrder="58">
+      <navLabel>
+        <text>མི་མཐུན་དཔེ་ཡང་དག་གི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-58"/>
+    </navPoint>
+    <navPoint class="chapter" id="uGmOrdY9PIpIMF8GbP4yMp2" playOrder="59">
+      <navLabel>
+        <text>དཔེ་ལྟར་སྣང་གི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-59"/>
+    </navPoint>
+    <navPoint class="chapter" id="uoxZqZQHeHBQxVZJUFHAlV2" playOrder="60">
+      <navLabel>
+        <text>དེ་ལའང་ཆོས་མཐུན་སྦྱོར་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-60"/>
+    </navPoint>
+    <navPoint class="chapter" id="udczHtyFeRkqsVMOu3FQUL4" playOrder="61">
+      <navLabel>
+        <text>ཆོས་མི་མཐུན་སྦྱོར་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-61"/>
+    </navPoint>
+    <navPoint class="chapter" id="uIK5lacnqLYhoL6btlGLmqB" playOrder="62">
+      <navLabel>
+        <text>སྒྲུབ་ངག་ལྟར་སྣང་གི་མཚན་ཉིད།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-62"/>
+    </navPoint>
+    <navPoint class="chapter" id="uy7IgYNYLTZ4eGl4MMvYOV6" playOrder="63">
+      <navLabel>
+        <text>བཞི་པ་༼ལུགས་སྲོལ་གཞན་ཞར་བྱུང་སྨོས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-63"/>
+    </navPoint>
+    <navPoint class="chapter" id="umY8mUDUnGc9MC9XMPHweo9" playOrder="64">
+      <navLabel>
+        <text>གཉིས་པ་རྟོག་གེའི་ཚིག་དོན་བརྒྱད་དང་གནས་གསུམ་དུ་བསྡུ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-64"/>
+    </navPoint>
+    <navPoint class="chapter" id="uTIHvQP4VHPHdN277HauVZA" playOrder="65">
+      <navLabel>
+        <text>གསུམ་པ་དེ་དག་གི་སྙིང་པོ་ཚུལ་ལྔར་བསྡུ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-65"/>
+    </navPoint>
+    <navPoint class="chapter" id="u3Zwnps6Y86PZWxBTLrzjr4" playOrder="66">
+      <navLabel>
+        <text>གཉིས་པ་༼སྒོ་གསུམ་གྱི་བཟོ་རིག་བྱེ་བྲག་རྒྱས་པར་བཤད་པ་༽ལ་གསུམ། ལུས་བཟོ། ངག་བཟོ། ཡིད་ཀྱི་བཟོ་གནས་བཤད་པའོ། །དང་པོ་༼ལུས་བཟོ་༽ལ་གཉིས། མཆོག་དང༌། ཕལ་པའོ། །དང་པོ་༼མཆོག་༽ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-66"/>
+    </navPoint>
+    <navPoint class="chapter" id="uSGfzSymYiiOPpuOdLDH2y3" playOrder="67">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་གསུམ། སྐུ་རྟེན། གསུང་རྟེན། ཐུགས་རྟེན་བཤད་པའོ། །དང་པོ་༼སྐུ་རྟེན་༽ལའང་གསུམ། བཟོ་བོའི་མཚན་ཉིད་བྱིན་རླབས་སོགས་བཤད་པ། བརྟེན་པ་ལྷའི་ཆ་ཚད། རྟེན་གཞལ་ཡས་ཁང་འཕྲོས་དོན་ཙམ་སྨོས་པའོ། །དང་པོ་༼བཟོ་བོའི་མཚན་ཉིད་བྱིན་རླབས་སོགས་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-67"/>
+    </navPoint>
+    <navPoint class="chapter" id="uKFB9jIdYKFplujqNyP9dFF" playOrder="68">
+      <navLabel>
+        <text>གཉིས་པ་བརྟེན་པ་ལྷའི་ཆ་ཚད་བཤད་པ་ལ་གཉིས། དམ་ཚིག་བྲིས་སྐུ། ཆ་ཚད་དངོས་བཤད་པའོ། །དང་པོ་༼དམ་ཚིག་བྲིས་སྐུ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-68"/>
+    </navPoint>
+    <navPoint class="chapter" id="uInQYtFii7yIIAYMvJFAYXA" playOrder="69">
+      <navLabel>
+        <text>གཉིས་པ་ཚད་བཤད་པ་ལ་གསུམ། སྤྱིར་བཤད་པ། བྱེ་བྲག་ཏུ་བཤད་པ། དེ་ལས་འཕྲོས་པའི་ཉེ་བར་མཁོ་བའོ། །དང་པོ་༼སྤྱིར་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-69"/>
+    </navPoint>
+    <navPoint class="chapter" id="uwlSIgADat6MFZgGFLQLguE" playOrder="70">
+      <navLabel>
+        <text>གཉིས་པ་བྱེ་བྲག་ཏུ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-70"/>
+    </navPoint>
+    <navPoint class="chapter" id="uJp3IK88aVW9OTTtVEUGTT5" playOrder="71">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-71"/>
+    </navPoint>
+    <navPoint class="chapter" id="u8ITBCVWOe5ViazpAJHgMaC" playOrder="72">
+      <navLabel>
+        <text>གསུམ་པ་༼ཕྱག་མཚན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-72"/>
+    </navPoint>
+    <navPoint class="chapter" id="uB3MZUpktjXitIEtmYyxcs3" playOrder="73">
+      <navLabel>
+        <text>བཞི་པ་༼ཁྲི་རྒྱབ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-73"/>
+    </navPoint>
+    <navPoint class="chapter" id="uuOATO3nddSEyR8ruOA7OFD" playOrder="74">
+      <navLabel>
+        <text>ལྔ་པ་༼སྐྱོན་སེལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-74"/>
+    </navPoint>
+    <navPoint class="chapter" id="uIQ4pvfwPNrdSzxFK6ooqrF" playOrder="75">
+      <navLabel>
+        <text>དྲུག་པ་༼ཚོན་མདངས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-75"/>
+    </navPoint>
+    <navPoint class="chapter" id="udQ2ObnAPRaJ6wVHjDOwtPA" playOrder="76">
+      <navLabel>
+        <text>བདུན་པ་༼རྣམ་འགྱུར་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-76"/>
+    </navPoint>
+    <navPoint class="chapter" id="u6JmUibJJ8mYNaqxnm5gWj2" playOrder="77">
+      <navLabel>
+        <text>གསུམ་པ་རྟེན་གཞལ་ཡས་ཁང་འཕྲོས་ཙམ་སྨོས་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-77"/>
+    </navPoint>
+    <navPoint class="chapter" id="uuVvJpbaiflFjllFnDd4Dd9" playOrder="78">
+      <navLabel>
+        <text>གཉིས་པ་གསུང་རྟེན་བཤད་པ་ལ་གསུམ། ཡིག་རིགས་སྤྱིར་བསྟན། བོད་ཀྱི་ཡི་གེ་ཁྱད་པར་དུ་དབྱེ། འབྲི་ཐབས་བསྟན་པའོ། །དང་པོ་༼ཡིག་རིགས་སྤྱིར་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-78"/>
+    </navPoint>
+    <navPoint class="chapter" id="u9Ct6lKsp3FwakxCuQLYXb2" playOrder="79">
+      <navLabel>
+        <text>གཉིས་པ་༼བོད་ཀྱི་ཡི་གེ་ཁྱད་པར་དུ་དབྱེ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-79"/>
+    </navPoint>
+    <navPoint class="chapter" id="uWNBSKoovLlTafOnlRjfHAF" playOrder="80">
+      <navLabel>
+        <text>འདོན་པ་བཅུའམ་བཅུ་བཞིར་ཡང་གྲགས་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-80"/>
+    </navPoint>
+    <navPoint class="chapter" id="u6E3pZSh4YtUuT2B3iBEctA" playOrder="81">
+      <navLabel>
+        <text>མ་ཆོས་ཉེར་གཅིག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-81"/>
+    </navPoint>
+    <navPoint class="chapter" id="upvsSjt8dPOrQY73ZBAmbNG" playOrder="82">
+      <navLabel>
+        <text>བུ་ཆོས་བཅུ་དྲུག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-82"/>
+    </navPoint>
+    <navPoint class="chapter" id="uJJCN5vn8uLKolLnmFJHuDB" playOrder="83">
+      <navLabel>
+        <text>གསུམ་པ་༼འབྲི་ཐབས་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-83"/>
+    </navPoint>
+    <navPoint class="chapter" id="uMMB55sLUc35345XEnmfmw6" playOrder="84">
+      <navLabel>
+        <text>གསུམ་པ་ཐུགས་རྟེན་བཤད་པ་ལ་བཞི། མཆོད་རྟེན་གྱི་དབྱེ་བ་སྤྱིར་བསྟན། ལག་ཏུ་བླང་བྱ་བྱེ་བྲག་ཏུ་བཤད། ལུགས་སྲོལ་ཁྱད་པར་ཅན་འཕྲོས་སུ་སྨོས། ཕྱག་མཚན་འཕྲོས་དོན་བཅས་འཆད་པའོ། །དང་པོ་༼མཆོད་རྟེན་གྱི་དབྱེ་བ་སྤྱིར་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-84"/>
+    </navPoint>
+    <navPoint class="chapter" id="u45UJPFyAdBjFck6G6cN3u2" playOrder="85">
+      <navLabel>
+        <text>གཉིས་པ་ལག་ཏུ་བླང་བྱ་དངོས་ལ་གཉིས། ཐུན་མོང་དང་ཐུན་མིན་ནོ། །དང་པོ་༼ཐུང་མོང་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-85"/>
+    </navPoint>
+    <navPoint class="chapter" id="uHe4575flE3ltDASkrrXZQF" playOrder="86">
+      <navLabel>
+        <text>གཉིས་པ་༼ཐུན་མིན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-86"/>
+    </navPoint>
+    <navPoint class="chapter" id="ueiYsISTjmRGymbq4uzKtTB" playOrder="87">
+      <navLabel>
+        <text>གསུམ་པ་ལུགས་སྲོལ་ཁྱད་པར་ཅན་འཕྲོས་སུ་སྨོས་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-87"/>
+    </navPoint>
+    <navPoint class="chapter" id="uUYGEBMD5zTl85dpGrjPpm3" playOrder="88">
+      <navLabel>
+        <text>བཞི་པ་ཕྱག་མཚན་འཕྲོས་དོན་བཅས་འཆད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-88"/>
+    </navPoint>
+    <navPoint class="chapter" id="ukpKbTiPnLJvEYujmJbpqmF" playOrder="89">
+      <navLabel>
+        <text>གཉིས་པ་ལུས་བཟོ་ཕལ་པ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-89"/>
+    </navPoint>
+    <navPoint class="chapter" id="uAEXF5qG9TUXpwbI3gvqjHD" playOrder="90">
+      <navLabel>
+        <text>གཉིས་པ་ངག་བཟོ་ལའང་གཉིས། མཆོག་དང༌། ཕལ་པའོ། །དང་པོ་༼མཆོག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-90"/>
+    </navPoint>
+    <navPoint class="chapter" id="uzZIPxbBOZcmkCjGX2joG24" playOrder="91">
+      <navLabel>
+        <text>གཉིས་པ་༼ཕལ་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-91"/>
+    </navPoint>
+    <navPoint class="chapter" id="ufIguQ4SXnLiAuCW8eucm96" playOrder="92">
+      <navLabel>
+        <text>གསུམ་པ་ཡིད་བཟོ་ལ་གཉིས། མཆོག་དང༌། ཕལ་པའོ། །དང་པོ་༼མཆོག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-92"/>
+    </navPoint>
+    <navPoint class="chapter" id="uqGxWbvdtlk93xeTwDwryxG" playOrder="93">
+      <navLabel>
+        <text>གཉིས་པ་༼ཕལ་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-93"/>
+    </navPoint>
+    <navPoint class="chapter" id="uUHrY47zCyzcJ4QxOJMHuR7" playOrder="94">
+      <navLabel>
+        <text>བཞི་པ་གསོ་བ་རིག་པ་བཤད་པ་ལ་གཉིས། དགོས་པ་དང་འབྲེལ་བའི་བཤད་བྱ་ངོས་བཟུང༌། གསོ་རིག་དངོས་ཀྱི་ཚུལ་བཤད་པའོ། །དང་པོ་༼དགོས་པ་དང་འབྲེལ་བའི་བཤད་བྱ་ངོས་བཟུང་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-94"/>
+    </navPoint>
+    <navPoint class="chapter" id="uGnFuAFZydLjLKgVOVXQaUA" playOrder="95">
+      <navLabel>
+        <text>གཉིས་པ་༼གསོ་རིག་དངོས་ཀྱི་ཚུལ་བཤད་པའོ་༽ལ་གཉིས། རྒྱུད་བཞིའི་ལུས་མདོར་བསྟན། གསོ་བའི་ཚུལ་བཞི་རྒྱས་པར་བཤད་པའོ། །དང་པོ་༼རྒྱུད་བཞིའི་ལུས་མདོར་བསྟན་༽ལ་བཞི། རྩ་རྒྱུད། བཤད་རྒྱུད། མན་ངག ཕྱི་མའི་རྒྱུད་ཀྱི་ལུས་མདོར་བསྟན་པའོ། །དང་པོ་༼རྩ་རྒྱུད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-95"/>
+    </navPoint>
+    <navPoint class="chapter" id="u7GTwBqqD4GIGDWtMMjQc95" playOrder="96">
+      <navLabel>
+        <text>གཉིས་པ་༼བཤད་རྒྱུད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-96"/>
+    </navPoint>
+    <navPoint class="chapter" id="uMLsH34oEzKxcURuSrqu5LC" playOrder="97">
+      <navLabel>
+        <text>བཞི་པ་༼ཕྱི་མའི་རྒྱུད་ཀྱི་ལུས་མདོར་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-97"/>
+    </navPoint>
+    <navPoint class="chapter" id="uLv27UzV8xXRQTmSUUZoAp7" playOrder="98">
+      <navLabel>
+        <text>གཉིས་པ་གསོ་བའི་ཚུལ་བཞི་རྒྱས་པར་བཤད་པ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-98"/>
+    </navPoint>
+    <navPoint class="chapter" id="uzPcWOyptZhidN5i4i6j5qD" playOrder="99">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་བཞི། གསོ་བྱ། གསོ་བྱེད། གསོ་ཐབས། གསོ་མཁན་ནོ། །དང་པོ་༼གསོ་བྱ་༽ལ་གཉིས། ལུས་དང༌། ནད་དོ། །དང་པོ་༼ལུས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-99"/>
+    </navPoint>
+    <navPoint class="chapter" id="uoV6WMclVFdakPzbipiUQRG" playOrder="100">
+      <navLabel>
+        <text>གཉིས་པ་༼ནད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-100"/>
+    </navPoint>
+    <navPoint class="chapter" id="uEdHiJDWMD8OBKMPW2jvplG" playOrder="101">
+      <navLabel>
+        <text>གཉིས་པ་གསོ་བྱེད་ཀྱི་ཚུལ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-101"/>
+    </navPoint>
+    <navPoint class="chapter" id="uvY9y6RpzLMyxwL3uC9Otd9" playOrder="102">
+      <navLabel>
+        <text>གསུམ་པ་༼གསོ་ཐབས་༽ལ་གཉིས། ནད་མེད་གནས་ཤིང་འཚོ་བ་དང༌། ན་བ་གསོ་བར་བྱ་བའོ། །དང་པོ་༼ནད་མེད་གནས་ཤིང་འཚོ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-102"/>
+    </navPoint>
+    <navPoint class="chapter" id="uS8ZZ5UT5DO7WEwXATYsYVF" playOrder="103">
+      <navLabel>
+        <text>གཉིས་པ་༼ན་བ་གསོ་བར་བྱ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-103"/>
+    </navPoint>
+    <navPoint class="chapter" id="ulrDYVpyC9kzfmSIXGoUbeD" playOrder="104">
+      <navLabel>
+        <text>དང་པོ་༼གསོ་ཚུལ་༽ལ་གསུམ།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-104"/>
+    </navPoint>
+    <navPoint class="chapter" id="ucQmJG6uhzH5YfcnTUniZSA" playOrder="105">
+      <navLabel>
+        <text>བཞི་པ་༼གསོ་མཁན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-105"/>
+    </navPoint>
+    <navPoint class="chapter" id="uN3AaFnNch5iCN7NyVNItlA" playOrder="106">
+      <navLabel>
+        <text>གཉིས་པ་རིག་གནས་ཆུང་བ་བཤད་པ་ལ་གཉིས། མཚམས་སྦྱར་བ་དང༌། དངོས་སོ། །དང་པོ་༼མཚམས་སྦྱར་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-106"/>
+    </navPoint>
+    <navPoint class="chapter" id="u2AabiE7bXOhAz4oAELjT9G" playOrder="107">
+      <navLabel>
+        <text>གཉིས་པ་༼དངོས་༽ལ་ལྔ། སྐར་རྩིས། སྙན་དངགས། སྡེབ་སྦྱོར། མངོན་བརྗོད། ཟློས་གར་རོ། །དང་པོ་༼སྐར་རྩིས་༽ལ་བཞི། སྤྱིའི་དོན། ནང་གི་ངེས་པ། ཕྱི་རོལ་གྱི་བརྩི་བའི་གཞི། ཇི་ལྟར་བརྩི་བའི་ཚུལ་བཤད་པའོ། །དང་པོ་༼སྤྱིའི་དོན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-107"/>
+    </navPoint>
+    <navPoint class="chapter" id="uMdlWJ86XIYpM4vKeZdPGs9" playOrder="108">
+      <navLabel>
+        <text>གཉིས་པ་༼ནང་གི་ངེས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-108"/>
+    </navPoint>
+    <navPoint class="chapter" id="u3j23sRvRDPI8CkPnOfkqaC" playOrder="109">
+      <navLabel>
+        <text>གསུམ་པ་༼ཕྱི་རོལ་གྱི་བརྩི་བའི་གཞི་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-109"/>
+    </navPoint>
+    <navPoint class="chapter" id="uj72fsoMNWhHIwFTSBQqvrD" playOrder="110">
+      <navLabel>
+        <text>བཞི་པ་༼ཇི་ལྟར་བརྩི་བའི་ཚུལ་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-110"/>
+    </navPoint>
+    <navPoint class="chapter" id="uIKMSDIC329OKnPWUxTeBpF" playOrder="111">
+      <navLabel>
+        <text>གཉིས་པ་སྙན་ངག་བཤད་པ་ལ་གཉིས། ལུས་དང༌། རྒྱན་ནོ། །དང་པོ་༼ལུས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-111"/>
+    </navPoint>
+    <navPoint class="chapter" id="uEGJ5DEne42nGSG4TFZAu7F" playOrder="112">
+      <navLabel>
+        <text>གཉིས་པ་རྒྱན་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-112"/>
+    </navPoint>
+    <navPoint class="chapter" id="uyoOytyV3KRpA7YHJmXbpZ6" playOrder="113">
+      <navLabel>
+        <text>གསུམ་པ་སྡེབ་སྦྱོར་བཤད་པ་ལ་གསུམ། བྲྀཏྟ། ཛཱའ་ཏི། ངོ་མཚར་རྟོགས་བྱེད་ཀྱི་སྦྱོར་བ་བཤད་པའོ། །དང་པོ་༼བྲྀཏྟ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-113"/>
+    </navPoint>
+    <navPoint class="chapter" id="udFZWzrmrgy5OziSM2YhemA" playOrder="114">
+      <navLabel>
+        <text>གཉིས་པ་༼ཛཱ་ཏི་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-114"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVgzO68m6IrvSRdy7PkDxs5" playOrder="115">
+      <navLabel>
+        <text>གསུམ་པ་༼ངོ་མཚར་རྟོགས་བྱེད་ཀྱི་སྦྱོར་བ་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-115"/>
+    </navPoint>
+    <navPoint class="chapter" id="uuYGsdWdTHCF9VDtRDJgY4F" playOrder="116">
+      <navLabel>
+        <text>བཞི་པ་མིང་གི་མངོན་བརྗོད་བཤད་པ་ལ་གཉིས། སྤྱིར་མིང་གི་མཚན་ཉིད་དབྱེ་བ་སོགས་བཤད་པ། བྱེ་བྲག་མངོན་བརྗོད་ཀྱི་ཚུལ་བཤད་པའོ། །དང་པོ་༼སྤྱིར་མིང་གི་མཚན་ཉིད་དབྱེ་བ་སོགས་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-116"/>
+    </navPoint>
+    <navPoint class="chapter" id="uSgzbJXWjKfzvNSPWP5rGzG" playOrder="117">
+      <navLabel>
+        <text>གཉིས་པ་༼བྱེ་བྲག་མངོན་བརྗོད་ཀྱི་ཚུལ་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-117"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZLDPVlMNSbUKauh6MOfGNA" playOrder="118">
+      <navLabel>
+        <text>དོན་གཅིག་ལ་མིང་མང་པོ་དང་ལྡན་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-118"/>
+    </navPoint>
+    <navPoint class="chapter" id="uXF4soMqcndHrxRuQOw5qq5" playOrder="119">
+      <navLabel>
+        <text>ལྔ་པ་ཟློས་གར་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-119"/>
+    </navPoint>
+    <navPoint class="chapter" id="ucKiLJxPzk5QE3XmEK7AeOH" playOrder="120">
+      <navLabel>
+        <text>གཉིས་པ་འཇུག་པའི་ཡན་ལག་ལ།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-120"/>
+    </navPoint>
+    <navPoint class="chapter" id="u9eedo3exMiMqoIU2dcQkKB" playOrder="121">
+      <navLabel>
+        <text>དེ་ལ་བྷཱ་ར་ཏཱིའི་ཡན་ལག་བཞི་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-121"/>
+    </navPoint>
+    <navPoint class="chapter" id="unJetVrPdkarEYIzzgWTvdD" playOrder="122">
+      <navLabel>
+        <text>སཱ་ཏྭ་ཏིའི་ཡན་ལག་བཞི་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-122"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVgd9tLbjhevormLEA7JkQG" playOrder="123">
+      <navLabel>
+        <text>ཀཻ་ཤི་ཀཱིའི་ཡན་ལག་བཞི་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-123"/>
+    </navPoint>
+    <navPoint class="chapter" id="u4ccn9tClQGYM9IbRCxAEg5" playOrder="124">
+      <navLabel>
+        <text>ཨཱར་བྷ་ཊཱིའི་ཡན་ལག་བཞི་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-124"/>
+    </navPoint>
+    <navPoint class="chapter" id="uSC4hhsEFaoSCBKwnEo3TPF" playOrder="125">
+      <navLabel>
+        <text>གསུམ་པ་མཚན་ཉིད་ཀྱི་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-125"/>
+    </navPoint>
+    <navPoint class="chapter" id="un7k755mFpeONOG7zp47tQF" playOrder="126">
+      <navLabel>
+        <text>རྩ་བའི་གསུམ་པ་ཚུར་མཐོང་འཇིག་རྟེན་པའི་ལམ་རྣམ་པར་གཞག་པ་ལ་གཉིས། སྤྱིར་བསྟན་པ་དང༌། བྱེ་བྲག་ཏུ་དབྱེ་བའོ། །དང་པོ་༼སྤྱིར་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-126"/>
+    </navPoint>
+    <navPoint class="chapter" id="uM3WXtcWUExM4vYBNyueY4A" playOrder="127">
+      <navLabel>
+        <text>གཉིས་པ་བྱེ་བྲག་ཏུ་དབྱེ་བ་ལ་གཉིས། ཕྱི་རོལ་མུ་སྟེགས་པའི་ལམ་སྲོལ་མདོར་བསྟན། མངོན་མཐོའི་ཐེག་པ་རྒྱས་པར་བསྟན་པའོ། །དང་པོ་༼ཕྱི་རོལ་མུ་སྟེགས་པའི་ལམ་སྲོལ་མདོར་བསྟན་༽ལ་གསུམ། ངོ་བོ། དབྱེ་བ། དེ་ཉིད་རྒྱས་པར་བཤད་པའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-127"/>
+    </navPoint>
+    <navPoint class="chapter" id="uSeikLjrQYsU9FkWHE2w2QA" playOrder="128">
+      <navLabel>
+        <text>གཉིས་པ་༼དབྱེ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-128"/>
+    </navPoint>
+    <navPoint class="chapter" id="ufgPYmzcMWCSJN2xkSslGp7" playOrder="129">
+      <navLabel>
+        <text>སྤྲུལ་པའི་དབང་དུ་བྱས་ནས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-129"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVOo6EsGwqqDPsrTusW9T7F" playOrder="130">
+      <navLabel>
+        <text>རང་རྒྱུད་པའི་དབང་དུ་བྱས་ནས།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-130"/>
+    </navPoint>
+    <navPoint class="chapter" id="uwQqdM9LLIwzvhxzA7BVtl6" playOrder="131">
+      <navLabel>
+        <text>གསུམ་པ་རྒྱས་པར་བཤད་པ་ལ་གསུམ། བསམ་གཏན་པ། རྟོག་གེ་པ། ཞར་བྱུང་ཀླ་ཀློ་སོགས་སྤང་བྱར་བསྟན་པའོ། །དང་པོ་༼བསམ་གཏན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-131"/>
+    </navPoint>
+    <navPoint class="chapter" id="uTRmuFrOcIEEKjXZSOXgpk9" playOrder="132">
+      <navLabel>
+        <text>གཉིས་པ་༼རྟོག་གེ་པ་༽ལ་གཉིས། མདོར་བསྟན་དང་འབྲེལ་བར་ཆད་སྨྲ་བཤད། རྟག་སྨྲའི་དབྱེ་བ་དགོད་པའོ། །དང་པོ་༼མདོར་བསྟན་དང་འབྲེལ་བར་ཆད་སྨྲ་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-132"/>
+    </navPoint>
+    <navPoint class="chapter" id="u8hhnjqpvPpeTkMAddZHb53" playOrder="133">
+      <navLabel>
+        <text>གཉིས་པ་༼རྟག་སྨྲའི་དབྱེ་བ་དགོད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-133"/>
+    </navPoint>
+    <navPoint class="chapter" id="unJypIZzbEDI38X9PJpTQFE" playOrder="134">
+      <navLabel>
+        <text>གཉིས་པ་བྱེ་བྲག་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-134"/>
+    </navPoint>
+    <navPoint class="chapter" id="u9XnEEHLuhpazD3R6SctpL9" playOrder="135">
+      <navLabel>
+        <text>གསུམ་པ་རིག་པ་ཅན་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-135"/>
+    </navPoint>
+    <navPoint class="chapter" id="uUldZFK68VLU6jgNj2omFx5" playOrder="136">
+      <navLabel>
+        <text>བཞི་པ་དབང་ཕྱུག་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-136"/>
+    </navPoint>
+    <navPoint class="chapter" id="uUIulEfXAjQ24CoFkw4zBkG" playOrder="137">
+      <navLabel>
+        <text>གསུམ་པ་ཞར་བྱུང་ཀླ་ཀློ་སོགས་ཁྱད་པར་སྤང་བྱ་གཞན་བསྟན་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-137"/>
+    </navPoint>
+    <navPoint class="chapter" id="ulb6QQKvSr2PwzwPp8BulU2" playOrder="138">
+      <navLabel>
+        <text>གཉིས་པ་མངོན་མཐོའི་ཐེག་པ་རྒྱས་པར་བཤད་པ་ལ་གསུམ། མདོར་བསྟན། རྒྱས་བཤད། དོན་བསྡུ་བའོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-138"/>
+    </navPoint>
+    <navPoint class="chapter" id="ulNE9Y436l98UmaSEkThjY2" playOrder="139">
+      <navLabel>
+        <text>གཉིས་པ་རྒྱས་བཤད་ལ་གསུམ། ཐུན་མོང་གི་སྔོན་འགྲོ་བཤད་པ། ལྷ་དང༌། ཚངས་པའི་ཐེག་པ་སོ་སོར་བཤད་པའོ། །དང་པོ་༼ཐུན་མོང་གི་སྔོན་འགྲོ་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-139"/>
+    </navPoint>
+    <navPoint class="chapter" id="ulWsJ88LkEK2FTLXNzZtI5H" playOrder="140">
+      <navLabel>
+        <text>གཉིས་པ་༼ལྷ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-140"/>
+    </navPoint>
+    <navPoint class="chapter" id="uJg8sWqOtlZRkZJ3CUDB5t3" playOrder="141">
+      <navLabel>
+        <text>གསུམ་པ་༼ཚངས་པའི་ཐེག་པ་སོ་སོར་བཤད་པ་༽ལ་གཉིས། ཐེག་པ་ངོས་བཟུང་བ། ལམ་དངོས་བཤད་པའོ། །དང་པོ་༼ཐེག་པ་ངོས་བཟུང་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-141"/>
+    </navPoint>
+    <navPoint class="chapter" id="uWTzkCQNj3dLyG2JtTt4Qj6" playOrder="142">
+      <navLabel>
+        <text>གཉིས་པ་ལམ་དངོས་ལ་གཉིས་ཏེ། གཟུགས་ཁམས་ཀྱི་བསམ་གཏན་བཞི་བཤད་པ་དང༌། གཟུགས་མེད་ཁམས་ཀྱི་སྙོམས་འཇུག་བཞི་བཤད་པའོ། །དང་པོ་༼གཟུགས་ཁམས་ཀྱི་བསམ་གཏན་བཞི་བཤད་པ་༽ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-142"/>
+    </navPoint>
+    <navPoint class="chapter" id="uTpbNtN4fZg3P9kCSvreH97" playOrder="143">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་བཞི། བསམ་གཏན་དང་པོ་ནས་བཞི་པའི་བར་རོ། །དང་པོ་ལའང་གཉིས། རྒྱུ་སྙོམས་འཇུག་གི་བསམ་གཏན་དང༌། འབྲས་བུ་སྐྱེ་བའི་བསམ་གཏན་ནོ། །དང་པོ་༼རྒྱུ་སྙོམས་འཇུག་གི་བསམ་གཏན་༽ལ་གཉིས། ཉེར་བསྡོགས་དང༌། དངོས་གཞིའོ། །ཉེར་བསྡོགས་ལའང་གཉིས། ཞི་གནས་དང༌། ལྷག་མཐོང་ངོ༌། །དང་པོ་༼ཞི་གནས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-143"/>
+    </navPoint>
+    <navPoint class="chapter" id="uOVURqubXeSUdUlUJUqNgN4" playOrder="144">
+      <navLabel>
+        <text>གཉིས་པ་༼ལྷག་མཐོང་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-144"/>
+    </navPoint>
+    <navPoint class="chapter" id="u3NLYwhBLwnjppxvYDQYhuA" playOrder="145">
+      <navLabel>
+        <text>གཉིས་པ་དངོས་གཞི་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-145"/>
+    </navPoint>
+    <navPoint class="chapter" id="uuHWKcwLItDHmiawbBUGyX2" playOrder="146">
+      <navLabel>
+        <text>གཉིས་པ་བསམ་གཏན་གཉིས་པ་ལ་གཉིས་ཏེ། ཉེར་བསྡོགས་དང༌། དེའི་དངོས་གཞིའོ། །དང་པོ་༼ཉེར་བསྡོགས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-146"/>
+    </navPoint>
+    <navPoint class="chapter" id="ulMjOUQNQrJ53a4tAN3S3G5" playOrder="147">
+      <navLabel>
+        <text>གཉིས་པ་༼དེའི་དངོས་གཞི་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-147"/>
+    </navPoint>
+    <navPoint class="chapter" id="uTY4ZJBS84DbFCrWD3KulOD" playOrder="148">
+      <navLabel>
+        <text>གསུམ་པ་བསམ་གཏན་གསུམ་པ་ལ་གཉིས་ཏེ། ཉེར་བསྡོགས་དང༌། དེའི་དངོས་གཞིའོ། །དང་པོ་༼ཉེར་བསྡོགས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-148"/>
+    </navPoint>
+    <navPoint class="chapter" id="utUE3DAJVGRsqvo8XA8BayE" playOrder="149">
+      <navLabel>
+        <text>གཉིས་པ་༼དེའི་དངོས་གཞི་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-149"/>
+    </navPoint>
+    <navPoint class="chapter" id="uMljScoyKxn2ZcBNKxkHrNA" playOrder="150">
+      <navLabel>
+        <text>བཞི་པ་བསམ་གཏན་བཞི་པ་ལ་གཉིས། ཉེར་བསྡོགས་དང༌། དེའི་དངོས་གཞིའོ། །དང་པོ་༼ཉེར་བསྡོགས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-150"/>
+    </navPoint>
+    <navPoint class="chapter" id="uoHasBTD9VaeNvFoGstpJFA" playOrder="151">
+      <navLabel>
+        <text>གཉིས་པ་དེའི་དངོས་གཞི་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-151"/>
+    </navPoint>
+    <navPoint class="chapter" id="udKMr37Wa3xU682EuHlIhO7" playOrder="152">
+      <navLabel>
+        <text>གཉིས་པ་འབྲས་བུ་སྐྱེ་བའི་བསམ་གཏན་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-152"/>
+    </navPoint>
+    <navPoint class="chapter" id="uvGmd4uIuXdwC3dysCJ5bYB" playOrder="153">
+      <navLabel>
+        <text>གཉིས་པ་གཟུགས་མེད་ཁམས་ཀྱི་སྙོམས་འཇུག་བཞི་བཤད་པ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-153"/>
+    </navPoint>
+    <navPoint class="chapter" id="usAm8IY8TnW5RJU9YdVpJWG" playOrder="154">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་གཉིས། རྒྱུ་སྙོམས་འཇུག་དང༌། འབྲས་བུ་སྐྱེ་བའོ། །དང་པོ་༼རྒྱུ་སྙོམས་འཇུག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-154"/>
+    </navPoint>
+    <navPoint class="chapter" id="uwBLAG8uT2LmQ7jheQCYGK4" playOrder="155">
+      <navLabel>
+        <text>གཉིས་པ་འབྲས་བུ་སྐྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-155"/>
+    </navPoint>
+    <navPoint class="chapter" id="ufjkkzicNqMvkN7NBHLxYN9" playOrder="156">
+      <navLabel>
+        <text>རྩ་བའི་གསུམ་པ་དོན་བསྡུ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-1.xhtml#_idParaDest-156"/>
+    </navPoint>
+    <navPoint class="chapter" id="uwQvNYIS8rRPugJ6DrH942F" playOrder="157">
+      <navLabel>
+        <text>སྐབས་གཉིས་པ་ཐེག་པ་ཆེ་ཆུང་ཤེས་བྱ་སྤྱིའི་གནས་རྣམ་པར་གཞག་པ་ལ་གསུམ། ཕྱི་ནང་གྲུབ་མཐའི་ཁྱད་པར་བསྟན། ནང་པའི་རིང་ལུགས་ཀྱི་དབྱེ་བསྡུ་སྤྲོ། ཤེས་བྱའི་རྣམ་གཞག་དངོས་བཤད་པའོ། །དང་པོ་༼ཕྱི་ནང་གྲུབ་མཐའི་ཁྱད་པར་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-157"/>
+    </navPoint>
+    <navPoint class="chapter" id="u3giIovzpABmSRUn3COSob7" playOrder="158">
+      <navLabel>
+        <text>གཉིས་པ་༼ནང་པའི་རིང་ལུགས་ཀྱི་དབྱེ་བསྡུ་སྤྲོ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-158"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZSGfoOIGvs4cXQWZbFATw7" playOrder="159">
+      <navLabel>
+        <text>གསུམ་པ་ཤེས་བྱའི་རྣམ་གཞག་དངོས་བཤད་པ་ལ་གསུམ། གཏན་ལ་འབེབས་བྱེད་དང་དབབ་བྱ་ངོས་བཟུང༌། དེ་དག་གི་དགོས་པ་མདོར་བསྡུས་སྨོས། རྣམ་གཞག་དངོས་རྒྱས་པར་བཤད་པའོ། །དང་པོ་༼གཏན་ལ་འབེབས་བྱེད་དང་དབབ་བྱ་ངོས་བཟུང་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-159"/>
+    </navPoint>
+    <navPoint class="chapter" id="uOuXtUoNkNQe73tkchzTQtB" playOrder="160">
+      <navLabel>
+        <text>གཉིས་པ་༼དེ་དག་གི་དགོས་པ་མདོར་བསྡུས་སྨོས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-160"/>
+    </navPoint>
+    <navPoint class="chapter" id="ue9TK7Ej7M6s6coxTRLg7T2" playOrder="161">
+      <navLabel>
+        <text>གསུམ་པ་རྣམ་གཞག་དངོས་རྒྱས་པར་བཤད་པ་ལ་གསུམ། ཐེག་པ་ཐུན་མོང་པའི་ལུགས་ཕུང་ཁམས་སྐྱེ་མཆེད་ཀྱི་རྣམ་གཞག ཐུན་མོང་མ་ཡིན་པ་འཁོར་ལོ་ཐ་མའི་ལུགས་སྲིད་པ་ཉེར་ལྔ་ལ་སོགས་པའི་རྣམ་གཞག ཐེག་པ་ཆེ་ཆུང་ཕྱོགས་བསྡུས་རྟེན་འབྲེལ་གྱི་རྣམ་གཞག་བཤད་པའོ། །དང་པོ་༼ཐེག་པ་ཐུན་མོང་པའི་ལུགས་ཕུང་ཁམས་སྐྱེ་མཆེད་ཀྱི་རྣམ་གཞག༽ལ་གཉིས། སོ་སོའི་དབྱེ་བ་མངོན་པ་གོང་མའི་ལུགས་གཙོ་བོར་བཤད་པ། དེ་དག་གི་དོན་བསྡུ་མངོན་པ་འོག་མ་ལྟར་བཤད་པའོ། །དང་པོ་༼སོ་སོའི་དབྱེ་བ་མངོན་པ་གོང་མའི་ལུགས་གཙོ་བོར་བཤད་པ་༽ལ་གསུམ། ཕུང་པོ། ཁམས། སྐྱེ་མཆེད་ཀྱི་རྣམ་པར་གཞག་པའོ། །དེའང་ཐེག་ཆེན་ཐུན་མོང་མ་ཡིན་པའི་མངོན་པ་ཀུན་ལས་བཏུས་པར་མིང་གི་རྣམ་གྲངས་མང་ཞིང་བརྗོད་བྱ་རྒྱ་ཆེ་བས་དེའི་ལུགས་ལྟར་བཤད་པ་ལ། དང་པོ་ཕུང་པོའི་རྣམ་གཞག་ལའང་གསུམ། ངོ་བོ་དང༌། དབྱེ་བ། ལྡན་ཚུལ་བཤད་པའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-161"/>
+    </navPoint>
+    <navPoint class="chapter" id="uXtyAPGDYiO6NYaOqOu7mMF" playOrder="162">
+      <navLabel>
+        <text>གཉིས་པ་དབྱེ་བ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-162"/>
+    </navPoint>
+    <navPoint class="chapter" id="uDyeiI24NVC9uQhSvnBrHBC" playOrder="163">
+      <navLabel>
+        <text>གཉིས་པ་རྒྱས་བཤད་ལ་ལྔ། གཟུགས། ཚོར་བ། འདུ་ཤེས། འདུ་བྱེད། རྣམ་པར་ཤེས་པའི་ཕུང་པོའོ། །དང་པོ་གཟུགས་ལ་གཉིས། ངོ་བོ། དབྱེ་བའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-163"/>
+    </navPoint>
+    <navPoint class="chapter" id="uHOd3ACZ9hRLO6MXwwuhrY7" playOrder="164">
+      <navLabel>
+        <text>གཉིས་པ་དེའི་དབྱེ་བ་ལ་གསུམ་སྟེ། རྒྱུའི་གཟུགས་འབྱུང་བ་ཆེན་པོ་བཞི། འབྲས་བུའི་གཟུགས་དེ་རྒྱུར་གྱུར་པ། ཆོས་ཀྱི་སྐྱེ་མཆེད་པའི་གཟུགས་སོ། །དང་པོ་༼རྒྱུའི་གཟུགས་འབྱུང་བ་ཆེན་པོ་བཞི་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-164"/>
+    </navPoint>
+    <navPoint class="chapter" id="uolLUvEUOaqaHlNhzcjMLeB" playOrder="165">
+      <navLabel>
+        <text>གཉིས་པ་འབྲས་བུའི་གཟུགས་ནི་གཉིས། དབང་པོ་ལྔ་དང་དོན་ལྔའོ། །དང་པོ་༼དབང་པོ་ལྔ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-165"/>
+    </navPoint>
+    <navPoint class="chapter" id="uQ3ZA4OTSiIgQw3YRAKbCvD" playOrder="166">
+      <navLabel>
+        <text>གཉིས་པ་༼དོན་ལྔ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-166"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZeU7oCXHodp3yjrgYtMcA4" playOrder="167">
+      <navLabel>
+        <text>གཉིས་པ་སྒྲའི་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-167"/>
+    </navPoint>
+    <navPoint class="chapter" id="ur7yJLPuLIErSqpIv2ux7QE" playOrder="168">
+      <navLabel>
+        <text>གསུམ་པ་དྲིའི་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-168"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZ54rFpeubwhoHQBpw39GU3" playOrder="169">
+      <navLabel>
+        <text>བཞི་པ་རོའི་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-169"/>
+    </navPoint>
+    <navPoint class="chapter" id="uqPcrVBnswCnQrRPq44Ylm2" playOrder="170">
+      <navLabel>
+        <text>ལྔ་པ་རེག་བྱ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-170"/>
+    </navPoint>
+    <navPoint class="chapter" id="uiaf55OKETXxHWBDk3SuyYE" playOrder="171">
+      <navLabel>
+        <text>གསུམ་པ་ཆོས་ཀྱི་སྐྱེ་མཆེད་པའི་གཟུགས་བཤད་པ་ལ་གཉིས། ངོ་བོ། དབྱེ་བའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-171"/>
+    </navPoint>
+    <navPoint class="chapter" id="ukINGH95FWNutSJuVQdydXA" playOrder="172">
+      <navLabel>
+        <text>གཉིས་པ་༼དབྱེ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-172"/>
+    </navPoint>
+    <navPoint class="chapter" id="uIDpgdJC4dxH78JrBuDUYDF" playOrder="173">
+      <navLabel>
+        <text>གཉིས་པ་ཚོར་བའི་ཕུང་པོ་ལ་གཉིས་ཏེ། ངོ་བོ་དང༌། དེའི་དབྱེ་བའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-173"/>
+    </navPoint>
+    <navPoint class="chapter" id="uXkZcggSjtiuX8Y8YiVjam2" playOrder="174">
+      <navLabel>
+        <text>གསུམ་པ་འདུ་ཤེས་ཀྱི་ཕུང་པོ་ལ་གཉིས་ཏེ། ངོ་བོ་དང༌། དེའི་དབྱེ་བའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-174"/>
+    </navPoint>
+    <navPoint class="chapter" id="uUImYrmcW4l4sBL2mt3evaB" playOrder="175">
+      <navLabel>
+        <text>གཉིས་པ་༼དེའི་དབྱེ་བའོ་༽ལ་གཉིས། ངོ་བོའི་སྒོ་ནས་དབྱེ་བ། གནས་སྐབས་སམ་དམིགས་པའི་སྒོ་ནས་དབྱེ་བའོ། །དང་པོ་༼ངོ་བོའི་སྒོ་ནས་དབྱེ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-175"/>
+    </navPoint>
+    <navPoint class="chapter" id="u4PQLHtcKseIxsZYtctEmW5" playOrder="176">
+      <navLabel>
+        <text>གཉིས་པ་༼གནས་སྐབས་སམ་དམིགས་པའི་སྒོ་ནས་དབྱེ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-176"/>
+    </navPoint>
+    <navPoint class="chapter" id="uKTbGMG83HbsnrTADFpKXFD" playOrder="177">
+      <navLabel>
+        <text>བཞི་པ་འདུ་བྱེད་ཀྱི་ཕུང་པོ་ལ་གཉིས་ཏེ། ངོ་བོ་དང༌། དེའི་དབྱེ་བའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-177"/>
+    </navPoint>
+    <navPoint class="chapter" id="u4r3IHAYLFdEDsHIRHxVkMH" playOrder="178">
+      <navLabel>
+        <text>གཉིས་པ་༼དེའི་དབྱེ་བའོ་༽ལ་གཉིས། ངོ་བོ་དང་། གནས་སྐབས་ཀྱི་སྒོ་ནས་དབྱེ་བའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-178"/>
+    </navPoint>
+    <navPoint class="chapter" id="uPeTXGY9AZKpDNql7otOA2C" playOrder="179">
+      <navLabel>
+        <text>གཉིས་པ་༼གནས་སྐབས་ཀྱི་སྒོ་ནས་དབྱེ་བའོ་༽ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-179"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZWlDpgXRwTadJDQOfu7AzC" playOrder="180">
+      <navLabel>
+        <text>གཉིས་པ་རྒྱས་བཤད་ལ་གཉིས། མཚུངས་ལྡན་དང༌། མཚུངས་ལྡན་མ་ཡིན་པའི་འདུ་བྱེད་དོ། །དང་པོ་༼མཚུངས་ལྡན་༽ལ་གཉིས། སེམས་སེམས་བྱུང་ཐུན་མོང་དུ་བསྟན་པ། སེམས་ལས་བྱུང་བ་ཁྱད་པར་དུ་བཤད་པའོ། །དང་པོ་༼སེམས་སེམས་བྱུང་ཐུན་མོང་དུ་བསྟན་པ་༽ལ་གསུམ། རང་གི་ངོ་བོ་ངོས་བཟུང༌། གཅིག་དང་ཐ་དད་བརྟག་པ། གཙོ་འཁོར་ངེས་པར་བྱ་བའོ། །དང་པོ་༼རང་གི་ངོ་བོ་ངོས་བཟུང༌༽ལ་གཉིས། མཚན་ཉིད་ཀྱི་ཁྱད་པར། མཚུངས་ལྡན་གྱིས་བསྟན་པའོ། །དང་པོ་༼མཚན་ཉིད་ཀྱི་ཁྱད་པར་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-180"/>
+    </navPoint>
+    <navPoint class="chapter" id="uV3iYSlHaxHPyGkGamnohUF" playOrder="181">
+      <navLabel>
+        <text>གཉིས་པ་༼མཚུངས་ལྡན་གྱིས་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-181"/>
+    </navPoint>
+    <navPoint class="chapter" id="uJ5QPo8MdqKKoyq7DRCb8Z6" playOrder="182">
+      <navLabel>
+        <text>གཉིས་པ་གཅིག་དང་ཐ་དད་བརྟགས་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-182"/>
+    </navPoint>
+    <navPoint class="chapter" id="uItkoAbdupHY9KEwn5MoDXB" playOrder="183">
+      <navLabel>
+        <text>གསུམ་པ་གཙོ་འཁོར་ངེས་པར་བྱ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-183"/>
+    </navPoint>
+    <navPoint class="chapter" id="uEiWjZnS5BZwRhF7F8Pixw7" playOrder="184">
+      <navLabel>
+        <text>གཉིས་པ་སེམས་ལས་བྱུང་བ་ཁྱད་པར་དུ་བཤད་པ་ལ་གཉིས། རྫས་དང་བཏགས་པའི་ཁྱད་པར། སོ་སོའི་དབྱེ་བ་བཤད་པའོ། །དང་པོ་༼རྫས་དང་བཏགས་པའི་ཁྱད་པར་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-184"/>
+    </navPoint>
+    <navPoint class="chapter" id="u68HlsMlvPfSayYLZffqvT8" playOrder="185">
+      <navLabel>
+        <text>གཉིས་པ་དབྱེ་བ་ལ། ལྔ་བཅུ་རྩ་གཅིག་པོ་སྡེ་ཚན་དུ་བསྡུས་ཏེ་དྲུག་གོ། །དང་པོ་༼ཀུན་འགྲོ་ལྔ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-185"/>
+    </navPoint>
+    <navPoint class="chapter" id="u8OmWFU6cyAPrGFuPZwyyUC" playOrder="186">
+      <navLabel>
+        <text>སྡེ་ཚན་གཉིས་པ་༼ཡུལ་ངེས་ལྔ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-186"/>
+    </navPoint>
+    <navPoint class="chapter" id="uLN6YxMDwVTRhwTVe2VHgV6" playOrder="187">
+      <navLabel>
+        <text>སྡེ་ཚན་གསུམ་པ་༼དགེ་སེམས་བཅུ་གཅིག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-187"/>
+    </navPoint>
+    <navPoint class="chapter" id="uFbrNDUzKv35hqxgsbDqUw6" playOrder="188">
+      <navLabel>
+        <text>སྡེ་ཚན་བཞི་པ་༼རྩ་ཉོན་དྲུག་༽ལ་གཉིས། རྩ་ཉོན་སྤྱིར་བཤད་པ། ལྟ་བ་ཁྱད་པར་དུ་དབྱེ་བའོ། །དང་པོ་༼རྩ་ཉོན་སྤྱིར་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-188"/>
+    </navPoint>
+    <navPoint class="chapter" id="uULcOzJFYB2YD56PDsNkFfG" playOrder="189">
+      <navLabel>
+        <text>གཉིས་པ་༼ལྟ་བ་ཁྱད་པར་དུ་དབྱེ་བ་༽ལ་གཉིས། ངོ་བོ། དབྱེ་བའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-189"/>
+    </navPoint>
+    <navPoint class="chapter" id="uXfNa9pgMLXHLbjcbEnsBnB" playOrder="190">
+      <navLabel>
+        <text>སྡེ་ཚན་ལྔ་པ་༼ཉེ་ཉོན་ཉི་ཤུ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-190"/>
+    </navPoint>
+    <navPoint class="chapter" id="uSuSf7J4QZSGmwMHWQhKtM9" playOrder="191">
+      <navLabel>
+        <text>སྡེ་ཚན་དྲུག་པ་༼གཞན་འགྱུར་བཞི་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-191"/>
+    </navPoint>
+    <navPoint class="chapter" id="uIh8eDMzoabYh3CjcgW3o5A" playOrder="192">
+      <navLabel>
+        <text>གཉིས་པ་ལྡན་པ་མ་ཡིན་པའི་འདུ་བྱེད་བཤད་པ་ལ་གཉིས། ངོ་བོ་དང༌། དབྱེ་བའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-192"/>
+    </navPoint>
+    <navPoint class="chapter" id="uaBaLshAEbywwoFLPaiLNLE" playOrder="193">
+      <navLabel>
+        <text>གཉིས་པ་༼དབྱེ་བ་༽ལ་གཉིས། ཉི་ཤུ་རྩ་གསུམ་དུ་དབྱེ་བ། སྡེ་ཚན་བརྒྱད་དུ་བསྡུ་བའོ། །དང་པོ་༼ཉི་ཤུ་རྩ་གསུམ་དུ་དབྱེ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-193"/>
+    </navPoint>
+    <navPoint class="chapter" id="u7Cw6crWjaOVAstKCP4VqM3" playOrder="194">
+      <navLabel>
+        <text>གཉིས་པ་༼སྡེ་ཚན་བརྒྱད་དུ་བསྡུ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-194"/>
+    </navPoint>
+    <navPoint class="chapter" id="uQbmKfGrXiDrpwLrWIOP946" playOrder="195">
+      <navLabel>
+        <text>ལྔ་པ་རྣམ་ཤེས་ཀྱི་ཕུང་པོ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-195"/>
+    </navPoint>
+    <navPoint class="chapter" id="uWyLZffwjBSIoLxMHZ9m58C" playOrder="196">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་གསུམ། སེམས་ཀུན་གཞི། ཡིད་ཉོན་ཡིད། རྣམ་ཤེས་ཚོགས་དྲུག་བཤད་པའོ། །དང་པོ་༼སེམས་ཀུན་གཞི་༽ལ་ལྔ། མཚན་ཉིད། མཚན་གཞི། དམིགས་རྣམ། འཇུག་ལྡོག ས་བོན་གྱི་ཆ་ལས་འཕྲོས་པའི་བག་ཆགས་བཤད་པའོ། །དང་པོ་༼མཚད་ཉིད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-196"/>
+    </navPoint>
+    <navPoint class="chapter" id="uiaWR4fQp8hwaQFdgzvJWPD" playOrder="197">
+      <navLabel>
+        <text>གཉིས་པ་མཚན་གཞི་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-197"/>
+    </navPoint>
+    <navPoint class="chapter" id="udnN6foMh23TcE4aamWZyF2" playOrder="198">
+      <navLabel>
+        <text>གསུམ་པ་དམིགས་རྣམ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-198"/>
+    </navPoint>
+    <navPoint class="chapter" id="uakqw7R3wp85wWr9dslfgAE" playOrder="199">
+      <navLabel>
+        <text>བཞི་པ་འཇུག་ལྡོག་ལ་གཉིས་ཏེ། འཇུག་ཚུལ་དང༌། ལྡོག་ཚུལ་ལོ། །དང་པོ་༼འཇུག་ཚུལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-199"/>
+    </navPoint>
+    <navPoint class="chapter" id="uTForPHgkk2mz9JRUK2ET82" playOrder="200">
+      <navLabel>
+        <text>གཉིས་པ་ལྡོག་ཚུལ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-200"/>
+    </navPoint>
+    <navPoint class="chapter" id="uHcXfzECPhjRG96svsmreb5" playOrder="201">
+      <navLabel>
+        <text>ལྔ་པ་ས་བོན་གྱི་ཆ་ལས་འཕྲོས་པའི་བག་ཆགས་བཤད་པ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-201"/>
+    </navPoint>
+    <navPoint class="chapter" id="u7xTnIi4haKxbtlqKBMS42C" playOrder="202">
+      <navLabel>
+        <text>གཉིས་པ་གང་གིས་དགོད་བྱེད་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-202"/>
+    </navPoint>
+    <navPoint class="chapter" id="urNCubaIraeL2cQItjrH968" playOrder="203">
+      <navLabel>
+        <text>གསུམ་པ་ཇི་ལྟར་བགོ་བའི་ཚུལ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-203"/>
+    </navPoint>
+    <navPoint class="chapter" id="uxGzR8oV5TBgHRhhIeaWAB4" playOrder="204">
+      <navLabel>
+        <text>བཞི་པ་བགོས་པའི་བག་ཆགས་ལ་ལྔ་སྟེ། མཚན་ཉིད། དབྱེ་བ། རང་བཞིན། གནས་ཚུལ། འཇོག་ཚུལ་ལོ། །དང་པོ་༼མཚན་ཉིད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-204"/>
+    </navPoint>
+    <navPoint class="chapter" id="u9N5NJSnMSGtXLOREYRSCID" playOrder="205">
+      <navLabel>
+        <text>གཉིས་པ་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-205"/>
+    </navPoint>
+    <navPoint class="chapter" id="uewKoHNFhAVPxOl3wyXyO33" playOrder="206">
+      <navLabel>
+        <text>གསུམ་པ་རང་བཞིན་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-206"/>
+    </navPoint>
+    <navPoint class="chapter" id="uthZYQjGvasB3UeEJl8BZ74" playOrder="207">
+      <navLabel>
+        <text>བཞི་པ་གནས་ཚུལ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-207"/>
+    </navPoint>
+    <navPoint class="chapter" id="ugpQVXUEIHK4di3W2z8iAa2" playOrder="208">
+      <navLabel>
+        <text>ལྔ་པ་འཇོག་ཚུལ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-208"/>
+    </navPoint>
+    <navPoint class="chapter" id="u8aCcEEuLoT4IIi5SyCmiI3" playOrder="209">
+      <navLabel>
+        <text>གཉིས་པ་ཉོན་ཡིད་བཤད་པ་ལ་བཞི། མཚན་ཉིད། མཚན་གཞི། བྱེད་ལས། འཇུག་ལྡོག་གོ། །དང་པོ་༼མཚན་ཉིད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-209"/>
+    </navPoint>
+    <navPoint class="chapter" id="uNcYTT9UMFpDqSJ5M3JaOLB" playOrder="210">
+      <navLabel>
+        <text>གཉིས་པ་༼མཚན་གཞི་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-210"/>
+    </navPoint>
+    <navPoint class="chapter" id="uGZGcbZ4jT65YKfymdGDJtA" playOrder="211">
+      <navLabel>
+        <text>གསུམ་པ་༼བྱེད་ལས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-211"/>
+    </navPoint>
+    <navPoint class="chapter" id="u9ZYIRwNDidJFlFc2AYlZ74" playOrder="212">
+      <navLabel>
+        <text>བཞི་པ་༼འཇུག་ལྡོག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-212"/>
+    </navPoint>
+    <navPoint class="chapter" id="uvwEyHyGMi8dVtOoPhxY4kB" playOrder="213">
+      <navLabel>
+        <text>གསུམ་པ་རྣམ་ཤེས་དྲུག་བཤད་པ་ལ་བཞི། ངོ་བོ། མཚན་ཉིད། གནས་ཡུལ་གྲོགས་གསུམ། བྱེད་ལས་འབྱུང་ཚུལ་དང་བཅས་པའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-213"/>
+    </navPoint>
+    <navPoint class="chapter" id="udwxgTPNjoZ94q5Tw6DCvw3" playOrder="214">
+      <navLabel>
+        <text>གཉིས་པ་༼མཚན་ཉིད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-214"/>
+    </navPoint>
+    <navPoint class="chapter" id="uEO6LAUmnppaM6HkWYiDA68" playOrder="215">
+      <navLabel>
+        <text>གསུམ་པ་༼གནས་ཡུལ་གྲོགས་གསུམ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-215"/>
+    </navPoint>
+    <navPoint class="chapter" id="uPmFjSZe9ibaioly28aURbF" playOrder="216">
+      <navLabel>
+        <text>བཞི་པ་༼བྱེད་ལས་འབྱུང་ཚུལ་དང་བཅས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-216"/>
+    </navPoint>
+    <navPoint class="chapter" id="uyhxU2DlK2YDW5rKXcdWpED" playOrder="217">
+      <navLabel>
+        <text>གསུམ་པ་མང་ཉུང་ལྡན་ཚུལ་མདོར་བསྡུ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-217"/>
+    </navPoint>
+    <navPoint class="chapter" id="uaU3LIkYBpgnPJAwn4RkdE7" playOrder="218">
+      <navLabel>
+        <text>གཉིས་པ་ཁམས་ཀྱི་རྣམ་པར་གཞག་པ་ལ་གཉིས། ངོ་བོ་ངོས་བཟུང༌། ཕྱེ་བའི་རྣམ་གཞག་གོ། །དང་པོ་༼ངོ་བོ་ངོས་བཟུང་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-218"/>
+    </navPoint>
+    <navPoint class="chapter" id="uOnJy9lzGOiiZfRq8KpVJIC" playOrder="219">
+      <navLabel>
+        <text>གཉིས་པ་ཕྱེ་བའི་རྣམ་གཞག་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-219"/>
+    </navPoint>
+    <navPoint class="chapter" id="ucQvCKKTERoTnagSKLzIFsG" playOrder="220">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་གསུམ། བསྡུས། མ་བསྡུས། ཆོས་ཁམས་སོ། །དང་པོ་༼བསྡུས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-220"/>
+    </navPoint>
+    <navPoint class="chapter" id="uCCKJamOa7AENxx7a2gUffC" playOrder="221">
+      <navLabel>
+        <text>གཉིས་པ་༼མ་བསྡུས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-221"/>
+    </navPoint>
+    <navPoint class="chapter" id="uqWfdpEEQhn8SaOCXsXwtd5" playOrder="222">
+      <navLabel>
+        <text>གསུམ་པ་ཁྱད་པར་ཆོས་ཁམས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-222"/>
+    </navPoint>
+    <navPoint class="chapter" id="uYVyLZ4JfHlG8x59ToZNlGA" playOrder="223">
+      <navLabel>
+        <text>གསུམ་པ་སྐྱེ་མཆེད་ཀྱི་རྣམ་གཞག་ལ་གཉིས། ངོ་བོ་ངོས་བཟུང༌། བསྡུས་ཚུལ་གྱི་དབྱེ་བའོ། །དང་པོ་༼ངོ་བོ་ངོས་བཟུང་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-223"/>
+    </navPoint>
+    <navPoint class="chapter" id="u4QyXiyQi8lZVHgIKNrE3XA" playOrder="224">
+      <navLabel>
+        <text>གཉིས་པ་བསྡུས་ཚུལ་གྱི་དབྱེ་བ་ལ་གསུམ། གཟུགས་ཀྱིས་བསྡུས་པ། སེམས་ཀྱིས་བསྡུས་པ། ཆོས་ཀྱིས་བསྡུས་པའོ། །དང་པོ་༼གཟུགས་ཀྱིས་བསྡུས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-224"/>
+    </navPoint>
+    <navPoint class="chapter" id="urvWyouaRmE4oxSQk8QaKsB" playOrder="225">
+      <navLabel>
+        <text>གཉིས་པ་༼སེམས་ཀྱིས་བསྡུས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-225"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZKIgb6Xbviiw6GuVNpj4AH" playOrder="226">
+      <navLabel>
+        <text>གསུམ་པ་༼ཆོས་ཀྱིས་བསྡུས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-226"/>
+    </navPoint>
+    <navPoint class="chapter" id="uI83dRPj3L55TrnTkRAsRiG" playOrder="227">
+      <navLabel>
+        <text>གཉིས་པ་དེ་དག་གི་དོན་བསྡུ་མངོན་པ་འོག་མའི་ལུགས་ལྟར་བཤད་པ་ལ་གསུམ། དོན་སྡུད་པ་དང་འབྲེལ་བའི་མདོར་བསྟན། དེའི་རྒྱས་བཤད། དེ་དག་གི་དོན་བསྡུའོ། །དང་པོ་༼དོན་སྡུད་པ་དང་འབྲེལ་བའི་མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-227"/>
+    </navPoint>
+    <navPoint class="chapter" id="u5JaOK7Qo3dvzOJdGDqnjQA" playOrder="228">
+      <navLabel>
+        <text>གཉིས་པ་༼དེའི་རྒྱས་བཤད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-228"/>
+    </navPoint>
+    <navPoint class="chapter" id="upa2g5Ssg7nxBGU5dq5PNJ3" playOrder="229">
+      <navLabel>
+        <text>དེ་ལ་དང་པོ་སྣང་བ་གཟུགས་ཀྱི་གཞི་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-229"/>
+    </navPoint>
+    <navPoint class="chapter" id="uYxH8IGHhNxm9TIGIoQu9T6" playOrder="230">
+      <navLabel>
+        <text>གཉིས་པ་གཙོ་བོ་སེམས་ཀྱི་གཞི་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-230"/>
+    </navPoint>
+    <navPoint class="chapter" id="uimtsd6GccNdWYn2Z55xeyG" playOrder="231">
+      <navLabel>
+        <text>གསུམ་པ་འཁོར་སེམས་བྱུང་གི་གཞི་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-231"/>
+    </navPoint>
+    <navPoint class="chapter" id="uWtV5OUVGnZvbVCBSwkboZE" playOrder="232">
+      <navLabel>
+        <text>བཞི་པ་ལྡན་མིན་འདུ་བྱེད་ཀྱི་གཞི་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-232"/>
+    </navPoint>
+    <navPoint class="chapter" id="ulfOIsg7Dwt6YtpA8ODkt92" playOrder="233">
+      <navLabel>
+        <text>ལྔ་པ་འདུས་མ་བྱས་ཀྱི་གཞི་ནི་གསུམ་སྟེ།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-233"/>
+    </navPoint>
+    <navPoint class="chapter" id="uLcSllgsUqADykij2wYHsq7" playOrder="234">
+      <navLabel>
+        <text>གསུམ་པ་དེ་དག་གི་དོན་བསྡུ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-234"/>
+    </navPoint>
+    <navPoint class="chapter" id="uUjOW7yjbO3gDxDgJtdwzi4" playOrder="235">
+      <navLabel>
+        <text>གཉིས་པ་ཐུན་མོང་མ་ཡིན་པ་འཁོར་ལོ་ཐ་མའི་ཤེས་བྱའི་རྣམ་གཞག་བཤད་པ་ལ་གསུམ། ཤེས་བྱའི་གཞི་སྲིད་པ་ཉི་ཤུ་རྩ་ལྔ། མཚན་ཉིད་གང་ལ་འཇུག་པའི་གཞི་ཆོས་ལྔ། དེ་ལ་འཇུག་པའི་མཚན་ཉིད་གསུམ་བཤད་པའོ། །དང་པོ་༼ཤེས་བྱའི་གཞི་སྲིད་པ་ཉི་ཤུ་རྩ་ལྔ་༽ལ་གསུམ། གཞི། ལམ། ཆོས་ཀྱི་དབྱིངས་སོ། །དང་པོ་༼གཞི་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-235"/>
+    </navPoint>
+    <navPoint class="chapter" id="uw5BX4j7QlQ7X9Loq62XL4G" playOrder="236">
+      <navLabel>
+        <text>གཉིས་པ་༼ལམ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-236"/>
+    </navPoint>
+    <navPoint class="chapter" id="uR5LvQIlrgKFnE2YTjyNJkG" playOrder="237">
+      <navLabel>
+        <text>གསུམ་པ་༼ཆོས་ཀྱི་དབྱིངས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-237"/>
+    </navPoint>
+    <navPoint class="chapter" id="ugf5nEAfdbpypGvlGcLlLt6" playOrder="238">
+      <navLabel>
+        <text>གཉིས་པ་༼མཚན་ཉིད་གང་ལ་འཇུག་པའི་གཞི་ཆོས་ལྔ་༽ལ་གཉིས། ཆོས་ལྔ་སོགས་མདོར་བསྟན། དེ་ཉིད་རྒྱས་པར་བཤད་པའོ། །དང་པོ་༼ཆོས་ལྔ་སོགས་མདོར་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-238"/>
+    </navPoint>
+    <navPoint class="chapter" id="u6hWrhzauzllHzMOyzVtEsE" playOrder="239">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་པར་བཤད་པ་༽ལ་ལྔ། རྒྱུ་མཚན། མིང༌། རྣམ་པར་རྟོག་པ། དེ་བཞིན་ཉིད། ཡང་དག་པའི་ཡེ་ཤེས་སོ། །དང་པོ་༼རྒྱུ་མཚན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-239"/>
+    </navPoint>
+    <navPoint class="chapter" id="u4Tot59oVYFjdCBvCJcmHJD" playOrder="240">
+      <navLabel>
+        <text>གཉིས་པ་༼མིང་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-240"/>
+    </navPoint>
+    <navPoint class="chapter" id="uiqDzjK7QyswDLradfJOHuA" playOrder="241">
+      <navLabel>
+        <text>གསུམ་པ་རྣམ་པར་རྟོག་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-241"/>
+    </navPoint>
+    <navPoint class="chapter" id="udohEmS6YtIhqgDUy3L6Xn6" playOrder="242">
+      <navLabel>
+        <text>བཞི་པ་དེ་བཞིན་ཉིད་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-242"/>
+    </navPoint>
+    <navPoint class="chapter" id="uGpzIvyZVLdCYB2KnueLhuA" playOrder="243">
+      <navLabel>
+        <text>ལྔ་པ་ཡང་དག་པའི་ཤེས་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-243"/>
+    </navPoint>
+    <navPoint class="chapter" id="uemOfCJ8C5FpGYR24BbWgo3" playOrder="244">
+      <navLabel>
+        <text>གསུམ་པ་མཚན་ཉིད་གསུམ་བཤད་པ་ལ་ལྔ། ཀུན་བརྟགས། གཞན་དབང༌། ཡོངས་གྲུབ། བྱེ་བྲག་གི་དབྱེ་བསྡུ། སྟོང་ཉིད་གསུམ་དང་མཚན་གཞིར་འཇུག་ཚུལ་ལོ། །དང་པོ་༼ཀུན་བརྟགས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-244"/>
+    </navPoint>
+    <navPoint class="chapter" id="uhW2wucUslMeEWao3lhDYbF" playOrder="245">
+      <navLabel>
+        <text>གཉིས་པ་༼གཞན་དབང་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-245"/>
+    </navPoint>
+    <navPoint class="chapter" id="u7viOxVg3ZTw6JrRxcDAfx5" playOrder="246">
+      <navLabel>
+        <text>གསུམ་པ་༼ཡོངས་གྲུབ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-246"/>
+    </navPoint>
+    <navPoint class="chapter" id="upsD7LjRGytJyADboKbXgqB" playOrder="247">
+      <navLabel>
+        <text>བཞི་པ་༼བྱེ་བྲག་གི་དབྱེ་བསྡུ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-247"/>
+    </navPoint>
+    <navPoint class="chapter" id="uqyThqYKLSGj79PYDRYEGUB" playOrder="248">
+      <navLabel>
+        <text>ལྔ་པ་༼སྟོང་ཉིད་གསུམ་དང་མཚན་གཞིར་འཇུག་ཚུལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-248"/>
+    </navPoint>
+    <navPoint class="chapter" id="u2b52Qqb9JdoJyGQ5WmcJVB" playOrder="249">
+      <navLabel>
+        <text>འདི་ལ་གཉིས། དང་པོ་མཚན་ཉིད་གསུམ་པོ་དེ་སྟོང་པ་ཉིད་གསུམ་དུ་རྣམ་པར་གཞག་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-249"/>
+    </navPoint>
+    <navPoint class="chapter" id="uSGOi6PwoFz7ik5uiHNoJGC" playOrder="250">
+      <navLabel>
+        <text>གཉིས་པ་མཚན་ཉིད་དེ་གསུམ་མཚན་གཞི་ལ་ཇི་ལྟར་འཇུག་པའི་ཚུལ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-250"/>
+    </navPoint>
+    <navPoint class="chapter" id="uIngO77UF9UsLUO2SDS36WE" playOrder="251">
+      <navLabel>
+        <text>རྩ་བའི་གསུམ་པ་རྟེན་འབྲེལ་གྱི་རྣམ་གཞག་ཐེག་པ་ཆེ་ཆུང་སྤྱི་ཁྱབ་ལྟར་བཤད་པ་ལ་གཉིས། མཚམས་སྦྱར་བའི་ཚུལ་གྱིས་མདོར་བསྟན། རབ་ཏུ་དབྱེ་བ་རྒྱས་པར་བཤད་པའོ། །དང་པོ་༼མཚམས་སྦྱར་བའི་ཚུལ་གྱིས་མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-251"/>
+    </navPoint>
+    <navPoint class="chapter" id="uMrPztDBIbYh6mTmG9TOUQD" playOrder="252">
+      <navLabel>
+        <text>གཉིས་པ་རྒྱས་བཤད་ལ་བརྒྱད། ངོ་བོ། ངེས་ཚིག སྒྲ་དོན། ཡན་ལག་བཅུ་གཉིས་སོ་སོའི་ངོས་འཛིན། བྱེད་ལས། རབ་དབྱེ། དོན་བསྡུ། རྟེན་འབྲེལ་གྱི་དེ་ཁོ་ན་ཉིད་བསྟན་པའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-252"/>
+    </navPoint>
+    <navPoint class="chapter" id="u7R8sWQUtL9wSX2HDgc3NlC" playOrder="253">
+      <navLabel>
+        <text>གཉིས་པ་ངེས་ཚིག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-253"/>
+    </navPoint>
+    <navPoint class="chapter" id="uo4gWfN8AqxoydziA5XOTzE" playOrder="254">
+      <navLabel>
+        <text>གསུམ་པ་སྒྲ་དོན་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-254"/>
+    </navPoint>
+    <navPoint class="chapter" id="uIk4zZwmMGJi9qRUSaBuPBD" playOrder="255">
+      <navLabel>
+        <text>བཞི་པ་ཡན་ལག་བཅུ་གཉིས་སོ་སོའི་ངོས་འཛིན་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-255"/>
+    </navPoint>
+    <navPoint class="chapter" id="uN3qspTRqQrNKDBeIIzxX62" playOrder="256">
+      <navLabel>
+        <text>ལྔ་པ་བྱེད་ལས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-256"/>
+    </navPoint>
+    <navPoint class="chapter" id="u6k4Vcf2YlP398QaA28EkZF" playOrder="257">
+      <navLabel>
+        <text>དྲུག་པ་རབ་ཏུ་དབྱེ་བ་བཤད་པ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-257"/>
+    </navPoint>
+    <navPoint class="chapter" id="uyqOCD8RuwUPaUzfDf2QlQ9" playOrder="258">
+      <navLabel>
+        <text>གཉིས་པ་ལ་གསུམ། གསུམ། བརྒྱད། བྱེ་བྲག་གོ། །དང་པོ་༼གསུམ་༽ལའང་གསུམ། ངོ་བོ་ཉིད་རྣམ་པར་འབྱེད་པའི། སྡུག་པ་དང་མི་སྡུག་པ་རྣམ་པར་འབྱེད་པའི། ཉེར་སྤྱོད་ཅན་གྱི་རྟེན་འབྲེལ་ལོ། །དང་པོ་༼ངོ་བོ་ཉིད་རྣམ་པར་འབྱེད་པའི་རྟེན་འབྲེལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-258"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVOujOvpvbBaS74NLVmRVh4" playOrder="259">
+      <navLabel>
+        <text>གཉིས་པ་༼སྡུག་པ་དང་མི་སྡུག་པ་རྣམ་པར་འབྱེད་པའི་རྟེན་འབྲེལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-259"/>
+    </navPoint>
+    <navPoint class="chapter" id="u3zRcRSDBaTrwASzFztdHJD" playOrder="260">
+      <navLabel>
+        <text>གསུམ་པ་༼ཉེར་སྤྱོད་ཅན་གྱི་རྟེན་འབྲེལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-260"/>
+    </navPoint>
+    <navPoint class="chapter" id="unNpdxUYcVuzmmP2QQlStU4" playOrder="261">
+      <navLabel>
+        <text>གཉིས་པ་བརྒྱད་དུ་དབྱེ་བ་ལ་གཉིས། ཀུན་ནས་ཉོན་མོངས་པའི་རྟེན་འབྲེལ་དྲུག རྣམ་བྱང་གི་རྟེན་འབྲེལ་གཉིས་བཤད་པའོ། །དང་པོ་༼ཀུན་ནས་ཉོན་མོངས་པའི་རྟེན་འབྲེལ་དྲུག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-261"/>
+    </navPoint>
+    <navPoint class="chapter" id="uxpqfJoER7bTIxIjOzlWUYG" playOrder="262">
+      <navLabel>
+        <text>གཉིས་པ་༼རྣམ་བྱང་གི་རྟེན་འབྲེལ་གཉིས་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-262"/>
+    </navPoint>
+    <navPoint class="chapter" id="uhJoWiES8ZI8lU2f5WVVUnG" playOrder="263">
+      <navLabel>
+        <text>གསུམ་པ་ཡན་ལག་བཅུ་གཉིས་བྱེ་བྲག་ཏུ་བཤད་པ་ལ་གསུམ། རྒྱུན་ཆགས་པའམ་གནས་སྐབས་པའི་རྟེན་འབྲེལ། སྐད་ཅིག་མའི་རྟེན་འབྲེལ། འབྲེལ་བ་ཅན་གྱི་རྟེན་འབྲེལ་ལོ། །དང་པོ་༼རྒྱུན་ཆགས་པའམ་གནས་སྐབས་པའི་རྟེན་འབྲེལ་༽ལ་གསུམ། འདོད་ཁམས་ཀྱི་སྐྱེ་བ་གཉིས་ལ་ཡན་ལག་བཅུ་གཉིས་ཚར་གཅིག་རྫོགས་པའི་ཚུལ། སྐྱེ་བ་གསུམ་ལ་རྫོགས་པའི་ཚུལ། ཚེ་གཅིག་ལ་རྫོགས་པའི་ཚུལ་ལོ། །དང་པོ་༼འདོད་ཁམས་ཀྱི་སྐྱེ་བ་གཉིས་ལ་ཡན་ལག་བཅུ་གཉིས་ཚར་གཅིག་རྫོགས་པའི་ཚུལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-263"/>
+    </navPoint>
+    <navPoint class="chapter" id="uHIVsSXSrguTZkI8xnNHzGF" playOrder="264">
+      <navLabel>
+        <text>གཉིས་པ་༼སྐྱེ་བ་གསུམ་ལ་རྫོགས་པའི་ཚུལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-264"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVF9Ij9ZtgZf8MZbxDUZTw2" playOrder="265">
+      <navLabel>
+        <text>གསུམ་པ་༼ཚེ་གཅིག་ལ་རྫོགས་པའི་ཚུལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-265"/>
+    </navPoint>
+    <navPoint class="chapter" id="uMvFDBTTbOCQfcwD3AcJlj8" playOrder="266">
+      <navLabel>
+        <text>གཉིས་པ་སྐད་ཅིག་མའི་རྟེན་འབྲེལ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-266"/>
+    </navPoint>
+    <navPoint class="chapter" id="uXFyjqFOicGlWAoQkUWpkVE" playOrder="267">
+      <navLabel>
+        <text>གསུམ་པ་འབྲེལ་བ་ཅན་གྱི་རྟེན་འབྲེལ་བཤད་པ་ལའང་གཉིས། རྗེ་བཙུན་བྱམས་པའི་གཞུང་གི་དོན་དང༌། སློབ་དཔོན་དབྱིག་གཉེན་གྱི་གཞུང་གི་དོན་ནོ། །དང་པོ་༼རྗེ་བཙུན་བྱམས་པའི་གཞུང་གི་དོན་༽ལ་གསུམ། དབྱེ་བ། བསྡུ་བ། རྒྱུ་བདུན་དུ་བསྟན་པའོ། །དང་པོ་༼དབྱེ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-267"/>
+    </navPoint>
+    <navPoint class="chapter" id="ujjN9HAhVOxuRITbjzL34TC" playOrder="268">
+      <navLabel>
+        <text>གཉིས་པ་༼བསྡུ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-268"/>
+    </navPoint>
+    <navPoint class="chapter" id="uon38LNfAEHoJwCJyIqNvLG" playOrder="269">
+      <navLabel>
+        <text>གསུམ་པ་༼རྒྱུ་བདུན་དུ་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-269"/>
+    </navPoint>
+    <navPoint class="chapter" id="u5hIkFLAqyTW6JNVgFmWWF3" playOrder="270">
+      <navLabel>
+        <text>གཉིས་པ་སློབ་དཔོན་དབྱིག་གཉེན་གྱི་གཞུང་གི་དོན་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-270"/>
+    </navPoint>
+    <navPoint class="chapter" id="uQyVzQxs7v3nYAQfOnKZ5KC" playOrder="271">
+      <navLabel>
+        <text>བདུན་པ་རྟེན་འབྲེལ་གྱི་དོན་བསྡུ་བ་ལ་གསུམ། སྐྱེ་འགག་རྟོགས་པ་རྟེན་འབྲེལ་ལས་བྱུང་ཚུལ། དེ་བདེན་གཉིས་སུ་བསྡུ་བ། ཟབ་འགལ་ལྔ་ཡིས་རྟོགས་པར་དཀའ་བའི་ཚུལ་གྱིས་ཞར་བྱུང་རྟོགས་ན་ཕན་ཡོན་དང་ལྡན་པར་བཤད་པའོ། །དང་པོ་༼སྐྱེ་འགག་རྟོགས་པ་རྟེན་འབྲེལ་ལས་བྱུང་ཚུལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-271"/>
+    </navPoint>
+    <navPoint class="chapter" id="upxEKcmOLvaDACLNJjRvE69" playOrder="272">
+      <navLabel>
+        <text>གསུམ་པ་༼ཟབ་འགལ་ལྔ་ཡིས་རྟོགས་པར་དཀའ་བའི་ཚུལ་གྱི་ཞར་བྱུང་རྟོགས་ན་ཕན་ཡོན་དང་ལྡན་པར་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-272"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVK5lNnPHtjcgDSFJONh3PG" playOrder="273">
+      <navLabel>
+        <text>བརྒྱད་པ་རྟེན་འབྲེལ་གྱི་དེ་ཁོ་ན་ཉིད་བསྟན་པ་ལ་གསུམ། བདག་མེད་པའི་དེ་ཁོ་ན་ཉིད་དང༌། ནང་གི་དེ་ཁོ་ན་ཉིད་དང༌། རང་བཞིན་མེད་པའི་དེ་ཁོ་ན་ཉིད་དོ། །དང་པོ་༼བདག་མེད་པའི་དེ་ཁོ་ན་ཉིད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-273"/>
+    </navPoint>
+    <navPoint class="chapter" id="uUF9bJ8usj8lcE7IeqYv4B6" playOrder="274">
+      <navLabel>
+        <text>གཉིས་པ་༼ནང་གི་དེ་ཁོ་ན་ཉིད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-274"/>
+    </navPoint>
+    <navPoint class="chapter" id="u23XFuiWgX3jqAch8FOT8CD" playOrder="275">
+      <navLabel>
+        <text>གསུམ་པ་༼རང་བཞིན་མེད་པའི་དེ་ཁོ་ན་ཉིད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-2.xhtml#_idParaDest-275"/>
+    </navPoint>
+    <navPoint class="chapter" id="utZUoPoLxUo5ExnpLSiRd3A" playOrder="276">
+      <navLabel>
+        <text>སྐབས་གསུམ་པ་རྒྱུ་མཚན་ཉིད་ཀྱི་ཐེག་པ་རྣམ་པར་གཞག་པ་ལ་གཉིས། སྤྱིར་བསྟན་པ་དང༌། བྱེ་བྲག་ཏུ་དབྱེ་བའོ། །དང་པོ་༼སྤྱིར་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-276"/>
+    </navPoint>
+    <navPoint class="chapter" id="udKJyN2cJngpuasXSs8QfV4" playOrder="277">
+      <navLabel>
+        <text>གཉིས་པ་༼བྱེ་བྲག་ཏུ་དབྱེ་བ་༽ལ་གཉིས། ཐགེ་པ་ཆུང་ངུའི་རྣམ་གཞག་དང༌། ཐགེ་པ་ཆེན་པོའི་རྣམ་གཞག་གོ། །དང་པོ་༼ཐགེ་པ་ཆུང་ངུའི་རྣམ་གཞག་༽ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-277"/>
+    </navPoint>
+    <navPoint class="chapter" id="uF3L4ovFCCRVGjFzV6G5HPF" playOrder="278">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་གཉིས། ཉན་ཐོས་ཀྱི་ཐེག་པ་དང༌། རང་སངས་རྒྱས་ཀྱི་ཐེག་པའོ། །དང་པོ་༼ཉན་ཐོས་ཀྱི་ཐེག་པ་༽ལ་དྲུག སྒྲ་དོན་ངེས་ཚིག གང་ལ་འཇུག་སྒོ། བསྲུང་བྱའི་སྡོམ་པ། རྟོགས་བྱའི་ལྟ་བ། འཐོབ་བྱའི་འབྲས་བུ། རབ་ཏུ་དབྱེ་བའོ། །དང་པོ་༼སྒྲ་དོན་ངེས་ཚིག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-278"/>
+    </navPoint>
+    <navPoint class="chapter" id="ubHWHweAbYJHdpwlKhaHWQF" playOrder="279">
+      <navLabel>
+        <text>གཉིས་པ་གང་ལ་འཇུག་པའི་སྒོ་བཤད་པ་ལ་གཉིས། རྣམ་གྲངས་ཀྱི་སྒོ་ནས་མདོར་བསྟན། མཚན་ཉིད་ཀྱི་སྒོ་ནས་རྒྱས་པར་བཤད་པའོ། །དང་པོ་༼རྣམ་གྲངས་ཀྱི་སྒོ་ནས་མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-279"/>
+    </navPoint>
+    <navPoint class="chapter" id="uXtWkc7hPfU2vV8DMTNwle2" playOrder="280">
+      <navLabel>
+        <text>གཉིས་པ་༼མཚན་ཉིད་ཀྱི་སྒོ་ནས་རྒྱས་པར་བཤད་པ་༽ལ་གསུམ། ཐུན་མོང་དུ་བཤད་པ། བདེན་བཞི་སོ་སོར་བཤད་པ། སྤྱི་མཚན་བསྡུས་ཏེ་བསྟན་པའོ། །དང་པོ་༼ཐུན་མོང་དུ་བཤད་པ་༽ལ་བཞི། ངོ་བོ། མཚན་ཉིད། གྲངས་དང་གོ་རིམ། ངེས་ཚིག་གོ། །དང་པོ་ངོ་བོ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-280"/>
+    </navPoint>
+    <navPoint class="chapter" id="uPf78FoPjmTFbFGvVGtfvo5" playOrder="281">
+      <navLabel>
+        <text>གཉིས་པ་མཚན་ཉིད་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-281"/>
+    </navPoint>
+    <navPoint class="chapter" id="uYl7zkX7S3bLtgia4MrzoTB" playOrder="282">
+      <navLabel>
+        <text>གསུམ་པ་གྲངས་དང་གོ་རིམ་ངེས་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-282"/>
+    </navPoint>
+    <navPoint class="chapter" id="ugWnvdhzBszwqOmL8ySTOXF" playOrder="283">
+      <navLabel>
+        <text>བཞི་པ་ངེས་ཚིག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-283"/>
+    </navPoint>
+    <navPoint class="chapter" id="u27f4sfY7PprQqkrLE37eZ5" playOrder="284">
+      <navLabel>
+        <text>གཉིས་པ་བདེན་པ་སོ་སོར་བཤད་པ་ལ་བཞི་ལས། ཤེས་བྱ་སྡུག་བསྔལ་བདེན་པ། སྤང་བྱ་ཀུན་འབྱུང་བདེན་པ། འཐོབ་བྱ་འགོག་པའི་བདེན་པ། བསྟེན་བྱ་ལམ་གྱི་བདེན་པའོ། །དང་པོ་༼ཤེས་བྱ་སྡུག་བསྔལ་བདེན་པ་༽ལ་གཉིས། རང་བཞིན་གཏན་ལ་དབབ་པ། ངོ་བོའི་སྒོ་ནས་དབྱེ་བསྡུའོ། །དང་པོ་༼རང་བཞིན་གཏན་ལ་དབབ་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-284"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZXxPTlu5BTxAITIvpXlQjF" playOrder="285">
+      <navLabel>
+        <text>གཉིས་པ་ངོ་བོའི་སྒོ་ནས་དབྱེ་བསྡུ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-285"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVXRYvWOpNFqgtAQWKb6mBG" playOrder="286">
+      <navLabel>
+        <text>གཉིས་པ་སྤང་བྱ་ཀུན་འབྱུང་བདེན་པ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-286"/>
+    </navPoint>
+    <navPoint class="chapter" id="ufi6xFPpQYrgrvS9xhMpMJG" playOrder="287">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་གཉིས། ཉོན་མོངས་ཀུན་འབྱུང་དང༌། ལས་ཀྱི་ཀུན་འབྱུང་ངོ༌། །དང་པོ་༼ཉོན་མོངས་ཀུན་འབྱུང་༽ལ་གསུམ། འབྱུང་རྒྱུ། ངོ་བོ། རབ་དབྱེའོ། །དང་པོ་༼འབྱུང་རྒྱུ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-287"/>
+    </navPoint>
+    <navPoint class="chapter" id="utxsL2ieQ5nRAFzY6RD7JIH" playOrder="288">
+      <navLabel>
+        <text>གཉིས་པ་ངོ་བོ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-288"/>
+    </navPoint>
+    <navPoint class="chapter" id="uCRun5gdaVEb24tAB9Z3pb3" playOrder="289">
+      <navLabel>
+        <text>གསུམ་པ་རབ་དབྱེ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-289"/>
+    </navPoint>
+    <navPoint class="chapter" id="uN6w9vNxfrIbrQdK6QGvPoC" playOrder="290">
+      <navLabel>
+        <text>གཉིས་པ་ལས་ཀྱི་ཀུན་འབྱུང་ལ་གཉིས། ངོ་བོ་དང༌། དེའི་དབྱེ་བའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-290"/>
+    </navPoint>
+    <navPoint class="chapter" id="u5Rv8V6eOcEeeXC4CysGp6B" playOrder="291">
+      <navLabel>
+        <text>གཉིས་པ་དབྱེ་བ་ལ་གཉིས་ཏེ། ངོ་བོའི་སྒོ་ནས་དབྱེ་བ་དང༌། དབྱེ་ཚུལ་གྱི་སྒོ་ནས་གཞན་བསྟན་པའོ། །དང་པོ་༼ངོ་བོའི་སྒོ་ནས་དབྱེ་བ་༽ལ་གཉིས། རྩ་བས་མདོར་བསྟན། འགྲེལ་པས་ཁ་བསྐངས་ཏེ་རྒྱས་པར་བཤད་པའོ། །དང་པོ་༼རྩ་བས་མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-291"/>
+    </navPoint>
+    <navPoint class="chapter" id="uh9dtjOTCwY3M4VHHuDi8c6" playOrder="292">
+      <navLabel>
+        <text>གཉིས་པ་༼འགྲེལ་པས་ཁ་བསྐངས་ཏེ་རྒྱས་པར་བཤད་པ་༽ལ་གསུམ། བསོད་ནམས་མིན་པ། བསོད་ནམས། མི་གཡོ་བའི་ལས་བཤད་པའོ། །དང་པོ་༼བསོད་ནམས་མིན་པའི་ལས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-292"/>
+    </navPoint>
+    <navPoint class="chapter" id="uHDcEo2HvgQVgYtxGRGnjm8" playOrder="293">
+      <navLabel>
+        <text>གཉིས་པ་བསོད་ནམས་ཀྱི་ལས་ཀྱང་གཙོ་བོར་བསྡུ་ན།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-293"/>
+    </navPoint>
+    <navPoint class="chapter" id="uRE8nziwABU3ABrjwSoBuZ6" playOrder="294">
+      <navLabel>
+        <text>གསུམ་པ་མི་གཡོ་བའི་ལས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-294"/>
+    </navPoint>
+    <navPoint class="chapter" id="umAckbcVEMsJ4yd8cCwz3q8" playOrder="295">
+      <navLabel>
+        <text>གཉིས་པ་དབྱེ་ཚུལ་གྱི་སྒོ་ནས་གཞན་བསྟན་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-295"/>
+    </navPoint>
+    <navPoint class="chapter" id="uJBvKYTxnnGCHZf8CXkyZ5H" playOrder="296">
+      <navLabel>
+        <text>གསུམ་པ་འཐོབ་བྱ་འགོག་པའི་བདེན་པ་བཤད་པ་ལ་གཉིས། སྤྱི་དོན་མདོར་བསྟན། རང་བཞིན་གཏན་ལ་དབབ་པའོ། །དང་པོ་༼སྤྱི་དོན་མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-296"/>
+    </navPoint>
+    <navPoint class="chapter" id="uKBrcdS5AEEU4vUHyGfgEk8" playOrder="297">
+      <navLabel>
+        <text>གཉིས་པ་༼རང་བཞིན་གཏན་ལ་དབབ་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-297"/>
+    </navPoint>
+    <navPoint class="chapter" id="uNKhtd99wysNxyqfeVWwml2" playOrder="298">
+      <navLabel>
+        <text>བཞི་པ་བསྟེན་བྱ་ལམ་གྱི་བདེན་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-298"/>
+    </navPoint>
+    <navPoint class="chapter" id="ukS42t6jJZ8M4WWc9b7s6LG" playOrder="299">
+      <navLabel>
+        <text>གསུམ་པ་སྤྱི་མཚན་བསྡུས་ཏེ་བསྟན་པ་ལ་བཞི། སྡུག་ཀུན་འགོག་ལམ་མོ། །དང་པོ་༼སྡུག་བདེན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-299"/>
+    </navPoint>
+    <navPoint class="chapter" id="ujafXQHcqrxUrb2pPTYVq4F" playOrder="300">
+      <navLabel>
+        <text>གཉིས་པ་༼ཀུན་བདེན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-300"/>
+    </navPoint>
+    <navPoint class="chapter" id="uxrVmoAEpfOCoTpapNXRWgF" playOrder="301">
+      <navLabel>
+        <text>གསུམ་པ་༼འགོག་བདེན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-301"/>
+    </navPoint>
+    <navPoint class="chapter" id="uaYZ3Dl6lwdXTVwZoWxFMUC" playOrder="302">
+      <navLabel>
+        <text>བཞི་པ་༼ལམ་བདེན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-302"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVreoRDE4vu5Iv72mhVhjM5" playOrder="303">
+      <navLabel>
+        <text>གསུམ་པ་བསྲུང་བྱའི་སྡོམ་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-303"/>
+    </navPoint>
+    <navPoint class="chapter" id="usgZge6kseVGTQWOj28D3G8" playOrder="304">
+      <navLabel>
+        <text>བཞི་པ་རྟོགས་བྱའི་ལྟ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-304"/>
+    </navPoint>
+    <navPoint class="chapter" id="uDCjISBXZ8YdDs2NyXOmc7G" playOrder="305">
+      <navLabel>
+        <text>ལྔ་པ་འཐོབ་བྱའི་འབྲས་བུ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-305"/>
+    </navPoint>
+    <navPoint class="chapter" id="uFHYWFyJUeJEvuXghmAxxcA" playOrder="306">
+      <navLabel>
+        <text>དྲུག་པ་རབ་ཏུ་དབྱེ་བ་ལ་གསུམ། གྲུབ་མཐའི་སྒོ་ནས། སྡེ་པའི་སྒོ་ནས། འབྲས་བུའི་སྒོ་ནས་དབྱེ་བའོ། །དང་པོ་༼གྲུབ་མཐའི་སྒོ་ནས་༽ལ་གཉིས། དབྱེ་བ་དངོས། དེའི་འདོད་པ་བརྗོད་པའོ། །དང་པོ་༼དབྱེ་བ་དངོས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-306"/>
+    </navPoint>
+    <navPoint class="chapter" id="ueR2iABFKMsI3SywgRavPO5" playOrder="307">
+      <navLabel>
+        <text>གཉིས་པ་འདོད་པ་བརྗོད་པ་ལ་གཉིས། འདོད་པ་མཐུན་པ་དང༌། མི་མཐུན་པའོ། །དང་པོ་༼འདོད་པ་མཐུན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-307"/>
+    </navPoint>
+    <navPoint class="chapter" id="uOIMsOR4y7xAqGB4PmYDqI4" playOrder="308">
+      <navLabel>
+        <text>གཉིས་པ་འདོད་པ་མི་མཐུན་པ་ལ་གཉིས། བྱེ་སྨྲ་དང་མདོ་སྡེ་པའོ། །དང་པོ་༼བྱེ་སྨྲ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-308"/>
+    </navPoint>
+    <navPoint class="chapter" id="uldDVoOZL3o7c3DgEgNZJTE" playOrder="309">
+      <navLabel>
+        <text>གཉིས་པ་༼མདོ་སྡེ་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-309"/>
+    </navPoint>
+    <navPoint class="chapter" id="uyhI7jiMtLoHPo74lCbKjXE" playOrder="310">
+      <navLabel>
+        <text>གཉིས་པ་སྡེ་པའི་སྒོ་ནས་དབྱེ་བ་ལ་གསུམ། རྩ་བའི་སྡེ་པ་བཞི། གྱེས་པ་བཅོ་བརྒྱད། གཉིས་སུ་བསྡུ་བའོ། །དང་པོ་༼རྩ་བའི་སྡེ་པ་བཞི་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-310"/>
+    </navPoint>
+    <navPoint class="chapter" id="uMS6vfrLtHDiwIoIwWkVqIA" playOrder="311">
+      <navLabel>
+        <text>གཉིས་པ་༼གྱེས་པ་བཅོ་བརྒྱད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-311"/>
+    </navPoint>
+    <navPoint class="chapter" id="un2YYgP7mJ7v3HsUf5cBKeE" playOrder="312">
+      <navLabel>
+        <text>གསུམ་པ་༼གཉིས་སུ་བསྡུ་བ་༽ལ། གཉིས་སུ་བསྡུ་བ་དངོས་དང༌། ཞར་བྱུང་རྣམ་པར་བརྟགས་པའོ། །དང་པོ་༼གཉིས་སུ་བསྡུ་བ་དངོས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-312"/>
+    </navPoint>
+    <navPoint class="chapter" id="uSB3eWwW2FvrVnEzHSsdcR6" playOrder="313">
+      <navLabel>
+        <text>གཉིས་པ་༼ཞར་བྱུང་རྣམ་པར་བརྟགས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-313"/>
+    </navPoint>
+    <navPoint class="chapter" id="u5bAlvbKj9YP8adzqpyZGTB" playOrder="314">
+      <navLabel>
+        <text>གསུམ་པ་འབྲས་བུའི་སྒོ་ནས་དབྱེ་བ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-314"/>
+    </navPoint>
+    <navPoint class="chapter" id="uK7awGRSpCPABfGkHLqgxRC" playOrder="315">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་གཉིས། རིམ་གྱིས་པ་ཞིབ་པར་བཤད། ཐོད་རྒལ་དང་ཅིག་ཅར་བ་འཕྲོས་དོན་དུ་བཤད་པའོ། །དང་པོ་༼རིམ་གྱིས་པ་ཞིབ་པར་བཤད།༽ལ་བཞི། རྒྱུན་ཞུགས། ཕྱིར་འོང༌། ཕྱིར་མི་འོང༌། དགྲ་བཅོམ་པའོ། །དེའི་དང་པོ་༼རྒྱུན་ཞུགས་༽ལ་གཉིས། རྒྱུན་ཞུགས་ཞུགས་པ་དང༌། འབྲས་གནས་སོ། །དང་པོ་༼རྒྱུན་ཞུགས་ཞུགས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-315"/>
+    </navPoint>
+    <navPoint class="chapter" id="uGJbwIssWyNPOKHjButVmSA" playOrder="316">
+      <navLabel>
+        <text>གཉིས་པ་༼འབྲས་གནས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-316"/>
+    </navPoint>
+    <navPoint class="chapter" id="u8OTrXIbkfqtHlrHwNB4i5H" playOrder="317">
+      <navLabel>
+        <text>གཉིས་པ་ལན་ཅིག་ཕྱིར་འོང་བ་ལ་གཉིས་ཏེ། ཕྱིར་འོང་ཞུགས་པ་དང༌། འབྲས་གནས་སོ། །དང་པོ་༼ཕྱིར་འོང་ཞུགས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-317"/>
+    </navPoint>
+    <navPoint class="chapter" id="uIIWj6fN8F7eVHIWrwL2uaG" playOrder="318">
+      <navLabel>
+        <text>གཉིས་པ་༼འབྲས་གནས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-318"/>
+    </navPoint>
+    <navPoint class="chapter" id="uXZJ2P6tuKlLNHB5nNmbjSB" playOrder="319">
+      <navLabel>
+        <text>གསུམ་པ་ཕྱིར་མི་འོང་ལ་གཉིས་ཏེ། ཕྱིར་མི་འོང་ཞུགས་པ་དང༌། འབྲས་གནས་སོ། །དང་པོ་༼ཕྱིར་མི་འོང་ཞུགས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-319"/>
+    </navPoint>
+    <navPoint class="chapter" id="u5H26nK7PZVpN79wVlAW8d2" playOrder="320">
+      <navLabel>
+        <text>བཞི་པ་དགྲ་བཅོམ་པ་ལ་གཉིས་ཏེ། དགྲ་བཅོམ་ཞུགས་པ་དང༌། དགྲ་བཅོམ་འབྲས་གནས་སོ། །དང་པོ་༼དགྲ་བཅོམ་ཞུགས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-320"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVDep59QG3mLmoVtldiu3x9" playOrder="321">
+      <navLabel>
+        <text>གཉིས་པ་༼དགྲ་བཅོམ་འབྲས་གནས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-321"/>
+    </navPoint>
+    <navPoint class="chapter" id="uMrUFJpfIrA9XrdpRkyX79H" playOrder="322">
+      <navLabel>
+        <text>གཉིས་པ་ཐོད་རྒལ་དང་ཅིག་ཅར་བ་འཕྲོས་དོན་དུ་སྨོས་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-322"/>
+    </navPoint>
+    <navPoint class="chapter" id="uLKGMlehHRxpImK3OXZeIT9" playOrder="323">
+      <navLabel>
+        <text>གཉིས་པ་རང་སངས་རྒྱས་ཀྱི་ཐེག་པ་ལ་གཉིས་ཏེ། ཉན་རང་གི་ཁྱད་པར་དང༌། རང་རྒྱལ་གྱི་རྣམ་གཞག་གོ། །དང་པོ་༼ཉན་རང་གི་ཁྱད་པར་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-323"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZphkDFKrdC9RDP93eBQuj7" playOrder="324">
+      <navLabel>
+        <text>གཉིས་པ་རང་རྒྱལ་གྱི་རྣམ་གཞག་ལ་དྲུག་སྟེ། སྒྲ་དོན་ངེས་ཚིག གང་ལ་འཇུག་སྒོ། བསྲུང་བྱའི་སྡོམ་པ། རྟོགས་བྱའི་ལྟ་བ། འཐོབ་བྱའི་འབྲས་བུ། རབ་ཏུ་དབྱེ་བའོ། །དང་པོ་༼སྒྲ་དོན་ངེས་ཚིག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-324"/>
+    </navPoint>
+    <navPoint class="chapter" id="ujXklxTvmSRZzNcB9HpwcuA" playOrder="325">
+      <navLabel>
+        <text>གཉིས་པ་ལ་གང་ལ་འཇུག་སྒོ་སྤྱིར་བསྟན། སྒོམ་ཚུལ་བྱེ་བྲག་ཏུ་བཤད་པའོ། །དང་པོ་༼གང་ལ་འཇུག་པའི་སྒོ་སྤྱིར་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-325"/>
+    </navPoint>
+    <navPoint class="chapter" id="u7uwCftIbzY9h96K9xgt7lC" playOrder="326">
+      <navLabel>
+        <text>གཉིས་པ་༼སྒོམ་ཚུལ་བྱེ་བྲག་ཏུ་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-326"/>
+    </navPoint>
+    <navPoint class="chapter" id="uazzeO4xupi9vHh7NpDdK7H" playOrder="327">
+      <navLabel>
+        <text>གསུམ་པ་བསྲུང་བྱའི་སྡོམ་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-327"/>
+    </navPoint>
+    <navPoint class="chapter" id="u9lQOaYTgkNiULzZcsoMZP2" playOrder="328">
+      <navLabel>
+        <text>བཞི་པ་རྟོགས་བྱའི་ལྟ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-328"/>
+    </navPoint>
+    <navPoint class="chapter" id="uHxWFdGcajRsguKOLLAy256" playOrder="329">
+      <navLabel>
+        <text>ལྔ་པ་འཐོབ་བྱའི་འབྲས་བུ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-329"/>
+    </navPoint>
+    <navPoint class="chapter" id="uRR8CFHGiepTzanTdkOynuD" playOrder="330">
+      <navLabel>
+        <text>དྲུག་པ་རབ་ཏུ་དབྱེ་བ་ལ་གཉིས། བསེ་རུ་ལྟ་བུ་དང༌། ཚོགས་ན་སྤྱོད་པའོ། །དང་པོ་༼བསེ་རུ་ལྟ་བུ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-330"/>
+    </navPoint>
+    <navPoint class="chapter" id="uYja5ENrcTnujsf5eRuglmC" playOrder="331">
+      <navLabel>
+        <text>གཉིས་པ་ཚོགས་ན་སྤྱོད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-331"/>
+    </navPoint>
+    <navPoint class="chapter" id="uJ9zlH4TAidMcVLPL8xSQIG" playOrder="332">
+      <navLabel>
+        <text>གཉིས་པ་ཐེག་པ་ཆེན་པོའི་རྣམ་པར་གཞག་པ་ལ་གཉིས། ཐེག་པ་ཆེ་ཆུང་གི་ཁྱད་པར་བརྗོད། ཐེག་ཆེན་དངོས་ཉིད་རྣམ་པར་གཞག་པའོ། །དང་པོ་༼ཐེག་པ་ཆེ་ཆུང་གི་ཁྱད་པར་བརྗོད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-332"/>
+    </navPoint>
+    <navPoint class="chapter" id="uizHbMIPGyz4iABAZklpiD6" playOrder="333">
+      <navLabel>
+        <text>གཉིས་པ་ཐེག་པ་ཆེན་པོ་དངོས་ཀྱི་རྣམ་གཞག་ལ་གཉིས་ཏེ། རྒྱུ་མཚན་ཉིད་ཕར་ཕྱིན་ཐེག་པ་དང༌། འབྲས་བུ་གསང་སྔགས་རྡོ་རྗེ་ཐེག་པའོ། །དང་པོ་༼རྒྱུ་མཚན་ཉིད་ཕར་ཕྱིན་ཐེག་པ་༽ལ་གཉིས། མཚན་ཉིད་མདོར་བསྟན། རྣམ་གཞག་རྒྱས་པར་སྨོས་པའོ། །དང་པོ་༼མཚན་ཉིད་མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-333"/>
+    </navPoint>
+    <navPoint class="chapter" id="uHoMsSKpbd47PerAJkXAbM6" playOrder="334">
+      <navLabel>
+        <text>གཉིས་པ་རྣམ་གཞག་དངོས་ལ་གཉིས། བསླབ་བྱ་ཉམས་ལེན་སྤྱིར་བསྟན། གྲུབ་མཐའི་དབྱེ་བ་བྱེ་བྲག་ཏུ་བཤད་པའོ། །དང་པོ་༼བསླབ་བྱ་ཉམས་ལེན་སྤྱིར་བསྟན་པ་༽ལ་གསུམ། སློབ་པ་པོའི་གང་ཟག བསླབ་བྱ་སྦྱོར་བ་ཕྱིན་དྲུག དངོས་གཞི་ཞི་ལྷག་བཤད་པའོ། །དང་པོ་༼སློབ་པ་པོའི་གང་ཟག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-334"/>
+    </navPoint>
+    <navPoint class="chapter" id="u84fBGcvAh8rDkuq2gdIKQ3" playOrder="335">
+      <navLabel>
+        <text>གཉིས་པ་༼བསླབ་བྱ་སྦྱོར་བ་ཕྱིན་དྲུག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-335"/>
+    </navPoint>
+    <navPoint class="chapter" id="uflGFqPSEdih2p2PluDohRE" playOrder="336">
+      <navLabel>
+        <text>དང་པོ་ངོ་བོ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-336"/>
+    </navPoint>
+    <navPoint class="chapter" id="uA2xSwSliRyQy5xJBaRsjR9" playOrder="337">
+      <navLabel>
+        <text>གཉིས་པ་མཚན་ཉིད་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-337"/>
+    </navPoint>
+    <navPoint class="chapter" id="uRjHDnyZHWFm3REVdkrg2t7" playOrder="338">
+      <navLabel>
+        <text>གསུམ་པ་ངེས་ཚིག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-338"/>
+    </navPoint>
+    <navPoint class="chapter" id="udQJN3MDLXcTK4sifnsRKGE" playOrder="339">
+      <navLabel>
+        <text>བཞི་པ་དབྱེ་བསྡུ་གཉིས་ལས།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-339"/>
+    </navPoint>
+    <navPoint class="chapter" id="udOaCsklzTwA7Wb7VFCEeMF" playOrder="340">
+      <navLabel>
+        <text>ལྔ་པ་༼ལན་དང་རྣམ་སྨིན་ལ་མི་རེ་བས་ཡང་དག་པར་འགྱུར་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-340"/>
+    </navPoint>
+    <navPoint class="chapter" id="uulYbploSzRqVGlhod3aK43" playOrder="341">
+      <navLabel>
+        <text>དྲུག་པ་གཙོ་བོ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-341"/>
+    </navPoint>
+    <navPoint class="chapter" id="urDWLbkq7EPJixVpn4wJ6YC" playOrder="342">
+      <navLabel>
+        <text>བདུན་པ་ཁྱད་པར་ལའང་གཉིས།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-342"/>
+    </navPoint>
+    <navPoint class="chapter" id="u9JrBYLJTB3EsEbcaKtZ5CE" playOrder="343">
+      <navLabel>
+        <text>བརྒྱད་པ་སློབ་ཚུལ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-343"/>
+    </navPoint>
+    <navPoint class="chapter" id="uhjiPABm2viwMBFkYfejv89" playOrder="344">
+      <navLabel>
+        <text>དགུ་པ་འབྲས་བུ་ལ་གནས་སྐབས་སུ།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-344"/>
+    </navPoint>
+    <navPoint class="chapter" id="utYdJvaorgLPGcZ6cGcCZIG" playOrder="345">
+      <navLabel>
+        <text>བཅུ་པ་གྲངས་ངེས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-345"/>
+    </navPoint>
+    <navPoint class="chapter" id="ugod8paqLmfEVQa3Uckd5DG" playOrder="346">
+      <navLabel>
+        <text>བཅུ་གཅིག་པ་གོ་རིམ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-346"/>
+    </navPoint>
+    <navPoint class="chapter" id="u3KtVEl3QOOFX3GC7GgtvX6" playOrder="347">
+      <navLabel>
+        <text>གསུམ་པ་དངོས་གཞི་ཞི་ལྷག་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-347"/>
+    </navPoint>
+    <navPoint class="chapter" id="uypLWRjMiZLEbn9TXQ2oFUA" playOrder="348">
+      <navLabel>
+        <text>གཉིས་པ་གྲུབ་མཐའི་དབྱེ་བ་བྱེ་བྲག་ཏུ་བཤད་པ་ལ་གཉིས། མིང་མདོར་བསྟན། མཚན་ཉིད་རྒྱས་པར་བཤད་པའོ། །དང་པོ་༼མིང་མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-348"/>
+    </navPoint>
+    <navPoint class="chapter" id="ucJ7ujVOw2FphqnaEmqcLl4" playOrder="349">
+      <navLabel>
+        <text>གཉིས་པ་༼མཚན་ཉིད་རྒྱས་པར་བཤད་པ་༽ལ་གཉིས། སེམས་ཙམ་པ་དང༌། དབུ་མའི་ལུགས་བཤད་པའོ། །དང་པོ་༼སེམས་ཙམ་པ་༽ལ་གསུམ། སྒྲ་དོན་ངེས་ཚིག གཞི་བདུན་དུ་བསྡུ་བ། རབ་ཏུ་དབྱེ་བ་བཤད་པའོ། །དང་པོ་༼སྒྲ་དོན་ངེས་ཚིག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-349"/>
+    </navPoint>
+    <navPoint class="chapter" id="uNdMKSoluS49aFmmYIXKGI9" playOrder="350">
+      <navLabel>
+        <text>གཉིས་པ་༼གཞི་བདུན་དུ་བསྡུ་བ་༽ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-350"/>
+    </navPoint>
+    <navPoint class="chapter" id="uAzqpFvpbcH8q5afUPipFw8" playOrder="351">
+      <navLabel>
+        <text>གཉིས་པ་རྒྱས་པར་བཤད་པ་ལ་བདུན། ཤེས་བྱའི་གནས། དེའི་མཚན་ཉིད། དེའི་དོན་ལ་འཇུག་པ། དེའི་རྒྱུ་འབྲས། དེའི་རབ་དབྱེ། བསླབ་པ་གསུམ། སྦྱངས་པའི་འབྲས་བུའོ། །དང་པོ་༼ཤེས་བྱའི་གནས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-351"/>
+    </navPoint>
+    <navPoint class="chapter" id="uHd9paiZnQd5wIUOTUDfZE6" playOrder="352">
+      <navLabel>
+        <text>གཉིས་པ་དེའི་མཚན་ཉིད་ལ་གསུམ། གདགས་གཞི་གཞན་དབང༌། གདགས་བྱ་ཀུན་བརྟགས། ཁྱབ་བྱེད་ཡོངས་གྲུབ་བོ། །དང་པོ་༼གདགས་གཞི་གཞན་དབང་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-352"/>
+    </navPoint>
+    <navPoint class="chapter" id="ubXVgKtxFBW4UGReGiB65fA" playOrder="353">
+      <navLabel>
+        <text>གཉིས་པ་༼གདགས་བྱ་ཀུན་བརྟགས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-353"/>
+    </navPoint>
+    <navPoint class="chapter" id="ugQHB4TQXRFt67g4qhZkrS3" playOrder="354">
+      <navLabel>
+        <text>གསུམ་པ་༼ཁྱབ་བྱེད་ཡོངས་གྲུབ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-354"/>
+    </navPoint>
+    <navPoint class="chapter" id="uzimNjs3BoDkrSa2zTSnhz2" playOrder="355">
+      <navLabel>
+        <text>གསུམ་པ་འཇུག་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-355"/>
+    </navPoint>
+    <navPoint class="chapter" id="uexKM7LTPdDcSHFBwH8IYkG" playOrder="356">
+      <navLabel>
+        <text>བཞི་པ་དེའི་རྒྱུ་འབྲས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-356"/>
+    </navPoint>
+    <navPoint class="chapter" id="uBGgbA3CGkuCThYRpCUOUKD" playOrder="357">
+      <navLabel>
+        <text>ལྔ་པ་རབ་ཏུ་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-357"/>
+    </navPoint>
+    <navPoint class="chapter" id="uDlBV5NMNvSzZKGy7hE5mM5" playOrder="358">
+      <navLabel>
+        <text>དྲུག་པ་བསླབ་པ་གསུམ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-358"/>
+    </navPoint>
+    <navPoint class="chapter" id="uOnwHCChErZN4PpLCCfzAzB" playOrder="359">
+      <navLabel>
+        <text>བདུན་པ་སྦྱངས་པའི་འབྲས་བུ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-359"/>
+    </navPoint>
+    <navPoint class="chapter" id="unNUPiwTRUJL5z5rYkKo9q6" playOrder="360">
+      <navLabel>
+        <text>གསུམ་པ་རབ་ཏུ་དབྱེ་བ་བཤད་པ་ལ་གཉིས། སྤྱིར་བཤད་པ་དང༌། དབྱེ་བ་དངོས་སོ། །དང་པོ་༼སྤྱིར་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-360"/>
+    </navPoint>
+    <navPoint class="chapter" id="uY3VlrCluyuzLlk7r3Z8XH4" playOrder="361">
+      <navLabel>
+        <text>གཉིས་པ་༼དབྱེ་བ་དངོས་༽ལ་གཉིས། དངོས་དང༌། ཞར་བྱུང་ངོ༌། །དང་པོ་༼དངོས་༽ལ་གཉིས། རྣམ་བདེན་པ། རྣམ་རྫུན་པའི་དབྱེ་བའོ། །དང་པོ་༼རྣམ་བདེན་པ་༽ལའང་གཉིས། སྤྱིར་རྣམ་བདེན་པའི་བཞེད་པ་དང༌། དེའི་བྱེ་བྲག་དབྱེ་བའོ། །དང་པོ་༼སྤྱིར་རྣམ་བདེན་པའི་བཞེད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-361"/>
+    </navPoint>
+    <navPoint class="chapter" id="ufFsUpLAh34CLeA2Av9TXe4" playOrder="362">
+      <navLabel>
+        <text>གཉིས་པ་དེའི་དབྱེ་བ་བརྗོད་པ་ལ་གསུམ། སྒོ་ང་ཕྱེད་ཚལ་པ། གཟུང་འཛིན་གྲངས་མཉམ་པ། སྣ་ཚོགས་གཉིས་མེད་པའོ། །དང་པོ་༼སྒོ་ང་ཕྱེད་ཚལ་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-362"/>
+    </navPoint>
+    <navPoint class="chapter" id="uqOMydovfkB52lj98sSxWEE" playOrder="363">
+      <navLabel>
+        <text>གཉིས་པ་༼གཟུང་འཛིན་གྲངས་མཉམ་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-363"/>
+    </navPoint>
+    <navPoint class="chapter" id="ui2UCeWUOF5anu5GQUPsOlA" playOrder="364">
+      <navLabel>
+        <text>གསུམ་པ་༼སྣ་ཚོགས་གཉིས་མེད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-364"/>
+    </navPoint>
+    <navPoint class="chapter" id="uLfUo4DgNQA9A6mraABU6w3" playOrder="365">
+      <navLabel>
+        <text>གཉིས་པ་རྣམ་རྫུན་པ་ལའང་གཉིས། འདོད་པ་སྤྱིར་བཤད་པ། བྱེ་བྲག་ཏུ་དབྱེ་བའོ། །དང་པོ་༼འདོད་པ་སྤྱིར་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-365"/>
+    </navPoint>
+    <navPoint class="chapter" id="uxW5W4W6nDGTIwZcCwdqJDE" playOrder="366">
+      <navLabel>
+        <text>གཉིས་པ་༼བྱེ་བྲག་ཏུ་དབྱེ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-366"/>
+    </navPoint>
+    <navPoint class="chapter" id="uj7kgKQtLxbhRr2qYSDpULE" playOrder="367">
+      <navLabel>
+        <text>གཉིས་པ་ཞར་བྱུང་ལ་གཉིས། དེ་དག་བཞེད་པ་པོའི་སློབ་དཔོན། དེ་འགོག་ཚུལ་ལོ། །དང་པོ་༼དེ་དག་བཞེད་པ་པོའི་སློབ་དཔོན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-367"/>
+    </navPoint>
+    <navPoint class="chapter" id="uXnJG3jdHHAklbUDGFdEzs8" playOrder="368">
+      <navLabel>
+        <text>གཉིས་པ་༼དེ་འགོག་ཚུལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-368"/>
+    </navPoint>
+    <navPoint class="chapter" id="uATEhiZr4jBzEeTMvB8o2rE" playOrder="369">
+      <navLabel>
+        <text>ཞེས་དབུ་མ་པའི་གྲུབ་མཐའ་འཆད་སྐབས་སུ་གསུངས་པ་ལྟར་རོ། །གཉིས་པ་དབུ་མའི་རྣམ་པར་གཞག་པ་ལ་བདུན། སྒྲ་དོན་ངེས་ཚིག གང་ལ་འཇུག་སྒོ། བསྲུང་བྱའི་སྡོམ་པ། རྟོགས་བྱའི་ལྟ་བ། འཐོབ་བྱའི་འབྲས་བུ། རབ་ཏུ་དབྱེ་བ། གཞི་ལམ་འབྲས་གསུམ་མདོར་བསྡུ་བའོ། །དང་པོ་༼སྒྲ་དོན་ངེས་ཚིག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-369"/>
+    </navPoint>
+    <navPoint class="chapter" id="uJpsAlGEKD7B6a2MSDaoqP2" playOrder="370">
+      <navLabel>
+        <text>གཉིས་པ་གང་ལ་འཇུག་སྒོ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-370"/>
+    </navPoint>
+    <navPoint class="chapter" id="uwOGXRKPLbimLo5T9DJ4OhA" playOrder="371">
+      <navLabel>
+        <text>གསུམ་པ་བསྲུང་བྱའི་སྡོམ་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-371"/>
+    </navPoint>
+    <navPoint class="chapter" id="us4tA4d2FS9gf9ksncZLEZ3" playOrder="372">
+      <navLabel>
+        <text>བཞི་པ་རྟོགས་བྱའི་ལྟ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-372"/>
+    </navPoint>
+    <navPoint class="chapter" id="u5fbhyZOyVyEQOWL4LVBt5D" playOrder="373">
+      <navLabel>
+        <text>ལྔ་པ་འཐོབ་བྱའི་འབྲས་བུ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-373"/>
+    </navPoint>
+    <navPoint class="chapter" id="u6Ra4hWSvw4vhHhCUixiR8F" playOrder="374">
+      <navLabel>
+        <text>དྲུག་པ་རབ་ཏུ་དབྱེ་བ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-374"/>
+    </navPoint>
+    <navPoint class="chapter" id="utsotIgV58wEVdZ8FldvkhD" playOrder="375">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་གཉིས། ཐུན་མོང་མདོ་ལུགས་ཀྱི་དབུ་མ་དང༌། ཟབ་མོ་གསང་སྔགས་ཀྱི་དབུ་མའོ། །དང་པོ་༼ཐུན་མོང་མདོ་ལུགས་ཀྱི་དབུ་མ་༽ལའང་གཉིས། མིང་གི་སྒོ་ནས་མདོར་བསྟན། མཚན་ཉིད་ཀྱི་སྒོ་ནས་རྒྱས་པར་བཤད་པའོ། །དང་པོ་༼མིང་གི་སྒོ་ནས་མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-375"/>
+    </navPoint>
+    <navPoint class="chapter" id="uQI8RS5bv5jRoVCrQMLpvy3" playOrder="376">
+      <navLabel>
+        <text>གཉིས་པ་མཚན་ཉིད་ཀྱི་སྒོ་ནས་རྒྱས་པར་བཤད་པ་ལ་གཉིས། རང་སྟོང༌། གཞན་སྟོང་ངོ༌། །དང་པོ་༼རང་སྟོང༌༽ལ་གཉིས། དབྱེ་བ་མདོར་སྨོས། རྣམ་གཞག་ཞིབ་མོར་བཤད་པའོ། །དང་པོ་༼དབྱེ་བ་མདོར་སྨོས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-376"/>
+    </navPoint>
+    <navPoint class="chapter" id="u2VaBsyrU3uxmxMHs3Rgld7" playOrder="377">
+      <navLabel>
+        <text>གཉིས་པ་རྣམ་གཞག་ཞིབ་མོར་བཤད་པ་ལ་གསུམ། ཐལ་རང་ཐུན་མོང་བའི་ལུགས། དེ་གཉིས་ཀྱི་ཁྱད་པར། དེ་དག་སོ་སོའི་ལུགས་སོ། །དང་པོ་༼ཐལ་རང་ཐུན་མོང་བའི་ལུགས་༽ལ་གཉིས། བདག་མེད་གཉིས། རིགས་པའི་ཚུལ་ལོ། །དང་པོ་༼བདག་མེད་གཉིས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-377"/>
+    </navPoint>
+    <navPoint class="chapter" id="uD5VLc4ZRhxmya2qB7cCVN8" playOrder="378">
+      <navLabel>
+        <text>གཉིས་པ་རིགས་པའི་ཚུལ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-378"/>
+    </navPoint>
+    <navPoint class="chapter" id="uxMeHN23qdEsE9PpDOpMmi9" playOrder="379">
+      <navLabel>
+        <text>གཉིས་པ་དེ་དག་གི་ཁྱད་པར་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-379"/>
+    </navPoint>
+    <navPoint class="chapter" id="umRXndU4zfFrIcCcYRnagr6" playOrder="380">
+      <navLabel>
+        <text>གསུམ་པ་དེ་དག་སོ་སོའི་ལུགས་བཤད་པ་ལ་གཉིས། རང་རྒྱུད་པའི་རྣམ་གཞག ཐལ་འགྱུར་བའི་རྣམ་གཞག་གོ །དང་པོ་༼རང་རྒྱུད་པའི་རྣམ་གཞག་༽ལ་གཉིས། བྱེ་བྲག་གི་དབྱེ་བ་སྨོས། རྣམ་གཞག་མདོ་ཙམ་དུ་འཆད་པའོ། །དང་པོ་༼བྱེ་བྲག་གི་དབྱེ་བ་སྨོས་༽ལའང་གཉིས། མདོ་སྡེ་སྤྱོད་པའི་དབུ་མ་པ་དང༌། རྣལ་འབྱོར་སྤྱོད་པའི་དབུ་མ་པའི་ལུགས་སོ། །དང་པོ་༼མདོ་སྡེ་སྤྱོད་པའི་དབུ་མ་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-380"/>
+    </navPoint>
+    <navPoint class="chapter" id="ufrM3W63niBYw6E3Wn6IsUB" playOrder="381">
+      <navLabel>
+        <text>གཉིས་པ་༼རྣལ་འབྱོར་སྤྱོད་པའི་དབུ་མ་པའི་ལུགས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-381"/>
+    </navPoint>
+    <navPoint class="chapter" id="uhncieAUrRsPxDCXY5CXKY7" playOrder="382">
+      <navLabel>
+        <text>གཉིས་པ་དེ་དག་གི་གྲུབ་མཐའི་རྣམ་གཞག་མདོ་ཙམ་དུ་འཆད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-382"/>
+    </navPoint>
+    <navPoint class="chapter" id="uIK36VJKTf3Oy9FsAKl3y68" playOrder="383">
+      <navLabel>
+        <text>གཉིས་པ་དབུ་མ་ཐལ་འགྱུར་བའི་རྣམ་གཞག་འཆད་པ་ལ་བཞི། ཟླ་བའི་བཞེད་སྲོལ་མདོར་སྨོས། གཞུང་ཕྱི་མོའི་དབུ་མ་འཆད་ཚུལ་སྤྱིར་བསྟན། གཞི་ལམ་འབྲས་གསུམ་བྱེ་བྲག་ཏུ་དབྱེ། གྲུབ་མཐའི་དོན་གཙོ་བོར་བསྡུ་བའོ། །དང་པོ་༼ཟླ་བའི་བཞེད་སྲོལ་མདོར་སྨོས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-383"/>
+    </navPoint>
+    <navPoint class="chapter" id="udLGmBHKp8hNvisTz5WAkt9" playOrder="384">
+      <navLabel>
+        <text>གཉིས་པ་གཞུང་ཕྱི་མོའི་དབུ་མ་འཆད་པ་ལ་གཉིས། སྤྱིར་བསྟན་པ་དང༌། བྱེ་བྲག་ཏུ་བཤད་པའོ། །དང་པོ་༼སྤྱིར་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-384"/>
+    </navPoint>
+    <navPoint class="chapter" id="uaXx6RdGYEy8cWiuNzoIXE6" playOrder="385">
+      <navLabel>
+        <text>གཉིས་པ་བྱེ་བྲག་ཏུ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-385"/>
+    </navPoint>
+    <navPoint class="chapter" id="uBBLH3bD3o5PW6rFbtXWmPC" playOrder="386">
+      <navLabel>
+        <text>གསུམ་པ་གཞི་ལམ་འབྲས་གསུམ་བྱེ་བྲག་ཏུ་བཤད་པ་ལ་གསུམ། གཞི་དབུ་མ་བདེན་གཉིས་ཟུང་འཇུག ལམ་དབུ་མ་ཐབས་ཤེས་ཟུང་འཇུག འབྲས་བུ་དབུ་མ་སྐུ་གཉིས་ཟུང་འཇུག་གོ། །དང་པོ་༼གཞི་དབུ་མ་བདེན་གཉིས་ཟུང་འཇུག་༽ལ་གཉིས། དངོས་དང༌། སྒྲུབ་བྱེད་ཀྱི་ཚུལ་ལོ། །དང་པོ་༼དངོས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-386"/>
+    </navPoint>
+    <navPoint class="chapter" id="uUmYzm2rLGz9tcbqgcNxHPF" playOrder="387">
+      <navLabel>
+        <text>གཉིས་པ་དེ་དག་སྒྲུབ་བྱེད་ཀྱི་ཚུལ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-387"/>
+    </navPoint>
+    <navPoint class="chapter" id="uR297mXZF983DNemUChmITC" playOrder="388">
+      <navLabel>
+        <text>གཉིས་པ་ལམ་དབུ་མ་ཐབས་ཤེས་ཟུང་འཇུག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-388"/>
+    </navPoint>
+    <navPoint class="chapter" id="uMz8UiArVlhckLJvdGnEh8B" playOrder="389">
+      <navLabel>
+        <text>གསུམ་པ་འབྲས་བུ་དབུ་མ་སྐུ་གཉིས་ཟུང་འཇུག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-389"/>
+    </navPoint>
+    <navPoint class="chapter" id="usXRLCSv7HaXJODvwUKrr58" playOrder="390">
+      <navLabel>
+        <text>བཞི་པ་གྲུབ་མཐའི་དོན་གཙོ་བོར་བསྡུ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-390"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVfYbJpjK5XsMNaJszFTmlF" playOrder="391">
+      <navLabel>
+        <text>གཉིས་པ་དབུ་མ་གཞན་སྟོང་གི་ལུགས་འཆད་པ་ལ་གསུམ། ལུགས་སྲོལ་སྤྱིར་བསྟན། རྣམ་གཞག་བྱེ་བྲག་ཏུ་འཆད། འཕྲོས་དོན་སྙིང་ལ་གདམས་པའོ། །དང་པོ་༼ལུགས་སྲོལ་སྤྱིར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-391"/>
+    </navPoint>
+    <navPoint class="chapter" id="uOvHKsj2fdYS2xwecbw4eRC" playOrder="392">
+      <navLabel>
+        <text>གཉིས་པ་རྣམ་གཞག་བྱེ་བྲག་ཏུ་འཆད་པ་ལ་གསུམ། བདེན་པ་གཉིས་གཏན་ལ་འབེབས་ཚུལ། སེམས་ཙམ་གྱི་སྐྱོན་ལས་གྲོལ་ཚུལ། རང་སྟོང་གཞན་སྟོང་ཁྱད་པར་འབྱེད་ཚུལ་སོགས་བཤད་པའོ། །དང་པོ་༼བདེན་པ་གཉིས་གཏན་ལ་འབེབས་ཚུལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-392"/>
+    </navPoint>
+    <navPoint class="chapter" id="uqI6uJ9tWPuJuxUlWrAL9L8" playOrder="393">
+      <navLabel>
+        <text>གཉིས་པ་༼སེམས་ཙམ་གྱི་སྐྱོན་ལས་གྲོལ་ཚུལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-393"/>
+    </navPoint>
+    <navPoint class="chapter" id="uBzKYrSi72kxPkDDX4kYt7E" playOrder="394">
+      <navLabel>
+        <text>གསུམ་པ་༼རང་སྟོང་གཞན་སྟོང་ཁྱད་པར་འབྱེད་ཚུལ་སོགས་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-394"/>
+    </navPoint>
+    <navPoint class="chapter" id="uQhZyIMWc52JRwqJTWonhWD" playOrder="395">
+      <navLabel>
+        <text>གསུམ་པ་འཕྲོས་དོན་སྙིང་ལ་གདམས་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-395"/>
+    </navPoint>
+    <navPoint class="chapter" id="uhiO9TuWuWCTSANfLDDvEW7" playOrder="396">
+      <navLabel>
+        <text>གཉིས་པ་ཟབ་མོ་གསང་སྔགས་ཀྱི་དབུ་མ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-396"/>
+    </navPoint>
+    <navPoint class="chapter" id="uEiFWpC4GWwYVmcoWJGqgTH" playOrder="397">
+      <navLabel>
+        <text>བདུན་པ་དབུ་མ་རྣམས་ཀྱི་བསྟན་བྱ་མདོར་བསྡུ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-397"/>
+    </navPoint>
+    <navPoint class="chapter" id="uHUrHOeQrH6ZvBzXDj9JRG5" playOrder="398">
+      <navLabel>
+        <text>སྐབས་བཞི་པ་གསང་སྔགས་རྡོ་རྗེ་ཐེག་པ་རྣམ་པར་གཞག་པ་ལ།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-398"/>
+    </navPoint>
+    <navPoint class="chapter" id="uBrMI4QyEwxHccvQ3mtwzm2" playOrder="399">
+      <navLabel>
+        <text>གཉིས་པ་སྔགས་ཀྱི་རྣམ་གཞག་བཤད་པ་ལ་གཉིས། སྤྱིར་བསྟན་པ་དང༌། བྱེ་བྲག་ཏུ་བཤད་པའོ། །དང་པོ་༼སྤྱིར་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-399"/>
+    </navPoint>
+    <navPoint class="chapter" id="umpWjuwpgIAgHo5BGBApfwE" playOrder="400">
+      <navLabel>
+        <text>གཉིས་པ་བྱེ་བྲག་ཏུ་བཤད་པ་ལ་གཉིས། རྒྱུད་ཀྱི་རང་བཞིན། བཤད་ཐབས་ཀྱི་མན་ངག་གོ། །དང་པོ་༼རྒྱུད་ཀྱི་རང་བཞིན་༽ལ་གསུམ། ཁྱད་གཞི་སྔགས་རྒྱུད་ཀྱི་རྣམ་གྲངས་བཀོད། མདོ་སྔགས་ཀྱི་ཁྱད་ཆོས་ཞིབ་པར་དབྱེ། ཁྱད་པར་ཅན་སྔགས་ཀྱི་ཚུལ་གཏན་ལ་དབབ་པའོ། །དང་པོ་༼ཁྱད་གཞི་སྔགས་རྒྱུད་ཀྱི་རྣམ་གྲངས་བཀོད་༽ལ་བཞི། ངོ་བོ། མིང་གི་རྣམ་གྲངས། རང་བཞིན། དབྱེ་བའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-400"/>
+    </navPoint>
+    <navPoint class="chapter" id="ug5b3jrhuN7zHOIXterzEzC" playOrder="401">
+      <navLabel>
+        <text>གཉིས་པ་མིང་གི་རྣམ་གྲངས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-401"/>
+    </navPoint>
+    <navPoint class="chapter" id="u3bWRkCea9KOh2EygPRRVwE" playOrder="402">
+      <navLabel>
+        <text>གསུམ་པ་རང་བཞིན་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-402"/>
+    </navPoint>
+    <navPoint class="chapter" id="uchQ4uDRQeFEjftVWvMoMvC" playOrder="403">
+      <navLabel>
+        <text>བཞི་པ་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-403"/>
+    </navPoint>
+    <navPoint class="chapter" id="uc7j3LzR2d3YCBfnLU2hGpD" playOrder="404">
+      <navLabel>
+        <text>གཉིས་པ་མདོ་སྔགས་ཀྱི་ཁྱད་ཆོས་ཞིབ་པར་དབྱེ་བ་ལ་གསུམ། འཕགས་ཡུལ་གྱི་སློབ་དཔོན་རྣམས་ཀྱི་བཞེད་པ་དགོད་ཅིང་དེ་དག་མདོར་དྲིལ། མདོ་རྒྱུད་ཀྱི་མུ་བཞིར་དབྱེ། བོད་ཀྱི་བཤད་ཚུལ་གྱི་གཙོ་བོ་འགོད་པའོ། །དང་པོ་༼འཕགས་ཡུལ་གྱི་སློབ་དཔོན་རྣམས་ཀྱི་བཞེད་པ་དགོད་ཅིང་དེ་དག་མདོར་དྲིལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-404"/>
+    </navPoint>
+    <navPoint class="chapter" id="ufPohB3oTnMj33y3wSkkhPF" playOrder="405">
+      <navLabel>
+        <text>གཉིས་པ་མདོ་རྒྱུད་ཀྱི་མུ་བཞིར་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-405"/>
+    </navPoint>
+    <navPoint class="chapter" id="umfcXlAN4WILhaxDq6NxkS8" playOrder="406">
+      <navLabel>
+        <text>གསུམ་པ་བོད་ཀྱི་བཤད་ཚུལ་གྱི་གཙོ་བོ་སྨོས་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-406"/>
+    </navPoint>
+    <navPoint class="chapter" id="ufrzuhCzG9bSrsahOYiTUY6" playOrder="407">
+      <navLabel>
+        <text>གསུམ་པ་ཁྱད་པར་ཅན་སྔགས་ཀྱི་ཚུལ་གཏན་ལ་དབབ་པ་ལ་བཞི། སྔགས་ཀྱི་ངོ་བོ་ངོས་བཟུང༌། ངེས་ཚིག་སྒྲ་ཡིས་བཤད། སྔགས་རྒྱུད་ཀྱི་དབྱེ་སྒོ་སྤྱིར་བསྟན། རྒྱུད་སྡེ་བཞིའི་རྣམ་གཞག་བྱེ་བྲག་ཏུ་བཤད་པའོ། །དང་པོ་༼སྔགས་ཀྱི་ངོ་བོ་ངོས་བཟུང་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-407"/>
+    </navPoint>
+    <navPoint class="chapter" id="uiMWz35GOwcDEXOpzfxDJ89" playOrder="408">
+      <navLabel>
+        <text>གཉིས་པ་ངེས་ཚིག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-408"/>
+    </navPoint>
+    <navPoint class="chapter" id="uyTj6O67sSea4SeAe82HP9A" playOrder="409">
+      <navLabel>
+        <text>གསུམ་པ་སྔགས་རྒྱུད་ཀྱི་དབྱེ་སྒོ་སྤྱིར་བསྟན་པ་ལ་གཉིས། སྔགས་ཀྱི་ཚུལ་དང༌། རྒྱུད་ཀྱི་དབྱེ་བའོ། །དང་པོ་༼སྔགས་ཀྱི་ཚུལ་༽ལ་གཉིས། དངོས་དང༌། ཞར་བྱུང་སྔགས་རྒྱུད་ཀྱི་དབྱེ་བ་སྨོས་པའོ། །དང་པོ་༼དངོས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-409"/>
+    </navPoint>
+    <navPoint class="chapter" id="uNNZH3Adhs8kFO9oly3aTK7" playOrder="410">
+      <navLabel>
+        <text>གཉིས་པ་༼ཞར་བྱུང་སྔགས་རྒྱུད་ཀྱི་དབྱེ་བ་སྨོས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-410"/>
+    </navPoint>
+    <navPoint class="chapter" id="uS4AJBmH2SiFVQxsDg8REJA" playOrder="411">
+      <navLabel>
+        <text>གཉིས་པ་རྒྱུད་ཀྱི་དབྱེ་བ་བསྟན་པ་ལ་གཉིས། དབྱེ་བའི་རྣམ་གྲངས་སྤྱིར་བསྟན། རྒྱུད་སྡེ་བཞིར་དབྱེ་བའི་རྒྱུ་མཚན་བྱེ་བྲག་ཏུ་བཤད་པའོ། །དང་པོ་༼དབྱེ་བའི་རྣམ་གྲངས་སྤྱིར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-411"/>
+    </navPoint>
+    <navPoint class="chapter" id="uKpZ3UXgwzhRXMcN7RDzpw2" playOrder="412">
+      <navLabel>
+        <text>གཉིས་པ་རྒྱུད་སྡེ་བཞིར་དབྱེ་བའི་ཚུལ་བྱེ་བྲག་ཏུ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-412"/>
+    </navPoint>
+    <navPoint class="chapter" id="uWgTUEvBDG8p4B8XyChBLjD" playOrder="413">
+      <navLabel>
+        <text>བཞི་པ་རྒྱུད་སྡེ་བཞིའི་རྣམ་གཞག་བྱེ་བྲག་ཏུ་བཤད་པ་ལ་གཉིས། བརྗོད་བྱ་དང༌། རྗོད་བྱེད་དོ། །དང་པོ་༼བརྗོད་བྱ་༽ལ་བཞི། བྱ་རྒྱུད། སྤྱོད་རྒྱུད། རྣལ་འབྱོར་རྒྱུད། རྣལ་འབྱོར་བླ་མེད་ཀྱི་རྒྱུད་ཀྱི་རྣམ་གཞག་གོ། །དང་པོ་བྱ་རྒྱུད་ལ་བདུན། སྒྲ་དོན་དང་ངོ་བོ། རྣམ་པར་དབྱེ་བ། འཇུག་སྒོའི་དབང༌། བསྲུང་བྱའི་དམ་སྡོམ། ལམ་མངོན་རྟོགས། བསྒྲུབ་བྱ་དངོས་གྲུབ། ས་ལམ་འབྲས་བུའི་རིམ་པའོ། །དང་པོ་༼སྒྲ་དོན་དང་ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-413"/>
+    </navPoint>
+    <navPoint class="chapter" id="uwlxh7xuqyzjSKW7ZXc5nq5" playOrder="414">
+      <navLabel>
+        <text>གཉིས་པ་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-414"/>
+    </navPoint>
+    <navPoint class="chapter" id="uta5Xp5sLdwCHM5R935pyJ3" playOrder="415">
+      <navLabel>
+        <text>གསུམ་པ་འཇུག་སྒོའི་དབང་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-415"/>
+    </navPoint>
+    <navPoint class="chapter" id="u36MDllmt9Sg9rNG4H4szc7" playOrder="416">
+      <navLabel>
+        <text>བཞི་པ་བསྲུང་བྱའི་དམ་སྡོམ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-416"/>
+    </navPoint>
+    <navPoint class="chapter" id="uyFVSU7jBdFZg7QH3kZDsPA" playOrder="417">
+      <navLabel>
+        <text>གཉིས་པ་གཙོ་བོ་བསྙེན་པའི་དངོས་གཞི་དེ་ཉིད་བཞི་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-417"/>
+    </navPoint>
+    <navPoint class="chapter" id="uFrPrzA6GiPW3jdI5fJanuF" playOrder="418">
+      <navLabel>
+        <text>གཉིས་པ་༼ལྷ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-418"/>
+    </navPoint>
+    <navPoint class="chapter" id="uodhk797hDCv75VEvptRwFA" playOrder="419">
+      <navLabel>
+        <text>གསུམ་པ་༼བཟླས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-419"/>
+    </navPoint>
+    <navPoint class="chapter" id="uxOt6J2brdSt4M8rtFjuXrG" playOrder="420">
+      <navLabel>
+        <text>བཞི་པ་༼བསམ་གཏན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-420"/>
+    </navPoint>
+    <navPoint class="chapter" id="uyHRxVWmVZ4nBHXiDdrn7i5" playOrder="421">
+      <navLabel>
+        <text>གཉིས་པ་སྒྲ་གནས་ཀྱི་དེ་ཉིད་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-421"/>
+    </navPoint>
+    <navPoint class="chapter" id="uicXyAr5vNxTFe4zJP9LDl6" playOrder="422">
+      <navLabel>
+        <text>གསུམ་པ་སྒྲ་མཐའི་དེ་ཉིད་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-422"/>
+    </navPoint>
+    <navPoint class="chapter" id="ujtoIwjg829exo3agrm5Mt8" playOrder="423">
+      <navLabel>
+        <text>གསུམ་པ་སྒྲུབ་པའི་སྤྱོད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-423"/>
+    </navPoint>
+    <navPoint class="chapter" id="upA7ZSdnDuKsHAAgjUhapL7" playOrder="424">
+      <navLabel>
+        <text>བཞི་པ་གྲུབ་པའི་སྤྱོད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-424"/>
+    </navPoint>
+    <navPoint class="chapter" id="upOZ7XxqpbxDAUKUj9ZHbh6" playOrder="425">
+      <navLabel>
+        <text>དྲུག་པ་དངོས་གྲུབ་ཇི་ལྟར་སྒྲུབ་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-425"/>
+    </navPoint>
+    <navPoint class="chapter" id="uRrhuWAGAlaaObbggAcg7R8" playOrder="426">
+      <navLabel>
+        <text>བདུན་པ་ས་ལམ་འབྲས་བུའི་རིམ་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-426"/>
+    </navPoint>
+    <navPoint class="chapter" id="uGvHeckexnrdjswVFTpp576" playOrder="427">
+      <navLabel>
+        <text>གཉིས་པ་སྤྱོད་པའི་རྒྱུད་ཀྱི་རྣམ་པར་གཞག་པ་ལ་བདུན། སྒྲ་དོན་དང་ངོ་བོ། རྣམ་པར་དབྱེ་བ། འཇུག་སྒོའི་དབང༌། བསྲུང་བྱའི་དམ་སྡོམ། ལམ་མངོན་རྟོགས། བསྒྲུབ་བྱའི་དངོས་གྲུབ། ས་ལམ་འབྲས་བུའི་རིམ་པའོ། །དང་པོ་༼སྒྲ་དོན་དང་ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-427"/>
+    </navPoint>
+    <navPoint class="chapter" id="uEQdL5hJ4RzzZXsZDunTmBG" playOrder="428">
+      <navLabel>
+        <text>གཉིས་པ་རྣམ་པར་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-428"/>
+    </navPoint>
+    <navPoint class="chapter" id="uPiSJoFujxm8azKcf4xo4O7" playOrder="429">
+      <navLabel>
+        <text>གསུམ་པ་འཇུག་སྒོའི་དབང་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-429"/>
+    </navPoint>
+    <navPoint class="chapter" id="umBtW43uv3QFIgj59ybzBM8" playOrder="430">
+      <navLabel>
+        <text>བཞི་པ་བསྲུང་བྱའི་དམ་ཚིག་དང་སྡོམ་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-430"/>
+    </navPoint>
+    <navPoint class="chapter" id="uDf6mLcylcqPoxdsy2qeQV6" playOrder="431">
+      <navLabel>
+        <text>ལྔ་པ་ལམ་མངོན་རྟོགས་ཀྱི་རིམ་པ་ལ་གསུམ། འཇུག་པའི་སྤྱོད་པ། སྦྱོར་བའི་སྤྱོད་པ། སྒྲུབ་པའི་སྤྱོད་པའོ། །དང་པོ་༼འཇུག་པའི་སྤྱོད་པ་༽ལ་གཉིས། ཕྱི་འཇུག་དང་ནང་འཇུག་གོ །དང་པོ་ཕྱི་འཇུག་ནི་བཤད་ཟིན། གཉིས་པ་༼ནང་འཇུག་༽ལ་གཉིས། མཚན་བཅས་དང༌། མཚན་མེད་དོ། །དང་པོ་༼མཚན་བཅས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-431"/>
+    </navPoint>
+    <navPoint class="chapter" id="uphnRFGjRwzdFnhjVWdXAc7" playOrder="432">
+      <navLabel>
+        <text>གཉིས་པ་༼མཚན་མེད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-432"/>
+    </navPoint>
+    <navPoint class="chapter" id="ulfaFmT3rB6XsBO8QHF9t93" playOrder="433">
+      <navLabel>
+        <text>གཉིས་པ་སྦྱོར་བའི་སྤྱོད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-433"/>
+    </navPoint>
+    <navPoint class="chapter" id="uxCveA8n25vefrOKpsWkmGH" playOrder="434">
+      <navLabel>
+        <text>གསུམ་པ་སྒྲུབ་པའི་སྤྱོད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-434"/>
+    </navPoint>
+    <navPoint class="chapter" id="uXL3E4ihAmPt4q3QUAwqlP6" playOrder="435">
+      <navLabel>
+        <text>དྲུག་པ་དངོས་གྲུབ་ཇི་ལྟར་སྒྲུབ་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-435"/>
+    </navPoint>
+    <navPoint class="chapter" id="uUrpHYseisnnuB6sGZeetd2" playOrder="436">
+      <navLabel>
+        <text>བདུན་པ་ས་ལམ་འབྲས་བུའི་རིམ་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-436"/>
+    </navPoint>
+    <navPoint class="chapter" id="uHfujnnibWCQptc2KtN7aN7" playOrder="437">
+      <navLabel>
+        <text>གསུམ་པ་རྣལ་འབྱོར་རྒྱུད་ཀྱི་རྣམ་གཞག་བཤད་པ་ལ་བདུན། སྒྲ་དོན་དང་ངོ་བོ། རྣམ་པར་དབྱེ་བ། འཇུག་སྒོའི་དབང་བསྐུར། བསྲུང་བྱའི་དམ་ཚིག ལམ་རིམ་མངོན་རྟོགས། བསྒྲུབ་བྱའི་དངོས་གྲུབ། ས་ལམ་འབྲས་བུའི་རིམ་པའོ། །དང་པོ་༼སྒྲ་དོན་དང་ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-437"/>
+    </navPoint>
+    <navPoint class="chapter" id="ukIxVtsOQlNusRCqVWV6Lk2" playOrder="438">
+      <navLabel>
+        <text>གཉིས་པ་རྣམ་པར་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-438"/>
+    </navPoint>
+    <navPoint class="chapter" id="uAgN9LY55IsMJcRSP5SG4N8" playOrder="439">
+      <navLabel>
+        <text>གསུམ་པ་འཇུག་སྒོའི་དབང་བསྐུར་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-439"/>
+    </navPoint>
+    <navPoint class="chapter" id="uBqDLNR4GwpnyQ6YUEUEq72" playOrder="440">
+      <navLabel>
+        <text>བཞི་པ་བསྲུང་བྱའི་དམ་ཚིག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-440"/>
+    </navPoint>
+    <navPoint class="chapter" id="u9EdxUZakTtf3UsSBHAdbp7" playOrder="441">
+      <navLabel>
+        <text>ལྔ་པ་ལམ་མངོན་རྟོགས་ཀྱི་རིམ་པ་ལ་གཉིས། བསྙེན་པའི་རིམ་པ་དང༌། སྒྲུབ་པའི་རིམ་པའོ། །དང་པོ་༼བསྙེན་པའི་རིམ་པ་༽ལ་གཉིས། ལམ་རིམ་བཞི་སྤྱིར་བསྟན། རྣལ་འབྱོར་དངོས་ཕྱེ་སྟེ་བཤད་པའོ། །དང་པོ་༼ལམ་རིམ་བཞི་སྤྱིར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-441"/>
+    </navPoint>
+    <navPoint class="chapter" id="uI6fQ6K6ccegltOcC44jKw9" playOrder="442">
+      <navLabel>
+        <text>གཉིས་པ་རྣལ་འབྱོར་དངོས་ཕྱེ་སྟེ་བཤད་པ་ལ་གཉིས། མཚན་བཅས་དང༌། མཚན་མེད་དོ། །དང་པོ་༼མཚན་བཅས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-442"/>
+    </navPoint>
+    <navPoint class="chapter" id="uHfZDXGoKkhs5u7Ml2E4NlG" playOrder="443">
+      <navLabel>
+        <text>གཉིས་པ་མཚན་མེད་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-443"/>
+    </navPoint>
+    <navPoint class="chapter" id="uxQxURspXiupBsWHIu5ISQ3" playOrder="444">
+      <navLabel>
+        <text>དྲུག་པ་དངོས་གྲུབ་སྒྲུབ་པའི་རིམ་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-444"/>
+    </navPoint>
+    <navPoint class="chapter" id="uOhp6spcH3iO5IXcAZMD4g2" playOrder="445">
+      <navLabel>
+        <text>དེ་གསུམ་གྱི་དང་པོ་༼བསམ་གཏན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-445"/>
+    </navPoint>
+    <navPoint class="chapter" id="uSYsWWF34ZiOfWH3KECbWJG" playOrder="446">
+      <navLabel>
+        <text>གཉིས་པ་༼བཟླས་བརྗོད་༽ལ་གཉིས།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-446"/>
+    </navPoint>
+    <navPoint class="chapter" id="uKtOU6JeWTuVq2N3LfVAfY3" playOrder="447">
+      <navLabel>
+        <text>གསུམ་པ་༼སྦྱིན་སྲེག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-447"/>
+    </navPoint>
+    <navPoint class="chapter" id="uPITBFXYcEcLahHk7WGQmQ4" playOrder="448">
+      <navLabel>
+        <text>བདུན་པ་ས་ལམ་འབྲས་བུའི་རིམ་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-448"/>
+    </navPoint>
+    <navPoint class="chapter" id="uGSQbV8xoOWGo5dx7CKQRb8" playOrder="449">
+      <navLabel>
+        <text>བཞི་པ་རྣལ་འབྱོར་བླ་མེད་ཀྱི་རྣམ་པར་གཞག་པ་ལ་གཉིས། སྒྲ་དོན་ངོ་བོ། བརྗོད་བྱའི་དོན་གཏན་ལ་དབབ་པའོ། །དང་པོ་༼སྒྲ་དོན་ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-449"/>
+    </navPoint>
+    <navPoint class="chapter" id="uadwDhwSeXsGLDdfqT3M3T2" playOrder="450">
+      <navLabel>
+        <text>གཉིས་པ་༼བརྗོད་བྱའི་དོན་གཏན་ལ་དབབ་པ་༽ལ་བཞི། སྡུད་བྱེད་ཀྱི་ཆིངས་མདོར་བསྟན། དེ་རྟོགས་པར་བྱེད་པའི་ཐབས་སྨོས། སོ་སོའི་རྣམ་གཞག་ཤིན་ཏུ་རྒྱས་པར་བཤད། ལྟ་སྒོམ་སྤྱོད་འབྲས་ཀྱི་དོན་མདོར་བསྡུ་བའོ། །དང་པོ་༼སྡུད་བྱེད་ཀྱི་ཆིངས་མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-450"/>
+    </navPoint>
+    <navPoint class="chapter" id="u6AsbMs4BYmOmecTOcai7ED" playOrder="451">
+      <navLabel>
+        <text>རྒྱུའི་རྒྱུད་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-451"/>
+    </navPoint>
+    <navPoint class="chapter" id="uv443McBs3XMbln6HOqZ6M4" playOrder="452">
+      <navLabel>
+        <text>གཞིའམ་ཐབས་ཀྱི་རྒྱུད་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-452"/>
+    </navPoint>
+    <navPoint class="chapter" id="ubw6dCoMzz7nGOmA8cuwTu5" playOrder="453">
+      <navLabel>
+        <text>གཉིས་པ་རྟོགས་བྱེད་ཀྱི་ཐབས་སྨོས་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-453"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVCpjRBGfTwBWjsm34EhdHC" playOrder="454">
+      <navLabel>
+        <text>གསུམ་པ་སོ་སོའི་རྣམ་གཞག་ཤིན་ཏུ་རྒྱས་པར་འཆད་པ་ལ་གསུམ། དག་བྱ་ཀུན་གཞི་རང་བཞིན་རྒྱུའི་རྒྱུད། དག་བྱེད་ལམ་རིམ་གཞི་རྟེན་ཐབས་ཀྱི་རྒྱུད། དག་པ་མངོན་གྱུར་མི་འཕྲོག་འབྲས་བུའི་རྒྱུད་དོ། །དང་པོ་༼དག་བྱ་ཀུན་གཞི་རང་བཞིན་རྒྱུའི་རྒྱུད་༽ལ་གཉིས། གྲུབ་ཆེན་ཞི་སྦས་ཡབ་སྲས་ཀྱི་བཞེད་པ་དང༌། ཁྱད་པར་མཁས་གྲུབ་ནཱ་རོ་ཡབ་སྲས་ཀྱི་ལུགས་བཤད་པའོ། །དང་པོ་༼གྲུབ་ཆེན་ཞི་སྦས་ཡབ་སྲས་ཀྱི་བཞེད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-454"/>
+    </navPoint>
+    <navPoint class="chapter" id="u8WsMEKtJWbVMe8uN7Ikwq9" playOrder="455">
+      <navLabel>
+        <text>གཉིས་པ་གཙོ་བོ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-455"/>
+    </navPoint>
+    <navPoint class="chapter" id="ubGy3weeiLsDqqJkqdNpMQH" playOrder="456">
+      <navLabel>
+        <text>གསུམ་པ་དེའི་མཚན་ཉིད་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-456"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVqTyMhhCKQ3d2dioywRRqG" playOrder="457">
+      <navLabel>
+        <text>བཞི་པ་མིང་གི་རྣམ་གྲངས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-457"/>
+    </navPoint>
+    <navPoint class="chapter" id="uUt8TnztVWELuREomSBMV7G" playOrder="458">
+      <navLabel>
+        <text>ལྔ་པ་ལྡན་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-458"/>
+    </navPoint>
+    <navPoint class="chapter" id="u43AHbJGthrJdQH2zGsikS9" playOrder="459">
+      <navLabel>
+        <text>དྲུག་པ་གནས་སྐབས་ནི་ལྔ་སྟེ།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-459"/>
+    </navPoint>
+    <navPoint class="chapter" id="uspbKwD4CM5OKi2tVE6fz9B" playOrder="460">
+      <navLabel>
+        <text>བདུན་པ་འགྱུར་བ་མེད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-460"/>
+    </navPoint>
+    <navPoint class="chapter" id="uFN9p7n56mgYoyEOFHVwMOA" playOrder="461">
+      <navLabel>
+        <text>གཉིས་པ་༼ཁྱད་པར་མཁས་གྲུབ་ནཱ་རོ་ཡབ་སྲས་ཀྱི་ལུགས་བཤད་པ་༽ལ་གཉིས། མདོར་བསྟན་པ་དང༌། རྒྱས་པར་བཤད་པའོ། །དང་པོ་༼མདོར་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-461"/>
+    </navPoint>
+    <navPoint class="chapter" id="u7mrdV3bQwT4ycb4nqWxFvC" playOrder="462">
+      <navLabel>
+        <text>གཉིས་པ་རྒྱས་པར་བཤད་པ་ལ་གསུམ། གཙོ་བོ་སེམས་དངོས་པོའི་གནས་ལུགས། ཡན་ལག་ལུས་དངོས་པོའི་གནས་ལུགས། དེ་དག་མཚོན་བྱེད་ཨེ་ཝྃ་སོགས་བཤད་པའོ། །དང་པོ་༼གཙོ་བོ་སེམས་དངོས་པོའི་གནས་ལུགས་༽ལ་གཉིས། དག་པ་གནས་ལུགས་ཀྱི་ངོ་བོ། མ་དག་པ་འཁྲུལ་ལུགས་ཀྱི་སྣང་བ་བཤད་པའོ། །དང་པོ་༼དག་པ་གནས་ལུགས་ཀྱི་ངོ་བ་༽ལ།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-462"/>
+    </navPoint>
+    <navPoint class="chapter" id="un5kduVvxIflmgqnZ4mlxh8" playOrder="463">
+      <navLabel>
+        <text>གཞུང་དོན་དངོས་འཆད་པ་ལ་གཉིས། ཐུན་མོང་ཕར་ཕྱིན་ཐེག་པ་དང་སྒོ་མཐུན་པ། ཐུན་མིན་སྔགས་བླ་མེད་ཀྱི་ཁྱད་ཆོས་ཀྱིས་བརྒྱན་ཏེ་བཤད་པའོ། །དང་པོ་༼ཐུན་མོང་ཕར་ཕྱིན་ཐེག་པ་དང་སྒོ་མཐུན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-463"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZRgDQpwncUODi2voCgO8A7" playOrder="464">
+      <navLabel>
+        <text>གཉིས་པ་ཐུན་མིན་སྔགས་བླ་མེད་ཀྱི་ཁྱད་ཆོས་ཀྱིས་བརྒྱན་ཏེ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-464"/>
+    </navPoint>
+    <navPoint class="chapter" id="uXXfzlfrMbixzIRTaoMWIn9" playOrder="465">
+      <navLabel>
+        <text>གཉིས་པ་མ་དག་པ་འཁྲུལ་ལུགས་ཀྱི་སྣང་བ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-465"/>
+    </navPoint>
+    <navPoint class="chapter" id="uNrWR8if3FdraqnqWeyBgG5" playOrder="466">
+      <navLabel>
+        <text>གཉིས་པ་ཡན་ལག་ལུས་དངོས་པོའི་གནས་ལུགས་བཤད་པ་ལ་གཉིས། བརྟེན་པ་བག་ཆགས་ཀྱི་ལུས། རྟེན་གཉུག་མའི་ལུས་བཤད་པའོ། །དང་པོ་༼བརྟེན་པ་བག་ཆགས་ཀྱི་ལུས་༽ལ་ལྔ། སྐྱེ་བའི་རྟེན། རྩ། རླུང༌། ཐིག་ལེ། གནས་སྐབས་བཞི་བཤད་པའོ། །དང་པོ་༼སྐྱེ་བའི་རྟེན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-466"/>
+    </navPoint>
+    <navPoint class="chapter" id="u7wifDcr5skbz93YlYSe6nB" playOrder="467">
+      <navLabel>
+        <text>གཉིས་པ་རྩ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-467"/>
+    </navPoint>
+    <navPoint class="chapter" id="uRipDTcWduoyFikGsSSbZW3" playOrder="468">
+      <navLabel>
+        <text>གསུམ་པ་རླུང་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-468"/>
+    </navPoint>
+    <navPoint class="chapter" id="ulCPs5k6KexkvUautG8JKJ3" playOrder="469">
+      <navLabel>
+        <text>བཞི་པ་ཐིག་ལེ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-469"/>
+    </navPoint>
+    <navPoint class="chapter" id="uBuc3Wogodv7CftAOgWSe6F" playOrder="470">
+      <navLabel>
+        <text>ལྔ་པ་གནས་སྐབས་བཞི་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-470"/>
+    </navPoint>
+    <navPoint class="chapter" id="uaqxO5TO2AxtQoHqH7JipNA" playOrder="471">
+      <navLabel>
+        <text>གཉིས་པ་རྟེན་གཉུག་མའི་ལུས་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-471"/>
+    </navPoint>
+    <navPoint class="chapter" id="u5CDLhQLcHvxoeJDf3OpNP7" playOrder="472">
+      <navLabel>
+        <text>གསུམ་པ་དེ་དག་མཚོན་བྱེད་ཨེ་ཝྃ་སོགས་བཤད་པ་ལ་གཉིས། ཨེ་ཝྃ་ཟུང་འཇུག་དང་སྦྱར་བ། རྣམ་བཅུ་དབང་ལྡན་དང་སྦྱར་བའོ། །དང་པོ་༼ཨེ་ཝྃ་ཟུང་འཇུག་དང་སྦྱར་བ་༽ལ་གཉིས། མཚོན་བྱེད་དང༌། མཚོན་བྱའོ། །དང་པོ་༼མཚོན་བྱེད་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-472"/>
+    </navPoint>
+    <navPoint class="chapter" id="uTpAtPrAIkx2psIdwnkMQO6" playOrder="473">
+      <navLabel>
+        <text>གཉིས་པ་མཚོན་བྱ་དོན་གྱི་ཨེ་ཝྃ་དང་སྦྱར་ཏེ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-473"/>
+    </navPoint>
+    <navPoint class="chapter" id="uKBqtJDCoMmArByf4NeV4s7" playOrder="474">
+      <navLabel>
+        <text>གཉིས་པ་རྣམ་བཅུ་དབང་ལྡན་དང་སྦྱར་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-474"/>
+    </navPoint>
+    <navPoint class="chapter" id="uSZRhjoXjOxyUckc3IqUHt3" playOrder="475">
+      <navLabel>
+        <text>གཉིས་པ་༼མཚོན་བྱ་༽ལ་གཉིས། རྣམ་བཅུ་དབང་ལྡན་དེ་ཉིད་རྒྱུ་རྒྱུད་ཀྱི་གཤིས་ལ་ཡེ་ཤེས་ཀྱི་ཚུལ་དུ་ཇི་ལྟར་ལྡན་ཚུལ་དང༌། དེའི་རྣམ་འགྱུར་རྣམ་ཤེས་ལས་འཁོར་བའི་སྣོད་བཅུད་ཀྱི་རྣམ་བཅུ་དབང་ལྡན་ཇི་ལྟར་འཆར་བའི་ཚུལ་ལོ། །དང་པོ་༼རྣམ་བཅུ་དབང་ལྡན་དེ་ཉིད་རྒྱུ་རྒྱུད་ཀྱི་གཤིས་ལ་ཡེ་ཤེས་ཀྱི་ཚུལ་དུ་ཇི་ལྟར་ལྡན་ཚུལ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-475"/>
+    </navPoint>
+    <navPoint class="chapter" id="uchsPWkgSQN4tjKl2cSLqs3" playOrder="476">
+      <navLabel>
+        <text>ཟུར་གཉིས་པ་དུས་ཀྱི་འཁོར་ལོ་དང་སྦྱར་བ་ལའང༌།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-476"/>
+    </navPoint>
+    <navPoint class="chapter" id="url9QHllohUgJeuimOQzG9H" playOrder="477">
+      <navLabel>
+        <text>གཉིས་པ་དག་བྱེད་ལམ་རིམ་གཞི་རྟེན་ཐབས་ཀྱི་རྒྱུད་བཤད་པ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-477"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVNidYwfY5dINGkhZ3lMn7H" playOrder="478">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་གཉིས། ཐོག་མར་ལམ་གྱི་གོ་རིམ་མདོར་བསྟན་གྱིས་ངེས་པ་སྐྱེད། གོ་རིམ་ཅན་ལམ་གྱི་རྣམ་གཞག་རྒྱས་པར་སྨོས་པའོ། །དང་པོ་༼ཐོག་མར་ལམ་གྱི་གོ་རིམ་མདོར་བསྟན་གྱིས་ངེས་པ་སྐྱེད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-478"/>
+    </navPoint>
+    <navPoint class="chapter" id="uNgNP35HMnjeJwqEArqJ9o4" playOrder="479">
+      <navLabel>
+        <text>གཉིས་པ་རྣམ་གཞག་རྒྱས་པར་སྨོས་པ་ལ་བཞི། སྨིན་བྱེད་ཀྱི་དབང༌། དམ་ཚིག་དང་སྡོམ་པ། གྲོལ་བྱེད་ཏིང་ངེ་འཛིན། རྒྱུད་ཀྱི་སྦྱོར་བ་རྣམས་སོ། །དང་པོ་༼སྨིན་བྱེད་ཀྱི་དབང༌༽ལ་གསུམ། བསྐུར་གཞིའི་དཀྱིལ་འཁོར་གྱི་དབྱེ་བ། འཇུག་ཡུལ་རྒྱུད་ཀྱི་དབྱེ་བ། དབང་བསྐུར་དངོས་ཀྱི་རྣམ་གཞག་གོ། །དང་པོ་༼བསྐུར་གཞིའི་དཀྱིལ་འཁོར་གྱི་དབྱེ་བ་༽ལའང་གཉིས། དབང་དོན་མདོར་བཤད་པ། དཀྱིལ་འཁོར་རྒྱས་པར་སྨོས་པའོ། །དང་པོ་༼དབང་དོན་མདོར་བཤད་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-479"/>
+    </navPoint>
+    <navPoint class="chapter" id="u7Vpxkkyg2LX2H4hCgbqK3A" playOrder="480">
+      <navLabel>
+        <text>དེ་ལ་ལྔ། དབང་གི་ངོ་བོ། སྒྲ་དོན། དབྱེ་བ། མ་བསྐུར་བའི་ཉེས་དམིགས། བསྐུར་བའི་ཕན་ཡོན་ནོ། །དང་པོ་༼དབང་གི་ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-480"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZHqkvunXZNLAx7N6ncDky2" playOrder="481">
+      <navLabel>
+        <text>གཉིས་པ་༼སྒྲ་དོན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-481"/>
+    </navPoint>
+    <navPoint class="chapter" id="uuU48STMrtCUXyJlnbnxllE" playOrder="482">
+      <navLabel>
+        <text>གསུམ་པ་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-482"/>
+    </navPoint>
+    <navPoint class="chapter" id="uQSjsJYde7yBJMGpxnOtee4" playOrder="483">
+      <navLabel>
+        <text>བཞི་པ་མ་བསྐུར་བའི་ཉེས་དམིགས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-483"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVuEpJtZonJCo3qyopOoLu9" playOrder="484">
+      <navLabel>
+        <text>ལྔ་པ་དབང་བསྐུར་བའི་ཕན་ཡོན་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-484"/>
+    </navPoint>
+    <navPoint class="chapter" id="uoAEUv5Xl67hV89fuo37ptF" playOrder="485">
+      <navLabel>
+        <text>གཉིས་པ་དབང་བསྐུར་གཞིའི་དཀྱིལ་འཁོར་རྒྱས་པར་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-485"/>
+    </navPoint>
+    <navPoint class="chapter" id="uQvyZGlvCRQh3jG82EWDDo5" playOrder="486">
+      <navLabel>
+        <text>གཉིས་པ་འཇུག་ཡུལ་རྒྱུད་ཀྱི་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-486"/>
+    </navPoint>
+    <navPoint class="chapter" id="ugHgzB3DtW4pdyLo82ZbS34" playOrder="487">
+      <navLabel>
+        <text>གསུམ་པ་དབང་བསྐུར་གྱི་རྣམ་གཞག་དངོས་ལ་གསུམ། སྔོན་འགྲོའི་ཆོ་ག དངོས་གཞི་དབང་བསྐུར། བྱེད་ལས་དག་པ་བཤད་པའོ། །དང་པོ་༼སྔོན་འགྲོའི་ཆོ་ག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-487"/>
+    </navPoint>
+    <navPoint class="chapter" id="uEbPHuwGAC7wGwite6P5Lt6" playOrder="488">
+      <navLabel>
+        <text>གཉིས་པ་དངོས་གཞི་དབང་བསྐུར་གྱི་རྣམ་གཞག་ལ་གཉིས། དབྱེ་བ་དང༌། བསྡུ་བའོ། །དང་པོ་༼དབྱེ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-488"/>
+    </navPoint>
+    <navPoint class="chapter" id="uyjQvpcGd4VjgCcu2nqLFk6" playOrder="489">
+      <navLabel>
+        <text>གཞུང་དོན་དབྱེ་བ་དངོས་ལ་གཉིས། བུམ་དབང༌། གོང་མ་རྣམས་སོ། །དང་པོ་༼བུམ་དབང་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-489"/>
+    </navPoint>
+    <navPoint class="chapter" id="ukGUuQezgeQihTqwOQsue5A" playOrder="490">
+      <navLabel>
+        <text>གཉིས་པ་གོང་མ་རྣམས་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-490"/>
+    </navPoint>
+    <navPoint class="chapter" id="ujlg2RBgFXKQzMb7gkbLqe3" playOrder="491">
+      <navLabel>
+        <text>ཤེས་རབ་ཡེ་ཤེས་ཀྱི་དབང་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-491"/>
+    </navPoint>
+    <navPoint class="chapter" id="ucyrIowY473FtJ3ndadq4qC" playOrder="492">
+      <navLabel>
+        <text>དབང་བཞི་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-492"/>
+    </navPoint>
+    <navPoint class="chapter" id="up2AnNhQt7qAFuAqdtGWBV8" playOrder="493">
+      <navLabel>
+        <text>གཉིས་པ་བསྡུ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-493"/>
+    </navPoint>
+    <navPoint class="chapter" id="ugYk9Ktq9TOg5sJbYWxXgk9" playOrder="494">
+      <navLabel>
+        <text>གསུམ་པ་དབང་གི་བྱེད་ལས་དག་པ་དང་བཅས་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-494"/>
+    </navPoint>
+    <navPoint class="chapter" id="us2xrcclevQhnUolMWGVeEG" playOrder="495">
+      <navLabel>
+        <text>གཉིས་པ་བསྲུང་བྱ་དམ་ཚིག་དང་སྡོམ་པའི་ཚུལ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-495"/>
+    </navPoint>
+    <navPoint class="chapter" id="ueqBX4Ls3ZOIx24Fziqqg6G" playOrder="496">
+      <navLabel>
+        <text>གསུམ་པ་བསྒོམ་བྱ་ཏིང་ངེ་འཛིན་བཤད་པ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-496"/>
+    </navPoint>
+    <navPoint class="chapter" id="uQVvJeKvTxorEQe2nIHmJB9" playOrder="497">
+      <navLabel>
+        <text>གཉིས་པ་རྒྱས་པར་བཤད་པ་ལ་གཉིས། བསྐྱེད་པའི་རིམ་པ་དང༌། རྫོགས་པའི་རིམ་པའོ། །དང་པོ་༼བསྐྱེད་པའི་རིམ་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-497"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZRJebWgOjkT7sK8totCty4" playOrder="498">
+      <navLabel>
+        <text>གཉིས་པ་༼རྫོགས་པའི་རིམ་པ་༽ལ་གཉིས། ཤེས་པར་བྱ་བའི་དོན་སྤྱི་བསྡུས་ཏེ་བསྟན། གལ་པོ་ཆེའི་རྣམ་གཞག་བྱེ་བྲག་ཏུ་ཕྱེ་ནས་བཤད་པའོ། །དང་པོ་༼ཤེས་པར་བྱ་བའི་དོན་སྤྱི་བསྡུས་ཏེ་བསྟན་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-498"/>
+    </navPoint>
+    <navPoint class="chapter" id="ujDeksqRdanrsBKnMeIOXvD" playOrder="499">
+      <navLabel>
+        <text>གཉིས་པ་གལ་པོ་ཆེའི་རྣམ་གཞག་བྱེ་བྲག་ཏུ་དབྱེ་བ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-499"/>
+    </navPoint>
+    <navPoint class="chapter" id="uw3vAQuZOKzHEzZKVeZhck3" playOrder="500">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་གཉིས། རྒྱུ་དང་འབྲས་བུའི་རྫོགས་རིམ་མོ། །དང་པོ་༼རྒྱུ་༽ལ་གཉིས། དངོས་དང༌། དེ་ལས་འཕྲོས་པའི་དོན་ནོ། །དང་པོ་༼དངོས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-500"/>
+    </navPoint>
+    <navPoint class="chapter" id="u9jkEkMQ7KTKlETeySqIFKE" playOrder="501">
+      <navLabel>
+        <text>གཉིས་པ་དཀྱིལ་འཁོར་འཁོར་ལོ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-501"/>
+    </navPoint>
+    <navPoint class="chapter" id="uoBd9s8CVNMaScktOPQmscF" playOrder="502">
+      <navLabel>
+        <text>གསུམ་པ་ཕྱག་རྒྱ་ཆེན་མོ་ལ།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-502"/>
+    </navPoint>
+    <navPoint class="chapter" id="uxiEkrC72isxeFIoqolai99" playOrder="503">
+      <navLabel>
+        <text>གཉིས་པ་༼དེ་ལས་འཕྲོས་པའི་དོན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-503"/>
+    </navPoint>
+    <navPoint class="chapter" id="uOPeDvxWryFFSFXsCERYZm3" playOrder="504">
+      <navLabel>
+        <text>གཉིས་པ་འབྲས་བུའི་རྫོགས་རིམ་བཤད་པ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-504"/>
+    </navPoint>
+    <navPoint class="chapter" id="uTMMb4BD8RhQ7GJPImfoy8H" playOrder="505">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་གསུམ། སྟོང༌། སྣང༌། ཟུང་འཇུག་གོ། །དང་པོ་༼སྟོང༌༽ལ་གསུམ། སྣང་བ། རང་བཞིན། དེ་ལས་ཡེ་ཤེས་སྐྱེ་ཚུལ་ལོ། །དང་པོ་༼སྣང་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-505"/>
+    </navPoint>
+    <navPoint class="chapter" id="udiqdTlv6J8V3N7hfvnXDaC" playOrder="506">
+      <navLabel>
+        <text>དོན་དམ་དེ་ཁོ་ན་ཉིད་ཀྱི་སྣང་བ་གསུམ་དང༌། ཀུན་རྫོབ་རྟེན་འབྲེལ་གྱི་སྣང་བ་གསུམ་མོ། །དེ་ལ་དང་པོ་༼དོན་དམ་དེ་ཁོ་ན་ཉིད་ཀྱི་སྣང་བ་གསུམ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-506"/>
+    </navPoint>
+    <navPoint class="chapter" id="uoZ6KJx9556AcWe7KR69xgA" playOrder="507">
+      <navLabel>
+        <text>དང་པོ་༼རང་བཞིན་དང་བཅས་པའི་སྣང་བ་གསུམ་༽ལ་དབྱེ་ན། གཞིའི་དུས་ཀྱི་སྣང་བ་གསུམ་དང༌། ལམ་གྱི་དུས་ཀྱི་སྣང་བ་གསུམ་མོ། །གཞི་དུས་ལ་དབྱེ་ན། རྒྱུན་ཆགས་པའི་སྣང་བ་གསུམ་དང༌། ཁྱད་པར་གྱི་དུས་སུ་འབྱུང་བའི་སྣང་བ་གསུམ་མོ། །དེའི་དང་པོ་༼རྒྱུན་ཆགས་པའི་སྣང་བ་གསུམ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-507"/>
+    </navPoint>
+    <navPoint class="chapter" id="uKYnL4qoEY4pAv6BT96QhiB" playOrder="508">
+      <navLabel>
+        <text>གཉིས་པ་༼ཁྱད་པར་གྱི་དུས་སུ་འབྱུང་བའི་སྣང་བ་གསུམ་༽ལ་འབྱུང་བའི་དུས་ཀྱི་དབྱེ་བས་བཞི་སྟེ། ཆེས་རགས་ཤིང་གསལ་བར་འབྱུང་བ་༢འཆི་བའི་དུས་ཀྱི་དང༌། འབྲིང་དུ་འབྱུང་བ་༣གཉིད་དང་༤འཁྲིག་པའི་དུས་དང༌། ཕྲ་ཞིང་མི་གསལ་བ་འབྱུང་བ་ཚོགས་དྲུག་གི་སྣང་བ་རགས་པར་ཤར་བ་ཐམས་ཅད་ཀྱི་དུས་སོ།།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-508"/>
+    </navPoint>
+    <navPoint class="chapter" id="uNnxJf9h2sA7HFzmt3ACb3C" playOrder="509">
+      <navLabel>
+        <text>ཕྲ་བ་ཡུལ་སྣང་ཐམས་ཅད་ལ་འཆར་བའི་སྣང་གསུམ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-509"/>
+    </navPoint>
+    <navPoint class="chapter" id="u8vIkLEGxhvYc2U9ArqULN8" playOrder="510">
+      <navLabel>
+        <text>གཉིས་པ་ལམ་དུས་ཀྱི་སྣང་བ་གསུམ་ལ་སྐད་ཅིག་གིས་བསྡུས་པའི་སྣང་བ་གསུམ་དང༌། སས་བསྡུས་པའི་སྣང་བ་གསུམ་མོ། །དང་པོ་༼སྐད་ཅིག་གིས་བསྡུས་པའི་སྣང་བ་གསུམ་༽ལ་དབང་༡དུས་ཀྱི་སྣང་བ་གསུམ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-510"/>
+    </navPoint>
+    <navPoint class="chapter" id="uSMtI3STVbz9Z4UJmByG985" playOrder="511">
+      <navLabel>
+        <text>གཉིས་པ་སས་བསྡུས་པའི་སྣང་བ་གསུམ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-511"/>
+    </navPoint>
+    <navPoint class="chapter" id="uVSTSdSi32x75YcKyrPt8l8" playOrder="512">
+      <navLabel>
+        <text>གཉིས་པ་རང་བཞིན་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-512"/>
+    </navPoint>
+    <navPoint class="chapter" id="uKvxQ4Qez3IDwwXrNFb48Y3" playOrder="513">
+      <navLabel>
+        <text>གསུམ་པ་དེ་ལས་ཡེ་ཤེས་འཆར་བའི་ཚུལ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-513"/>
+    </navPoint>
+    <navPoint class="chapter" id="uPHf7nJUCw2UaoxS69HqlT8" playOrder="514">
+      <navLabel>
+        <text>གཉིས་པ་སྣང་ཕྱོགས་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-514"/>
+    </navPoint>
+    <navPoint class="chapter" id="uYNKonfT4uMwALIHoktX7JF" playOrder="515">
+      <navLabel>
+        <text>གསུམ་པ་ཟུང་འཇུག་གི་རྫོགས་རིམ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-515"/>
+    </navPoint>
+    <navPoint class="chapter" id="uz8qZOHSiR3iidSoryxiHJ6" playOrder="516">
+      <navLabel>
+        <text>བཞི་པ་རྒྱུད་ཀྱི་སྦྱོར་བ་བཤད་པ་ལ་གཉིས། ལས་དང༌། གྲོགས་སྤྱོད་པའོ། །དང་པོ་༼ལས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-516"/>
+    </navPoint>
+    <navPoint class="chapter" id="uXfWVA8hcbyWHtqIed8JQp8" playOrder="517">
+      <navLabel>
+        <text>གཉིས་པ་གྲོགས་སྤྱོད་པའི་ཚུལ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-517"/>
+    </navPoint>
+    <navPoint class="chapter" id="uCAsJqK8gUn9WRj6ypdWQMC" playOrder="518">
+      <navLabel>
+        <text>གསུམ་པ་དག་པ་མངོན་གྱུར་མི་འཕྲོག་འབྲས་བུའི་རྒྱུད་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-518"/>
+    </navPoint>
+    <navPoint class="chapter" id="umtyT4kMtIYFyf2IIROUAM6" playOrder="519">
+      <navLabel>
+        <text>བཞི་པ་ལྟ་སྒོམ་སྤྱོད་འབྲས་ཀྱི་དོན་བསྡུ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-519"/>
+    </navPoint>
+    <navPoint class="chapter" id="uSBG3YtgKizedJmDB5Myv6G" playOrder="520">
+      <navLabel>
+        <text>གཉིས་པ་རྗོད་བྱེད་རྒྱུད་ཀྱི་དབྱེ་བ་བཤད་པ་ལ་གཉིས། དངོས་དང༌། ཞར་བྱུང་རྒྱུད་ཀྱི་གནས་སམ་དངོས་པོ་བཤད་པའོ། །དང་པོ་༼དངོས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-520"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZrda2fdqEPXxQQqqAVeZm8" playOrder="521">
+      <navLabel>
+        <text>གཉིས་པ་རྒྱུད་ཀྱི་གནས་སམ་དངོས་པོ་བཤད་པ་ལ་གཉིས། གནས་ལྔ་དང༌། དངོས་པོ་བཅུ་གཅིག་གོ། །དང་པོ་༼གནས་ལྔ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-521"/>
+    </navPoint>
+    <navPoint class="chapter" id="ufGOWMKIBDDEaHdfmCRJW4H" playOrder="522">
+      <navLabel>
+        <text>གཉིས་པ་༼དངོས་པོ་བཅུ་གཅིག་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-522"/>
+    </navPoint>
+    <navPoint class="chapter" id="uBODoQCwSFtwT6SaBXBCcE5" playOrder="523">
+      <navLabel>
+        <text>གཉིས་པ་རྒྱུད་བཤད་ཐབས་ཀྱི་མན་ངག་བཤད་པ་ལ་གསུམ། རྒྱུད་སྡེ་འོག་མ་གསུམ་གྱི་བཤད་ཐབས། བླ་མེད་ཀྱི་བཤད་ཐབས། ཁྱད་པར་མན་ངག་ལུགས་ཀྱི་བཤད་སྲོལ་ལོ། །དང་པོ་༼རྒྱུད་སྡེ་འོག་མ་གསུམ་གྱི་བཤད་ཐབས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-523"/>
+    </navPoint>
+    <navPoint class="chapter" id="ufs9uyEQjONuuwGAavg9e54" playOrder="524">
+      <navLabel>
+        <text>གཉིས་པ་བླ་མེད་ཀྱི་བཤད་ཐབས་ལ་གཉིས། སྤྱི་དང༌། ཁྱད་པར་རོ། །དང་པོ་༼སྤྱི་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-524"/>
+    </navPoint>
+    <navPoint class="chapter" id="uyQttEQqi9VYWgO3jzmEaQ6" playOrder="525">
+      <navLabel>
+        <text>དེ་ལ་དང་པོ་ལྔ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-525"/>
+    </navPoint>
+    <navPoint class="chapter" id="ubhDkqrInAaHHfgqTt48xAA" playOrder="526">
+      <navLabel>
+        <text>གཉིས་པ་རིགས་པ་རྣམ་པ་བཞི་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-526"/>
+    </navPoint>
+    <navPoint class="chapter" id="u6aazeW9uKD4WI3s4dDcXH8" playOrder="527">
+      <navLabel>
+        <text>གསུམ་པ་མཐའ་རྣམ་པ་དྲུག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-527"/>
+    </navPoint>
+    <navPoint class="chapter" id="u4O383h8y7T7hS63Y3tW3T5" playOrder="528">
+      <navLabel>
+        <text>བཞི་པ་ཚུལ་རྣམ་པ་བཞི་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-528"/>
+    </navPoint>
+    <navPoint class="chapter" id="u4CxdjctpsAD3hPjoUvAuYE" playOrder="529">
+      <navLabel>
+        <text>ལྔ་པ་བཤད་པའི་ཚུལ་གཉིས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-529"/>
+    </navPoint>
+    <navPoint class="chapter" id="uYmgRoyKEgeGbKexZwvoSh7" playOrder="530">
+      <navLabel>
+        <text>དྲུག་པ་སྣོད་གང་ཟག་ལྔ་ལ་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-530"/>
+    </navPoint>
+    <navPoint class="chapter" id="u4ei5TulEhtlxbamGVfJYH8" playOrder="531">
+      <navLabel>
+        <text>བདུན་པ་བདེན་པ་གཉིས་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-531"/>
+    </navPoint>
+    <navPoint class="chapter" id="uLNspCmRhA5ZD7NlqhkWx45" playOrder="532">
+      <navLabel>
+        <text>གཉིས་པ་༼ཁྱད་པར་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-532"/>
+    </navPoint>
+    <navPoint class="chapter" id="urkFBW5JrVu4Wi3LlLadpyE" playOrder="533">
+      <navLabel>
+        <text>གསུམ་པ་ཁྱད་པར་མན་ངག་ལུགས་ཀྱི་བཤད་ཐབས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-533"/>
+    </navPoint>
+    <navPoint class="chapter" id="uujZpbvI5flLXyBzLzS2EOC" playOrder="534">
+      <navLabel>
+        <text>རྩ་བའི་གཉིས་པ་གསང་སྔགས་རྙིང་མའི་ལུགས་ཀྱི་རྣམ་པར་གཞག་པ་ལ་གཉིས། མཚམས་སྦྱར་བ་དང༌། རྣམ་གཞག་རྒྱས་པར་བཤད་པའོ། །དང་པོ་༼མཚམས་སྦྱར་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-534"/>
+    </navPoint>
+    <navPoint class="chapter" id="uPrSY3xtAxy2dK8xxPEaj92" playOrder="535">
+      <navLabel>
+        <text>གཉིས་པ་རྣམ་གཞག་དངོས་ལ་གསུམ། བརྗོད་བྱ་ཐེག་རིམ་གྱི་རྣམ་གཞག རྗོད་བྱེད་ཚིག་རྒྱུད་ཀྱི་རྐང་གྲངས། རྒྱུད་བཤད་ཐབས་ཀྱི་ཆིངས་བསྟན་པའོ། །དང་པོ་༼བརྗོད་བྱ་ཐེག་རིམ་གྱི་རྣམ་གཞག་༽ལ་གསུམ། མདོར་བསྟན་གྱིས་རྣམ་པར་དབྱེ། ཐེག་པ་གསུམ་དུ་དོན་བསྡུ། སླར་ཐེག་དགུ་སོ་སོའི་རྣམ་གཞག་རྒྱས་པར་བཤད་པའོ། །དང་པོ་༼མདོར་བསྟན་གྱིས་རྣམ་པར་དབྱེ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-535"/>
+    </navPoint>
+    <navPoint class="chapter" id="uoyENlhT6R3RCKzwgYSiyTH" playOrder="536">
+      <navLabel>
+        <text>གཉིས་པ་ཐེག་པ་གསུམ་དུ་དོན་བསྡུ་བ་ལ་གཉིས། དོན་བསྡུ་དངོས། གཞི་ལམ་འབྲས་གསུམ་ངོས་བཟུང་བའོ། །དང་པོ་༼དོན་བསྡུ་དངོས་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-536"/>
+    </navPoint>
+    <navPoint class="chapter" id="uIIJmTIVKEHDLiI6V4WtmB4" playOrder="537">
+      <navLabel>
+        <text>གཉིས་པ་༼གཞི་ལམ་འབྲས་གསུམ་ངོས་བཟུང་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-537"/>
+    </navPoint>
+    <navPoint class="chapter" id="uYYmoMYSOiYJQBgp6j4QxY4" playOrder="538">
+      <navLabel>
+        <text>གསུམ་པ་སླར་ཐེག་དགུ་སོ་སོའི་རྣམ་གཞག་རྒྱས་པར་བཤད་པ་ལ་གཉིས། དང་པོ་དྲུག་མིང་ཙམ་སྨོས། ཡོ་ག་གསུམ་རྒྱས་པར་བཤད་པའོ། །དང་པོ་༼དྲུག་མིང་ཙམ་སྨོས་པ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-538"/>
+    </navPoint>
+    <navPoint class="chapter" id="uoSprufgLlmTcghD5lrPiV2" playOrder="539">
+      <navLabel>
+        <text>གཉིས་པ་ཡོ་ག་གསུམ་རྒྱས་པར་བཤད་པ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །དང་པོ་༼མདོར་བསྟན་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-539"/>
+    </navPoint>
+    <navPoint class="chapter" id="ujhYG8kRIBMIpqbTndDnDFA" playOrder="540">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱས་བཤད་༽ལ་ལྔ། རྒྱུད་མ་ཧཱ། ལུང་ཨ་ནུ། མན་ངག་ཨ་ཏི། དེ་དག་གི་དམ་ཚིག རབ་ཏུ་དབྱེ་བ་བཤད་པའོ། །དང་པོ་༼རྒྱུད་མ་ཧཱ་༽ལ་བདུན། ངོ་བོ། ངེས་ཚིག འཇུག་སྒོ། ལྟ་བ། སྒོམ་པ། སྤྱོད་པ། འབྲས་བུའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-540"/>
+    </navPoint>
+    <navPoint class="chapter" id="uUBmrqrsQTW6TzZIl3FpPm4" playOrder="541">
+      <navLabel>
+        <text>གཉིས་པ་ངེས་ཚིག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-541"/>
+    </navPoint>
+    <navPoint class="chapter" id="ulR5GAWmLP2gXN28XTOOOeF" playOrder="542">
+      <navLabel>
+        <text>གསུམ་པ་འཇུག་སྒོ་ལ་གཉིས། དབང་དང༌། བྱ་བའི་འཇུག་སྒོའོ། །དང་པོ་༼དབང་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-542"/>
+    </navPoint>
+    <navPoint class="chapter" id="uNoKUUeOOY7FpM6jzrN8OtD" playOrder="543">
+      <navLabel>
+        <text>གཉིས་པ་བྱ་བའི་འཇུག་སྒོ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-543"/>
+    </navPoint>
+    <navPoint class="chapter" id="uXfEwfS5T2o88cHWQguE8Z8" playOrder="544">
+      <navLabel>
+        <text>བཞི་པ་ལྟ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-544"/>
+    </navPoint>
+    <navPoint class="chapter" id="uCwLFfaaACVDKPpigjjP7q5" playOrder="545">
+      <navLabel>
+        <text>གཉིས་པ་དག་པ་གསུམ་གྱི་གཏན་ཚིགས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-545"/>
+    </navPoint>
+    <navPoint class="chapter" id="up24t535Lqedc3SKAQyyTZ2" playOrder="546">
+      <navLabel>
+        <text>གསུམ་པ་མཉམ་པ་བཞིའི་གཏན་ཚིགས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-546"/>
+    </navPoint>
+    <navPoint class="chapter" id="ui2dJJ7Pdkr6jslnFOwAuCG" playOrder="547">
+      <navLabel>
+        <text>བཞི་པ་བདག་ཉིད་ཆེན་པོའི་གཏན་ཚིགས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-547"/>
+    </navPoint>
+    <navPoint class="chapter" id="uNbBxTbaHXseGdCuz3kLNY2" playOrder="548">
+      <navLabel>
+        <text>ལྔ་པ་སྒོམ་པ་ལ་གཉིས། སྒྲུབ་སྡེ་དང༌། རྒྱུད་སྡེའོ། །དང་པོ་༼སྒྲུབ་སྡེ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-548"/>
+    </navPoint>
+    <navPoint class="chapter" id="u5h5jPBV6yzHHVo8RtrwAe8" playOrder="549">
+      <navLabel>
+        <text>གཉིས་པ་༼རྒྱུད་སྡེ་༽ལ་གཉིས། ཐབས་ལམ་དང༌། གྲོལ་ལམ་མོ། །དང་པོ་༼ཐབས་ལམ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-549"/>
+    </navPoint>
+    <navPoint class="chapter" id="uAeGeNRwqccTpz7p4NaRyyE" playOrder="550">
+      <navLabel>
+        <text>གཉིས་པ་གྲོལ་ལམ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-550"/>
+    </navPoint>
+    <navPoint class="chapter" id="ue8KRWF2VOKJBvrrFcNCjAF" playOrder="551">
+      <navLabel>
+        <text>དྲུག་པ་སྤྱོད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-551"/>
+    </navPoint>
+    <navPoint class="chapter" id="u36lGgyWNEKYhKHQfpAr3pF" playOrder="552">
+      <navLabel>
+        <text>བདུན་པ་འབྲས་བུ་ནི།་་</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-552"/>
+    </navPoint>
+    <navPoint class="chapter" id="uR8V4xc3qspcoNMJlrMMCo2" playOrder="553">
+      <navLabel>
+        <text>གཉིས་པ་ལུང་ཨ་ནུ་ཡོ་གའི་རྣམ་པར་གཞག་པ་ལ་བདུན། ངོ་བོ། ངེས་ཚིག</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-553"/>
+    </navPoint>
+    <navPoint class="chapter" id="uvoXgAdpnj4tKTBOY4ytpn4" playOrder="554">
+      <navLabel>
+        <text>འཇུག་སྒོ། ལྟ་བ། སྒོམ་པ། སྤྱོད་པ། འབྲས་བུའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-554"/>
+    </navPoint>
+    <navPoint class="chapter" id="uoF62KKAfoqWrjwL3A3yd2C" playOrder="555">
+      <navLabel>
+        <text>གཉིས་པ་ངེས་ཚིག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-555"/>
+    </navPoint>
+    <navPoint class="chapter" id="uGhUcQG3m7akAcIeCMxBXXG" playOrder="556">
+      <navLabel>
+        <text>གསུམ་པ་འཇུག་སྒོ་ལ་གཉིས། དབང་དང༌། བྱ་བའི་འཇུག་སྒོའོ། །དང་པོ་༼དབང་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-556"/>
+    </navPoint>
+    <navPoint class="chapter" id="uNECxOzRIn6BcFZTtXWiLm7" playOrder="557">
+      <navLabel>
+        <text>གཉིས་པ་༼བྱ་བའི་འཇུག་སྒོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-557"/>
+    </navPoint>
+    <navPoint class="chapter" id="uOGKBgF8GUf2mfLhAMdwgxC" playOrder="558">
+      <navLabel>
+        <text>བཞི་པ་ལྟ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-558"/>
+    </navPoint>
+    <navPoint class="chapter" id="uqmJTKx2hZrJsl4vkdvUxsB" playOrder="559">
+      <navLabel>
+        <text>ལྔ་པ་སྒོམ་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-559"/>
+    </navPoint>
+    <navPoint class="chapter" id="ugHhFH2mgdlnKPKbcR4R5D7" playOrder="560">
+      <navLabel>
+        <text>དང་པོ་༼ཐབས་ལམ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-560"/>
+    </navPoint>
+    <navPoint class="chapter" id="uH7HiucgJEpFCBu5RVt9jbA" playOrder="561">
+      <navLabel>
+        <text>གཉིས་པ་གྲོལ་ལམ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-561"/>
+    </navPoint>
+    <navPoint class="chapter" id="u8ZVtFEyocBF6DjJntq7vOC" playOrder="562">
+      <navLabel>
+        <text>དྲུག་པ་སྤྱོད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-562"/>
+    </navPoint>
+    <navPoint class="chapter" id="u9O3uqMijblg9IASYTUY7CH" playOrder="563">
+      <navLabel>
+        <text>བདུན་པ་འབྲས་བུ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-563"/>
+    </navPoint>
+    <navPoint class="chapter" id="uZJg9EKkBF6hGKIUmSHzOTB" playOrder="564">
+      <navLabel>
+        <text>གསུམ་པ་མན་ངག་ཨ་ཏི་ཡོ་གའི་རྣམ་པར་གཞག་པ་ལ་བདུན། ངོ་བོ། ངེས་ཚིག འཇུག་སྒོ། ལྟ་བ། སྒོམ་པ། སྤྱོད་པ། འབྲས་བུའོ། །དང་པོ་༼ངོ་བོ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-564"/>
+    </navPoint>
+    <navPoint class="chapter" id="ucfJiho9OuY7RUbxWdXEtl7" playOrder="565">
+      <navLabel>
+        <text>གཉིས་པ་ངེས་ཚིག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-565"/>
+    </navPoint>
+    <navPoint class="chapter" id="uRe9j55WfzPMXIQKFNlgPz9" playOrder="566">
+      <navLabel>
+        <text>གསུམ་པ་འཇུག་སྒོ་ལ་གཉིས། དབང་དང༌། བྱ་བའི་འཇུག་སྒོའོ། །དང་པོ་༼དབང་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-566"/>
+    </navPoint>
+    <navPoint class="chapter" id="uoen4d8Z568AkOcbNl3VN2C" playOrder="567">
+      <navLabel>
+        <text>གཉིས་པ་བྱ་བའི་འཇུག་སྒོ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-567"/>
+    </navPoint>
+    <navPoint class="chapter" id="uLviwYlh77HCYCCrJnEI7WG" playOrder="568">
+      <navLabel>
+        <text>བཞི་པ་ལྟ་བ་ལ་གཉིས། ཨ་ཏི་སྤྱིའི་ལྟ་བ་དང༌། བྱེ་བྲག་སེམས་ཀློང་མན་ངག་གི་དབྱེ་བའོ། །དང་པོ་༼ཨ་ཏི་སྤྱིའི་ལྟ་བ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-568"/>
+    </navPoint>
+    <navPoint class="chapter" id="uzq8b5gLZwMVgulGf9KYZI3" playOrder="569">
+      <navLabel>
+        <text>གཉིས་པ་བྱེ་བྲག་དབྱེ་བ་ལ་གཉིས། དབྱེ་བ་སྤྱི་དང༌། ནང་གསེས་ཀྱི་ཁྱད་པར་ཞིབ་ཏུ་སྨོས་པའོ། །དང་པོ་༼དབྱེ་བ་སྤྱི་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-569"/>
+    </navPoint>
+    <navPoint class="chapter" id="u99UW6PGGdhAmsZom3LgJ8A" playOrder="570">
+      <navLabel>
+        <text>གཉིས་པ་༼ནང་གསེས་ཀྱི་ཁྱད་པར་ཞིབ་ཏུ་སྨོས་པ་༽ལ་གསུམ། སེམས་སྡེ། ཀློང་སྡེ། མན་ངག་སྡེའི་དབྱེ་བའི་ཁྱད་པར་རོ། །དང་པོ་༼སེམས་སྡེའི་དབྱེ་བའི་ཁྱད་པར་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-570"/>
+    </navPoint>
+    <navPoint class="chapter" id="uLhmCJCbISmEflFxuCKNEdF" playOrder="571">
+      <navLabel>
+        <text>གཉིས་པ་ཀློང་སྡེའི་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-571"/>
+    </navPoint>
+    <navPoint class="chapter" id="uoZax3AQqhviIBT6Z6Gr2L9" playOrder="572">
+      <navLabel>
+        <text>གསུམ་པ་མན་ངག་སྡེའི་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-572"/>
+    </navPoint>
+    <navPoint class="chapter" id="u9SUVkcwLU2nv9lQEJ5IOxG" playOrder="573">
+      <navLabel>
+        <text>ལྔ་པ་སྒོམ་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-573"/>
+    </navPoint>
+    <navPoint class="chapter" id="u2tjbNEQiI7xIC7mVVAnj92" playOrder="574">
+      <navLabel>
+        <text>དྲུག་པ་སྤྱོད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-574"/>
+    </navPoint>
+    <navPoint class="chapter" id="up2WR6pJ3ftxaptFXytnyH9" playOrder="575">
+      <navLabel>
+        <text>བདུན་པ་འབྲས་བུ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-575"/>
+    </navPoint>
+    <navPoint class="chapter" id="uOHwtWKcWRReH22GKEWJNND" playOrder="576">
+      <navLabel>
+        <text>བཞི་པ་དེ་དག་གི་དམ་ཚིག་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-576"/>
+    </navPoint>
+    <navPoint class="chapter" id="uknDxYMxwHyonC42g8SxpP9" playOrder="577">
+      <navLabel>
+        <text>ལྔ་པ་དེ་དག་གི་རབ་ཏུ་དབྱེ་བ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-577"/>
+    </navPoint>
+    <navPoint class="chapter" id="uU6aOKCwkVCiMJoY9SjqgmF" playOrder="578">
+      <navLabel>
+        <text>གཉིས་པ་རྗོད་བྱེད་ཚིག་གི་རྒྱུད་ཀྱི་རྐང་གྲངས་བཤད་པ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-578"/>
+    </navPoint>
+    <navPoint class="chapter" id="umulmW9FBvVWlFwVKPKOpO5" playOrder="579">
+      <navLabel>
+        <text>གསུམ་པ་རྒྱུད་བཤད་ཐབས་ཀྱི་མན་ངག་བསྟན་པ་ལ་གསུམ། མ་ཧཱ། ཨ་ནུ། ཨ་ཏིའི་འཆད་ཐབས་སོ། །དང་པོ་༼མ་ཧཱ་༽ལ་གཉིས། སྤྱི་དང༌། བྱེ་བྲག་གོ། །དང་པོ་༼སྤྱི་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-579"/>
+    </navPoint>
+    <navPoint class="chapter" id="u5vFOLK3btmBZmvdVluwlV8" playOrder="580">
+      <navLabel>
+        <text>གཉིས་པ་༼བྱེ་བྲག་༽ལ་གཉིས། རྒྱུད་སྡེ་དང་སྒྲུབ་སྡེའོ། །དང་པོ་༼རྒྱུད་སྡེ་༽ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-580"/>
+    </navPoint>
+    <navPoint class="chapter" id="uh8h9e57eWGueXgXrNW49N7" playOrder="581">
+      <navLabel>
+        <text>གཉིས་པ་སྒྲུབ་སྡེའི་བཤད་ཐབས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-581"/>
+    </navPoint>
+    <navPoint class="chapter" id="u52jdcQ9GHnw2KnezwTTqSH" playOrder="582">
+      <navLabel>
+        <text>གཉིས་པ་ཨ་ནུ་ཡོ་གའི་བཤད་ཐབས་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-582"/>
+    </navPoint>
+    <navPoint class="chapter" id="uvoFqlYmcxUWU3RMSrHjvE5" playOrder="583">
+      <navLabel>
+        <text>གསུམ་པ་ཨ་ཏི་ཡོ་གའི་འཆད་ཚུལ་ནི།</text>
+      </navLabel>
+      <content src="OEBPS/RDI-TOK-06-3.xhtml#_idParaDest-583"/>
+    </navPoint>
+  </navMap>
+</ncx>

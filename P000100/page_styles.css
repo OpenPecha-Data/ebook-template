@@ -1,0 +1,10 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Monlam Uni OuChan2";
+    font-style: normal;
+    font-weight: normal;
+    src: url(OEBPS/font/MonlamUniOuChan2.ttf)
+    }
