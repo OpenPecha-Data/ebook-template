@@ -250,6 +250,31 @@ body {
     margin: 0 0 23px;
     padding: 0
     }
+.tibetan-book-sub-title {
+    -epub-hyphens: none;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #343233;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.88889em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 0 0 23px;
+    padding: 0
+    }
 .tibetan-chapter {
     -epub-hyphens: none;
     border-bottom-width: 0;
