@@ -95,6 +95,41 @@ body {
     text-decoration: none;
     text-transform: uppercase
     }
+.credits-page_epub-edition-line {
+    -epub-hyphens: none;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #343233;
+    display: block;
+    font-family: Georgia, serif;
+    font-size: 0.77778em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.5;
+    orphans: 1;
+    page-break-after: always;
+    page-break-before: auto;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1;
+    margin: 8px 50px 20px;
+    padding: 0
+    }
+.credits-regular {
+    color: #343233;
+    font-family: Georgia, serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none
+    }
 .credits-page_front-page---text-author {
     -epub-hyphens: none;
     border-bottom-width: 0;
