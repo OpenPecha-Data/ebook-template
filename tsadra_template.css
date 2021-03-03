@@ -30,61 +30,6 @@ body {
     margin: 0;
     padding: 0
     }
-._idgenobjectattribute {
-    height: 718px;
-    width: 461px
-    }
-._idgenobjectstyleoverride {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
-    display: block;
-    margin: 0;
-    padding: 0
-    }
-.calibre {
-    -epub-hyphens: auto;
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
-    display: block;
-    font-size: 0.75em;
-    margin: 0 5pt;
-    padding: 0
-    }
-.calibre1 {
-    display: block;
-    font-size: 1.33333em;
-    padding-left: 0;
-    padding-right: 0;
-    margin: 0 5pt
-    }
-.calibre2 {
-    display: block;
-    text-align: center
-    }
-.calibre3 {
-    height: auto;
-    max-width: 100%;
-    width: auto
-    }
-.calibre4 {
-    display: block;
-    font-size: 1.88889em;
-    font-weight: bold;
-    line-height: 1.2;
-    margin: 0.83em 0
-    }
-.calibre5 {
-    display: block;
-    list-style-type: decimal;
-    margin: 1em 0
-    }
-.calibre6 {
-    display: list-item
-    }
 .charoverride {
     color: #343233;
     font-family: "Monlam Uni OuChan2", sans-serif;
@@ -399,6 +344,32 @@ body {
     line-height: 1.8;
     orphans: 1;
     page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 24px;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 0;
+    padding: 0
+    }
+.tibetan-regular-indented1 {
+    -epub-hyphens: none;
+    -epub-text-align-last: left;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #343233;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: always;
     page-break-before: auto;
     text-align: justify;
     text-decoration: none;
