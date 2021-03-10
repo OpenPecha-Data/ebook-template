@@ -79,7 +79,7 @@ body {
     }
 
 /* Author*/
-.credits-page_front-page---text-author {
+.text-author {
     -epub-hyphens: none;
     border-bottom-width: 0;
     border-left-width: 0;
@@ -106,7 +106,7 @@ body {
     }
 
 /* Book number*/
-.credits-page_front-page---book-number {
+.tibetan-book-number {
     -epub-hyphens: none;
     border-bottom-width: 0;
     border-left-width: 0;
@@ -216,7 +216,7 @@ body {
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2", sans-serif;
-    font-size: 1.88889em;
+    font-size: 1.1em;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
@@ -243,7 +243,7 @@ body {
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2", sans-serif;
-    font-size: 1.3em;
+    font-size: 1.1em;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
@@ -390,7 +390,7 @@ body {
     text-transform: uppercase
     }
 
-.tibetan-citations-in-verse_tibetan-citations-middle-lines {
+.tibetan-citations-in-verse {
     -epub-hyphens: none;
     -epub-text-align-last: left;
     border-bottom-width: 0;
@@ -412,12 +412,22 @@ body {
     text-indent: 0;
     text-transform: uppercase;
     widows: 1;
-    margin: 0 0 0 48px;
+    margin: 14px 0 14px 48px;
     padding: 0
     }
 
 /*Footnotes*/
 .tibetan-footnote-reference {
+    color: #343233;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none
+    }
+.tibetan-footnote-marker {
     color: #343233;
     font-family: "Monlam Uni OuChan2", sans-serif;
     font-size: 0.75em;
@@ -439,7 +449,7 @@ body {
     text-decoration: none;
     text-transform: uppercase
     }
-.tibetan-root-text_tibetan-root-text-middle-lines {
+.tibetan-root-text-in-verse {
     -epub-hyphens: none;
     -epub-text-align-last: left;
     border-bottom-width: 0;
@@ -462,7 +472,7 @@ body {
     text-indent: 0;
     text-transform: uppercase;
     widows: 1;
-    margin: 0 48px;
+    margin: 14px 0 14px 48px;
     padding: 0
     }
 
@@ -477,7 +487,7 @@ body {
     color: #005e7f;
     display: block;
     font-family: "Monlam Uni OuChan2", sans-serif;
-    font-size: 1.33333em;
+    font-size: 1em;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
