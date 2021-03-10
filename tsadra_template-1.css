@@ -63,7 +63,7 @@
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2", serif;
-    font-size: 1.88889em;
+    font-size: 1.3em;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
@@ -90,7 +90,7 @@
     color: #343233;
     display: block;
     font-family: Monlam Uni OuChan2;
-    font-size: 1em;
+    font-size: 1.88889em;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
@@ -105,6 +105,16 @@
     widows: 1;
     margin: 20px 0 40px;
     padding: 0
+    }
+.front-page---text-titles {
+    color: #343233;
+    font-family: Monlam Uni OuChan2;
+    font-size: 0.52941em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: uppercase
     }
 
 /* Cover page Title*/
