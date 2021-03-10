@@ -4,32 +4,7 @@
     font-weight: normal;
     src: url(https://github.com/OpenPecha/ebook-template/blob/master/MonlamUniOuChan2.ttf)
     }
-body {
-    -epub-hyphens: none;
-    -epub-text-align-last: left;
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
-    color: #343233;
-    display: block;
-    font-family: "Monlam Uni OuChan2" !important;
-    font-size: 1.33333em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    line-height: 1.8;
-    orphans: 1;
-    page-break-after: auto;
-    page-break-before: auto;
-    text-align: justify, center;
-    text-decoration: none;
-    text-indent: 24px;
-    text-transform: uppercase;
-    widows: 1;
-    margin: 0;
-    padding: 0
-    }
+
 .charoverride {
     color: #343233;
     font-family: "Monlam Uni OuChan2", sans-serif;
@@ -42,7 +17,7 @@ body {
     }
 
 /* Credit page */
-.credits-page_epub-edition-line {
+.credits-page {
     -epub-hyphens: none;
     border-bottom-width: 0;
     border-left-width: 0;
@@ -50,7 +25,7 @@ body {
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: Georgia, serif;
+    font-family: "Monlam Uni OuChan2", serif;
     font-size: 0.77778em;
     font-style: normal;
     font-variant: normal;
@@ -69,7 +44,7 @@ body {
     }
 .credits-regular {
     color: #343233;
-    font-family: Georgia, serif;
+    font-family: "Monlam Uni OuChan2", serif;
     font-size: 1em;
     font-style: normal;
     font-variant: normal;
@@ -79,7 +54,7 @@ body {
     }
 
 /* Author*/
-.credits-page_front-page---text-author {
+.text-author {
     -epub-hyphens: none;
     border-bottom-width: 0;
     border-left-width: 0;
@@ -87,7 +62,7 @@ body {
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: "Tibetan Machine Uni", serif;
+    font-family: "Monlam Uni OuChan2", serif;
     font-size: 1.88889em;
     font-style: normal;
     font-variant: normal;
@@ -106,7 +81,7 @@ body {
     }
 
 /* Book number*/
-.credits-page_front-page---book-number {
+.tibetan-book-number {
     -epub-hyphens: none;
     border-bottom-width: 0;
     border-left-width: 0;
@@ -143,7 +118,7 @@ body {
     }
 
 /* Cover page Title*/
-.credits-page_front-title {
+.cover-page-title {
     -epub-hyphens: none;
     border-bottom-width: 0;
     border-left-width: 0;
@@ -390,7 +365,7 @@ body {
     text-transform: uppercase
     }
 
-.tibetan-citations-in-verse_tibetan-citations-middle-lines {
+.tibetan-citations-in-verse {
     -epub-hyphens: none;
     -epub-text-align-last: left;
     border-bottom-width: 0;
@@ -412,12 +387,23 @@ body {
     text-indent: 0;
     text-transform: uppercase;
     widows: 1;
-    margin: 0 0 0 48px;
+    margin: 14px 0 14px 48px;
     padding: 0
     }
 
 /*Footnotes*/
 .tibetan-footnote-reference {
+    color: #343233;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none
+    }
+
+.tibetan-footnote-marker {
     color: #343233;
     font-family: "Monlam Uni OuChan2", sans-serif;
     font-size: 0.75em;
@@ -439,7 +425,7 @@ body {
     text-decoration: none;
     text-transform: uppercase
     }
-.tibetan-root-text_tibetan-root-text-middle-lines {
+.tibetan-root-text-in-verse {
     -epub-hyphens: none;
     -epub-text-align-last: left;
     border-bottom-width: 0;
@@ -462,7 +448,7 @@ body {
     text-indent: 0;
     text-transform: uppercase;
     widows: 1;
-    margin: 0 48px;
+    margin: 14px 0 14px 48px;
     padding: 0
     }
 
