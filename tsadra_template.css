@@ -2,7 +2,7 @@
     font-family: "Monlam Uni OuChan2";
     font-style: normal;
     font-weight: normal;
-    src: url(https://github.com/OpenPecha/ebook-template/blob/master/Qomolangma-UchenSarchen.ttf)
+    src: url(https://github.com/OpenPecha/ebook-template/blob/master/monlam_uni_ouchan2.ttf)
     }
 .charoverride {
     color: #343233;
@@ -24,7 +24,7 @@
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: Georgia, serif;
+    font-family: "Monlam Uni OuChan2", serif;
     font-size: 0.77778em;
     font-style: normal;
     font-variant: normal;
@@ -43,7 +43,7 @@
     }
 .credits-regular {
     color: #343233;
-    font-family: Georgia, serif;
+    font-family: "Monlam Uni OuChan2", serif;
     font-size: 1em;
     font-style: normal;
     font-variant: normal;
@@ -61,7 +61,7 @@
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: "Tibetan Machine Uni", serif;
+    font-family: "Monlam Uni OuChan2", serif;
     font-size: 1.88889em;
     font-style: normal;
     font-variant: normal;
