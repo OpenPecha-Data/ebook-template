@@ -6,7 +6,7 @@
     }
 .charoverride {
     color: #343233;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 0.75em;
     font-style: normal;
     font-variant: normal;
@@ -24,7 +24,7 @@
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: "Monlam Uni OuChan2", serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 0.77778em;
     font-style: normal;
     font-variant: normal;
@@ -43,7 +43,7 @@
     }
 .credits-regular {
     color: #343233;
-    font-family: "Monlam Uni OuChan2", serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1em;
     font-style: normal;
     font-variant: normal;
@@ -61,7 +61,7 @@
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: "Monlam Uni OuChan2", serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1.88889em;
     font-style: normal;
     font-variant: normal;
@@ -88,7 +88,7 @@
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1.88889em;
     font-style: normal;
     font-variant: normal;
@@ -107,7 +107,7 @@
     }
 .front-page---text-titles {
     color: #343233;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 0.52941em;
     font-style: normal;
     font-variant: normal;
@@ -125,7 +125,7 @@
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1.88889em;
     font-style: normal;
     font-variant: normal;
@@ -144,7 +144,7 @@
     }
 .front-title {
     color: #343233;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1em;
     font-style: normal;
     font-variant: normal;
@@ -162,7 +162,7 @@
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1.33em;
     font-style: normal;
     font-variant: normal;
@@ -188,7 +188,7 @@
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1.33em;
     font-style: normal;
     font-variant: normal;
@@ -215,7 +215,7 @@
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1.1em;
     font-style: normal;
     font-variant: normal;
@@ -236,7 +236,7 @@
 /*Yigchung*/
 .tibetan-commentary-small {
     color: #343233;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 0.75em;
     font-style: normal;
     font-variant: normal;
@@ -255,7 +255,7 @@
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1.25em;
     font-style: normal;
     font-variant: normal;
@@ -281,7 +281,7 @@
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1.25em;
     font-style: normal;
     font-variant: normal;
@@ -307,7 +307,7 @@
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1.25em;
     font-style: normal;
     font-variant: normal;
@@ -333,7 +333,7 @@
     border-top-width: 0;
     color: #343233;
     display: block;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1.25em;
     font-style: normal;
     font-variant: normal;
@@ -354,7 +354,7 @@
 /* Citations */
 .tibetan-external-citations {
     color: #897335;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1em;
     font-style: normal;
     font-variant: normal;
@@ -372,7 +372,7 @@
     border-top-width: 0;
     color: #897335;
     display: block;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
@@ -392,7 +392,7 @@
 /*Footnotes*/
 .tibetan-footnote-reference {
     color: #343233;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 0.75em;
     font-style: normal;
     font-variant: normal;
@@ -402,7 +402,7 @@
     }
 .tibetan-footnote-marker {
     color: #343233;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 0.75em;
     font-style: normal;
     font-variant: normal;
@@ -414,7 +414,7 @@
 /* Tsawa */
 .tibetan-root-text {
     color: #8b1409;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1em;
     font-style: normal;
     font-variant: normal;
@@ -431,7 +431,7 @@
     border-top-width: 0;
     color: #8b1409;
     display: block;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1em;
     font-style: normal;
     font-variant: normal;
@@ -459,7 +459,7 @@
     border-top-width: 0;
     color: #005e7f;
     display: block;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1em;
     font-style: normal;
     font-variant: normal;
@@ -478,7 +478,7 @@
     }
 .tibetan-sabche1 {
     color: #005e7f;
-    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-family: "Monlam Uni OuChan2";
     font-size: 1em;
     font-style: normal;
     font-variant: normal;
