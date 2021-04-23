@@ -17,7 +17,6 @@
 
 /* Credit page */
 .credits-page_epub-edition-line {
-    -epub-hyphens: none;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
@@ -54,7 +53,6 @@
 
 /* Author*/
 .text-author {
-    -epub-hyphens: none;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
@@ -81,7 +79,6 @@
 
 /* Book number*/
 .tibetan-book-number {
-    -epub-hyphens: none;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
@@ -118,7 +115,6 @@
 
 /* Cover page Title*/
 .credits-page_front-title {
-    -epub-hyphens: none;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
@@ -155,7 +151,6 @@
 
 /* Book Title*/
 .tibetan-book-title {
-    -epub-hyphens: none;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
@@ -181,7 +176,6 @@
 
 /* Subtitle*/
 .tibetan-book-sub-title {
-    -epub-hyphens: none;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
@@ -208,7 +202,6 @@
 
 /*Chapters*/
 .tibetan-chapters {
-    -epub-hyphens: none;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
@@ -247,8 +240,6 @@
 
 /*Commentary*/
 .tibetan-commentary-non-indent {
-    -epub-hyphens: none;
-    -epub-text-align-last: left;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
@@ -273,8 +264,6 @@
     padding: 0
     }
 .tibetan-commentary-non-indent1 {
-    -epub-hyphens: none;
-    -epub-text-align-last: left;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
@@ -299,8 +288,6 @@
     padding: 0
     }
 .tibetan-regular-indented {
-    -epub-hyphens: none;
-    -epub-text-align-last: left;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
@@ -325,8 +312,6 @@
     padding: 0
     }
 .tibetan-regular-indented1 {
-    -epub-hyphens: none;
-    -epub-text-align-last: left;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
@@ -352,7 +337,7 @@
     }
 
 /* Citations */
-.tibetan-external-citations {
+.tibetan-citations {
     color: #897335;
     font-family: "Monlam Uni OuChan2";
     font-size: 1em;
@@ -364,8 +349,6 @@
     }
 
 .tibetan-citations-in-verse {
-    -epub-hyphens: none;
-    -epub-text-align-last: left;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
@@ -385,7 +368,55 @@
     text-indent: 0;
     text-transform: uppercase;
     widows: 1;
-    margin: 14px 0 14px 48px;
+    margin: 14px 0 0 48px;
+    padding: 0
+    }
+
+.tibetan-citations-in-verse-middle-line {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #897335;
+    display: block;
+    font-family: "Monlam Uni OuChan2";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 0 0 0 48px;
+    padding: 0
+    }
+
+.tibetan-citations-in-verse-last-line {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #897335;
+    display: block;
+    font-family: "Monlam Uni OuChan2";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 0 0 14px 48px;
     padding: 0
     }
 
@@ -422,9 +453,8 @@
     text-decoration: none;
     text-transform: uppercase
     }
+
 .tibetan-root-text-in-verse {
-    -epub-hyphens: none;
-    -epub-text-align-last: left;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
@@ -449,10 +479,58 @@
     padding: 0
     }
 
+.tibetan-root-text-in-verse-middle-line {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #8b1409;
+    display: block;
+    font-family: "Monlam Uni OuChan2";
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 0 0 0 48px;
+    padding: 0
+    }
+
+.tibetan-root-text-in-verse-last-line {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    color: #8b1409;
+    display: block;
+    font-family: "Monlam Uni OuChan2";
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.8;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 0 0 14px 48px;
+    padding: 0
+    }
+
 /* Sabche */
 .tibetan-sabche {
-    -epub-hyphens: none;
-    -epub-text-align-last: left;
     border-bottom-width: 0;
     border-left-width: 0;
     border-right-width: 0;
