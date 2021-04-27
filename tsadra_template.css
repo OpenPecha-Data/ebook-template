@@ -1,8 +1,8 @@
 @font-face {
-    font-family: 'Monlam Uni OuChan2';
+    font-family: "Monlam Uni OuChan2";
     font-style: normal;
     font-weight: normal;
-    src: url("https://github.com/OpenPecha/ebook-template/blob/master/monlam_uni_ouchan2.ttf?raw=true")
+    src: url(https://github.com/OpenPecha/ebook-template/blob/master/monlam_uni_ouchan2.ttf?raw=true)
     }
 .charoverride {
     color: #343233;
