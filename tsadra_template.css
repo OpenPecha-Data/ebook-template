@@ -17,10 +17,6 @@
 
 /* Credit page */
 .credits-page_epub-edition-line {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2";
@@ -53,10 +49,6 @@
 
 /* Author*/
 .text-author {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2";
@@ -79,10 +71,6 @@
 
 /* Book number*/
 .tibetan-book-number {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2";
@@ -115,10 +103,6 @@
 
 /* Cover page Title*/
 .credits-page_front-title {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2";
@@ -337,16 +321,6 @@
     }
 
 /* Citations */
-.tibetan-external-citations {
-    color: #897335;
-    font-family: "Monlam Uni OuChan2";
-    font-size: 1em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    text-decoration: none;
-    text-transform: uppercase
-    }
 
 .tibetan-citations-in-verse {
     border-bottom-width: 0;
@@ -397,10 +371,6 @@
     }
 
 .tibetan-citations-in-verse-last-line {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #897335;
     display: block;
     font-family: "Monlam Uni OuChan2";
@@ -418,6 +388,19 @@
     widows: 1;
     margin: 0 0 14px 48px;
     padding: 0
+    }
+
+.tibetan-citations-prose {
+    color: #897335;
+    display: block;
+    font-family: "Monlam Uni OuChan2", sans-serif;
+    font-size: 1.33333em;
+    line-height: 1.8;
+    orphans: 1;
+    text-align: justify;
+    text-transform: uppercase;
+    widows: 1;
+    margin: 14px 48px;
     }
 
 /*Footnotes*/
