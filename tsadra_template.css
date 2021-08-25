@@ -21,9 +21,6 @@
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 0.77778em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.5;
     orphans: 1;
     page-break-after: always;
@@ -40,9 +37,6 @@
     color: #343233;
     font-family: "Monlam Uni OuChan2";
     font-size: 1em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     text-decoration: none;
     text-transform: none
     }
@@ -53,9 +47,6 @@
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1.88889em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.5;
     orphans: 1;
     page-break-after: always;
@@ -75,9 +66,6 @@
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1.88889em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: auto;
@@ -94,9 +82,6 @@
     color: #343233;
     font-family: "Monlam Uni OuChan2";
     font-size: 0.52941em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     text-decoration: none;
     text-transform: uppercase
     }
@@ -107,9 +92,6 @@
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1.88889em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.5;
     orphans: 1;
     page-break-after: auto;
@@ -126,26 +108,16 @@
     color: #343233;
     font-family: "Monlam Uni OuChan2";
     font-size: 1em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     text-decoration: none;
     text-transform: none
     }
 
 /* Book Title*/
 .tibetan-book-title {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1.33em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: auto;
@@ -160,17 +132,10 @@
 
 /* Subtitle*/
 .tibetan-book-sub-title {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1.33em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: auto;
@@ -186,17 +151,10 @@
 
 /*Chapters*/
 .tibetan-chapters {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1.1em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.5;
     orphans: 1;
     page-break-after: auto;
@@ -215,26 +173,16 @@
     color: #343233;
     font-family: "Monlam Uni OuChan2";
     font-size: 0.75em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     text-decoration: none;
     text-transform: none
     }
 
 /*Commentary*/
 .tibetan-commentary-non-indent {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1.25em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: auto;
@@ -248,17 +196,10 @@
     padding: 0
     }
 .tibetan-commentary-non-indent1 {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1.25em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: always;
@@ -272,17 +213,10 @@
     padding: 0
     }
 .tibetan-regular-indented {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1.25em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: auto;
@@ -296,17 +230,10 @@
     padding: 0
     }
 .tibetan-regular-indented1 {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #343233;
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1.25em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: always;
@@ -325,24 +252,14 @@
     color: #897335;
     font-family: "Monlam Uni OuChan2";
     font-size: 1em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     text-decoration: none;
     text-transform: uppercase
     }
 
 .tibetan-citations-in-verse {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #897335;
     display: block;
     font-family: "Monlam Uni OuChan2";
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: auto;
@@ -357,16 +274,9 @@
     }
 
 .tibetan-citations-in-verse-middle-line {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #897335;
     display: block;
     font-family: "Monlam Uni OuChan2";
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: auto;
@@ -384,9 +294,6 @@
     color: #897335;
     display: block;
     font-family: "Monlam Uni OuChan2";
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: auto;
@@ -418,9 +325,6 @@
     color: #343233;
     font-family: "Monlam Uni OuChan2";
     font-size: 0.75em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     text-decoration: none;
     text-transform: none
     }
@@ -428,9 +332,6 @@
     color: #343233;
     font-family: "Monlam Uni OuChan2";
     font-size: 0.75em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     text-decoration: none;
     text-transform: none
     }
@@ -440,25 +341,15 @@
     color: #8b1409;
     font-family: "Monlam Uni OuChan2";
     font-size: 1em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     text-decoration: none;
     text-transform: uppercase
     }
 
 .tibetan-root-text-in-verse {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #8b1409;
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: auto;
@@ -473,17 +364,10 @@
     }
 
 .tibetan-root-text-in-verse-middle-line {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #8b1409;
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: auto;
@@ -498,17 +382,10 @@
     }
 
 .tibetan-root-text-in-verse-last-line {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #8b1409;
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: auto;
@@ -519,29 +396,19 @@
     text-transform: uppercase;
     widows: 1;
     margin: 0 0 14px 48px;
-    padding: 0
     }
 
 /* Sabche */
 .tibetan-sabche {
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-right-width: 0;
-    border-top-width: 0;
     color: #005e7f;
     display: block;
     font-family: "Monlam Uni OuChan2";
     font-size: 1em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
     line-height: 1.8;
     orphans: 1;
     page-break-after: auto;
     page-break-before: auto;
     text-align: justify;
-    text-decoration: none;
-    text-indent: 0;
     text-transform: none;
     widows: 1;
     margin: 23px 0 0;
@@ -551,9 +418,5 @@
     color: #005e7f;
     font-family: "Monlam Uni OuChan2";
     font-size: 1em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    text-decoration: none;
     text-transform: uppercase
     }
